@@ -15,5 +15,5 @@ permalink: /publications/
 
 #### Other publications (journals without peer review, book reviews, popular)
 ***  
-- Jurczyk, Thomas. 2019. Review “Considering Comparison. A Method for Religious Studies” by Oliver Freiberger. In: *JRE* (currently under review)
+- Jurczyk, Thomas. 2019. Review “Considering Comparison. A Method for Religious Studies” by Oliver Freiberger. In: *JRE* 12 (2019), 217-219.
 - Jurczyk, Thomas. 2019. Hintergrundinformation: Christ/innen in islamischen Ländern. In: Handreichung Religion, ed. by Sarah Jahn. (publication soon)  

@@ -22,4 +22,4 @@ layout: page
 1. **"Struggling with the Use of Images before the 8th Century CE. The example of an Armenian letter from the 7th century CE"**  
 <sub> Presentation held as part of the panel "Religion is struggling with media. Historical and contemporary conflicts about the use and role of media in religion" at the [International Society for Media, Religion, and Culture (ISMRC) "Media, Religion and Public Scholarship"](https://www.colorado.edu/ismrc/) conference at the University of Boulder (Colorado), August 2018. </sub>  
 &nbsp;  
-[Web Version](presentations/boulder_2018.md) | [PDF Version](/assets/pdf/presentations/boulder_2018.pdf)
+[Web Version](presentations/boulder_2018.md)
