@@ -4,9 +4,12 @@ author: thomas jurczyk
 layout: page
 ---
 
-This page includes projects that I am currently working on.
-
 ## 1. Religious Studies Annotation Project for Machine Learning
+
+[Link to the *Religious Studies Annotation Project for Machine Learning* (currently password protected)](https://python.thomas-jurczyk.com/)
+
+**Note that this site is currently password protected!**
+
 The *Religious Studies Annotation Project for Machine Learning* has set itself the task of annotating short text sequences, which currently consist primarily of Twitter data, by as many (anonymous) people as possible. The annotated data should later be applied for machine learning or other purposes. Currently, the focus of annotation is on the question of whether a text is to be classified as “religious” or “non-religious”. Since it is not always possible to classify a text unambiguously, it is important that as many people as possible take part in the annotation process in order to obtain an average value.
 
 The *Religious Studies Annotation Project for Machine Learning* is a Python web application created with [Flask](https://palletsprojects.com/p/flask/).
@@ -19,8 +22,5 @@ In the future, other text corpora will also be made available for annotation, pr
 
 The annotated corpora should be made freely available at regular intervals and with their current status, so that everyone can use them for their own projects. The names of the respective users who have annotated the corpora will be made anonymous in the downloadable version.
 
-**Note that this site is currently password protected!**
-
 If you wish to participate, please send an email to [contact@thomas-jurczyk.com](mailto:contact@thomas-jurczyk.com)
 
-[Link to the *Religious Studies Annotation Project for Machine Learning* (currently password protected)](https://python.thomas-jurczyk.com/)
