@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.1.0.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="b3498039-9697-41e4-8f83-c839c41c5c0e" data-root-id="1811"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2044">
+          {"5c5f0476-da03-4000-8b2a-aef11b08ec28":{"roots":{"references":[{"attributes":{"ticker":{"id":"1821","type":"DatetimeTicker"}},"id":"1824","type":"Grid"},{"attributes":{"callback":null},"id":"1812","type":"DataRange1d"},{"attributes":{"axis_label":"Anzahl der Beitr\u00e4ge","formatter":{"id":"1860","type":"BasicTickFormatter"},"ticker":{"id":"1826","type":"BasicTicker"}},"id":"1825","type":"LinearAxis"},{"attributes":{"mantissas":[1,2,5],"max_interval":500.0,"num_minor_ticks":0},"id":"1863","type":"AdaptiveTicker"},{"attributes":{},"id":"1826","type":"BasicTicker"},{"attributes":{},"id":"1862","type":"UnionRenderers"},{"attributes":{"dimension":1,"ticker":{"id":"1826","type":"BasicTicker"}},"id":"1829","type":"Grid"},{"attributes":{"base":60,"mantissas":[1,2,5,10,15,20,30],"max_interval":1800000.0,"min_interval":1000.0,"num_minor_ticks":0},"id":"1864","type":"AdaptiveTicker"},{"attributes":{},"id":"1858","type":"DatetimeTickFormatter"},{"attributes":{"align":"center","text":"Yggdrasill Jahresr\u00fcckblick 2019","text_font_size":{"value":"16pt"}},"id":"1843","type":"Title"},{"attributes":{"base":24,"mantissas":[1,2,4,6,8,12],"max_interval":43200000.0,"min_interval":3600000.0,"num_minor_ticks":0},"id":"1865","type":"AdaptiveTicker"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1810","type":"HoverTool"},{"id":"1830","type":"BoxZoomTool"},{"id":"1831","type":"PanTool"},{"id":"1832","type":"SaveTool"},{"id":"1833","type":"ResetTool"},{"id":"1834","type":"WheelZoomTool"}]},"id":"1835","type":"Toolbar"},{"attributes":{"text":""},"id":"1856","type":"Title"},{"attributes":{"overlay":{"id":"1875","type":"BoxAnnotation"}},"id":"1830","type":"BoxZoomTool"},{"attributes":{},"id":"1816","type":"LinearScale"},{"attributes":{"months":[0,1,2,3,4,5,6,7,8,9,10,11]},"id":"1870","type":"MonthsTicker"},{"attributes":{"source":{"id":"1844","type":"ColumnDataSource"}},"id":"1849","type":"CDSView"},{"attributes":{"days":[1,4,7,10,13,16,19,22,25,28]},"id":"1867","type":"DaysTicker"},{"attributes":{"callback":null,"tooltips":[["Monat","@month"],["Top Thema","@top_thema"],["Beitr\u00e4ge zum Top Thema","@top_thema_number"],["Gesamtbeitr\u00e4ge","@mail_topic"]]},"id":"1810","type":"HoverTool"},{"attributes":{"line_alpha":0.5,"line_color":"#1f77b4","x":{"field":"dt_short"},"y":{"field":"mail_topic"}},"id":"1846","type":"Line"},{"attributes":{"fill_color":{"value":"#1f77b4"},"line_color":{"value":"#1f77b4"},"size":{"units":"screen","value":7},"x":{"field":"dt_short"},"y":{"field":"mail_topic"}},"id":"1851","type":"Square"},{"attributes":{"days":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31]},"id":"1866","type":"DaysTicker"},{"attributes":{},"id":"1860","type":"BasicTickFormatter"},{"attributes":{"above":[{"id":"1842","type":"Title"},{"id":"1843","type":"Title"}],"below":[{"id":"1820","type":"DatetimeAxis"}],"center":[{"id":"1824","type":"Grid"},{"id":"1829","type":"Grid"}],"left":[{"id":"1825","type":"LinearAxis"}],"renderers":[{"id":"1848","type":"GlyphRenderer"},{"id":"1853","type":"GlyphRenderer"}],"title":{"id":"1856","type":"Title"},"toolbar":{"id":"1835","type":"Toolbar"},"x_range":{"id":"1812","type":"DataRange1d"},"x_scale":{"id":"1816","type":"LinearScale"},"y_range":{"id":"1814","type":"DataRange1d"},"y_scale":{"id":"1818","type":"LinearScale"}},"id":"1811","subtype":"Figure","type":"Plot"},{"attributes":{"data_source":{"id":"1844","type":"ColumnDataSource"},"glyph":{"id":"1851","type":"Square"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1852","type":"Square"},"selection_glyph":null,"view":{"id":"1854","type":"CDSView"}},"id":"1853","type":"GlyphRenderer"},{"attributes":{},"id":"1861","type":"Selection"},{"attributes":{"months":[0,2,4,6,8,10]},"id":"1871","type":"MonthsTicker"},{"attributes":{"line_alpha":0.1,"line_color":"#1f77b4","x":{"field":"dt_short"},"y":{"field":"mail_topic"}},"id":"1847","type":"Line"},{"attributes":{"data_source":{"id":"1844","type":"ColumnDataSource"},"glyph":{"id":"1846","type":"Line"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1847","type":"Line"},"selection_glyph":null,"view":{"id":"1849","type":"CDSView"}},"id":"1848","type":"GlyphRenderer"},{"attributes":{"days":[1,15]},"id":"1869","type":"DaysTicker"},{"attributes":{"days":[1,8,15,22]},"id":"1868","type":"DaysTicker"},{"attributes":{"months":[0,6]},"id":"1873","type":"MonthsTicker"},{"attributes":{},"id":"1833","type":"ResetTool"},{"attributes":{"callback":null},"id":"1814","type":"DataRange1d"},{"attributes":{"months":[0,4,8]},"id":"1872","type":"MonthsTicker"},{"attributes":{"source":{"id":"1844","type":"ColumnDataSource"}},"id":"1854","type":"CDSView"},{"attributes":{},"id":"1818","type":"LinearScale"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"size":{"units":"screen","value":7},"x":{"field":"dt_short"},"y":{"field":"mail_topic"}},"id":"1852","type":"Square"},{"attributes":{},"id":"1832","type":"SaveTool"},{"attributes":{"axis_label":"Monat/Jahr","formatter":{"id":"1858","type":"DatetimeTickFormatter"},"ticker":{"id":"1821","type":"DatetimeTicker"}},"id":"1820","type":"DatetimeAxis"},{"attributes":{},"id":"1874","type":"YearsTicker"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"1875","type":"BoxAnnotation"},{"attributes":{},"id":"1831","type":"PanTool"},{"attributes":{},"id":"1834","type":"WheelZoomTool"},{"attributes":{"align":"center","text":"Anzahl der Beitr\u00e4ge/Monat plus Top Themen (Stand: 13. November 2019)","text_font_style":"italic"},"id":"1842","type":"Title"},{"attributes":{"callback":null,"data":{"dt_short":{"__ndarray__":"AADAW2uAdkIAAACuZYp2QgAAAM9ok3ZCAABAIWOddkIAAMANC6d2QgAAAGAFsXZCAACATK26dkIAAMCep8R2QgAAAPGhznZCAACA3UnYdkIAAMAvROJ2Qg==","dtype":"float64","shape":[11]},"index":[0,1,2,3,4,5,6,7,8,9,10],"mail_topic":[37,20,12,222,52,37,39,59,24,37,8],"month":[1,2,3,4,5,6,7,8,9,10,11],"top_thema":["[Ygg] Neuerscheinung","[Ygg] In memoriam Heinz M\u00fcrmel","[Ygg] DLF-H\u00f6rspiel: Einh\u00f6rner - \"Das Tier, das es nicht gibt\"","[Ygg] Zum Begriff \"Whiteness\" am Beispiel von Ekemini Uwan","[Ygg] Theology and Religious Studies Provision in UK Higher Education, May 2019","[Ygg] Anthroposophie, Forschungsstand, CfP","[Ygg] Religionswissenschaft in UK","[Ygg] Religions for Peace","[Ygg] Interreligi\u00f6ser Rundbrief f\u00fcr Bonn und Umgebung Nr. 2019-3","[Ygg] Anfrage und Bitte","[Ygg] Fwd: FW: 150 Years Mahatma Gandhi @ Gutenberg University Mainz"],"top_thema_number":[2,2,2,53,19,2,7,10,2,5,1]},"selected":{"id":"1861","type":"Selection"},"selection_policy":{"id":"1862","type":"UnionRenderers"}},"id":"1844","type":"ColumnDataSource"},{"attributes":{"num_minor_ticks":5,"tickers":[{"id":"1863","type":"AdaptiveTicker"},{"id":"1864","type":"AdaptiveTicker"},{"id":"1865","type":"AdaptiveTicker"},{"id":"1866","type":"DaysTicker"},{"id":"1867","type":"DaysTicker"},{"id":"1868","type":"DaysTicker"},{"id":"1869","type":"DaysTicker"},{"id":"1870","type":"MonthsTicker"},{"id":"1871","type":"MonthsTicker"},{"id":"1872","type":"MonthsTicker"},{"id":"1873","type":"MonthsTicker"},{"id":"1874","type":"YearsTicker"}]},"id":"1821","type":"DatetimeTicker"}],"root_ids":["1811"]},"title":"Bokeh Application","version":"1.1.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('2044').textContent;
+                  var render_items = [{"docid":"5c5f0476-da03-4000-8b2a-aef11b08ec28","roots":{"1811":"b3498039-9697-41e4-8f83-c839c41c5c0e"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
