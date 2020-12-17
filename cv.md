@@ -4,7 +4,6 @@ author: thomas jurczyk
 layout: cv
 permalink: /cv/
 ---
-A link to the PDF Version of the CV can be found [here](/assets/pdf/cv.pdf).
 
 ## Personal data
 ***

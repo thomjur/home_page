@@ -4,10 +4,9 @@
 
 layout: home
 title: Welcome!
-exclude: true
 ---
 
-My name is Thomas Jurczyk. I am a historian and scholar in the field of religious studies at the [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en). I submitted my thesis in March 2020. I am currently working as a research assistant at the ["Center for Religious Studies" (CERES)](https://ceres.rub.de/en/) at the Ruhr-University Bochum. I am teaching B.A. courses on Greco-Roman religions and digital methods in the study of religion. My special interest lies in the history of ancient religions and the application of digital methods and quantitative approaches in the study of religion.
+My name is Thomas Jurczyk. I am a historian and scholar in the field of religious studies at the [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en). I defended my PhD thesis in September 2020. I am currently working as a research assistant at the ["Center for Religious Studies" (CERES)](https://ceres.rub.de/en/) at the Ruhr-University Bochum. I am teaching B.A. courses on Greco-Roman religions and digital methods in the study of religion. My special interest are the history of ancient religions and the application of digital methods and quantitative approaches in the study of religion.
 
 Other research interests are:
 
