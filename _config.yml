@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   phd. history and study of religions. greco-roman religions. early christianity.
   early armenian church history. iconoclasm. digital tools and methods. 
 
-#baseurl: "home_page" # the subpath of your site, e.g. /blog
+#baseurl: /home_page # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Juritho
 github_username:  thomjur

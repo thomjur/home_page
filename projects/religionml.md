@@ -1,7 +1,8 @@
 ---
-title: projects
+title: religionml
 author: thomas jurczyk
-layout: page
+layout: article
+exclude: true
 ---
 
 ## ReligionML Corpus Annotation Project for Machine Learning (1.1.8 / 17.12.2020)
