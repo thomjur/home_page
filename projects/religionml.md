@@ -39,7 +39,7 @@ general as possible to apply to a great variety of research questions
 ranging from applications in machine learning or corpus linguistics to
 qualitative-hermeneutic approaches.
 
-![Corpus structure](/assets/images/corpus_structure.png)
+![Corpus structure]({{ site.baseurl }} {% link assets/images/corpus_structure.png %})
 
 The *ReligionML* project is a Python web application created with [Flask](https://palletsprojects.com/p/flask/){:target="_blank"}.
 
@@ -184,7 +184,7 @@ my religion.\"
 *No-religion* means that the text has nothing to do with religion at
 all.
 
-![ Quantitative Annotation (Macro)](/assets/images/quantitative_annotation.png)
+![ Quantitative Annotation (Macro)]({{ site.baseurl }} {% link assets/images/quantitative_annotation.png %})
 
 
 ### Micro Annotation (Qualitative Annotation)
@@ -225,7 +225,7 @@ and will be further developed in the future.
 If you encounter any problems or have suggestions, please send them to
 <contact@thomas-jurczyk.com>.
 
-![Micro Annotation](/assets/images/qualitative_annotation.png)
+![Micro Annotation]({{ site.baseurl }} {% link assets/images/qualitative_annotation.png %})
 
 ### Annotation Process
 
@@ -270,7 +270,7 @@ corpus data are not restricted to machine learning approaches. Instead,
 the annotated *ReligionML* corpus can be used to accomplish a great
 variety of different tasks.
 
-![Possible automated and manual analytical approaches](/assets/images/approaches.png)
+![Possible automated and manual analytical approaches]({{ site.baseurl }} {% link assets/images/approaches.png %})
 
 ### Querying and filtering the annotated corpus
 
