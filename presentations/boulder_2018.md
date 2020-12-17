@@ -4,4 +4,5 @@ author: thomas jurczyk
 layout: page
 exclude: true
 ---
-asd
+
+*Coming soon*
