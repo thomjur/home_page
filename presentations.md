@@ -8,7 +8,7 @@ layout: page
 &nbsp;  
 1. **Yggdrasill Jahresrückblick 2020**  
 **Coming soon**  
-<sub> Overview of the discussions and topics on the Yggdrasill mailing list in 2019 (German only)</sub>
+<sub> Overview of the discussions and topics on the Yggdrasill mailing list in 2020 (German only)</sub>
 
 ## 2019
 ***
@@ -28,5 +28,4 @@ layout: page
 &nbsp;  
 1. **"Struggling with the Use of Images before the 8th Century CE. The example of an Armenian letter from the 7th century CE"**  
 <sub> Presentation held as part of the panel "Religion is struggling with media. Historical and contemporary conflicts about the use and role of media in religion" at the [International Society for Media, Religion, and Culture (ISMRC) "Media, Religion and Public Scholarship"](https://www.colorado.edu/ismrc/) conference at the University of Boulder (Colorado), August 2018. </sub>  
-&nbsp;  
 [Web Version]({{ site.baseurl }}{% link presentations/boulder_2018.md %})

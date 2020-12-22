@@ -112,7 +112,7 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 ***
 &nbsp;  
 **Participation Workshop "Iterative Annotation als linguistische Forschungsmethode​"**  
-University of Heidelberg (online), October 2020 ([LINK](http://graduiertenplattform.sprache-und-wissen.de/workshops/workshop-2020/){:target="_blank"}
+University of Heidelberg (online), October 2020 ([LINK](http://graduiertenplattform.sprache-und-wissen.de/workshops/workshop-2020/){:target="_blank"})
 
 **Participation Hands-On Workshop "Finding Metaphor in Discourse"**  
 University of Basel, November 2018
