@@ -8,7 +8,7 @@ exclude: true
 <sub>**Aktueller Stand:** 26. Dezember 2020</sub>
 
 ## Einführung
-Die folgenden Visualisierungen und Statistiken basieren auf Beiträgen, die während des Jahres 2020 auf der religionswissenschaftlichen Informationsliste [Yggdrasill](https://www.lists.uni-marburg.de/lists/sympa/info/yggdrasill) veröffentlicht worden sind (für die Auswertung der Beiträge aus dem Jahr 2019, klicken Sie bitte [hier]({{ site.baseurl }}{% link short_articles/ygg_2019/yggdrasill2019.md %})). Laut Beschreibung auf der offiziellen Webseite, die von der Universität Marburg gehostet wird, handelt es sich bei Yggdrasill um eine ...
+Die folgenden Visualisierungen und Statistiken basieren auf Beiträgen, die während des Jahres 2020 auf der religionswissenschaftlichen Informationsliste [Yggdrasill](https://www.lists.uni-marburg.de/lists/sympa/info/yggdrasill) veröffentlicht worden sind (für die Auswertung der Beiträge aus dem Jahr 2019 klicken Sie bitte [hier]({{ site.baseurl }}{% link short_articles/ygg_2019/yggdrasill2019.md %})). Laut Beschreibung auf der offiziellen Webseite, die von der Universität Marburg gehostet wird, handelt es sich bei Yggdrasill um eine ...
 
 >  ... religionswissenschaftliche Diskussions- und Informationsliste (...) \[Yggdrasill] ist eine Dienstleistung der Europäischen Gesellschaft für Religionswissenschaft (European Association for the Study of Religions, EASR). Die Diskussionen bei "Yggdrasill" werden hauptsächlich auf Deutsch geführt. Yggdrasill wird gegenwärtig von Sebastian Schüler (Leipzig) betreut.[^1]
 
