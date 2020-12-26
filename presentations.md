@@ -7,8 +7,9 @@ layout: page
 ***
 &nbsp;  
 1. **Yggdrasill Jahresrückblick 2020**  
-**Coming soon**  
 <sub> Overview of the discussions and topics on the Yggdrasill mailing list in 2020 (German only)</sub>
+&nbsp;  
+[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2020/yggdrasill2020.md %})
 
 ## 2019
 ***
@@ -21,7 +22,7 @@ layout: page
 1. **Yggdrasill Jahresrückblick 2019**  
 <sub> Overview of the discussions and topics on the Yggdrasill mailing list in 2019 (German only)</sub>
 &nbsp;  
-[Web Version]({{ site.baseurl }}{% link short_articles/yggdrasill2019.md %})
+[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2019/yggdrasill2019.md %})
 
 ## 2018
 ***

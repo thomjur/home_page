@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.2.3.min.js" integrity="sha384-T2yuo9Oe71Cz/I4X9Ac5+gpEa5a8PpJCDlqKYO0CfAuEszu1JrXLl8YugMqYe3sM" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="22f0b0fa-cb72-4f9b-b412-bddb72d64804" data-root-id="1995"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2115">
+          {"d4db40f7-1c3e-4c13-88b6-7616286731cf":{"roots":{"references":[{"attributes":{},"id":"2026","type":"BasicTickFormatter"},{"attributes":{"items":[{"id":"2032"}]},"id":"2031","type":"Legend"},{"attributes":{"source":{"id":"2017"}},"id":"2022","type":"CDSView"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"2012"}]},"id":"2013","type":"Toolbar"},{"attributes":{"end_angle":{"expr":{"id":"2016"},"units":"rad"},"fill_color":{"field":"color"},"line_color":{"value":"white"},"radius":{"units":"data","value":0.35},"start_angle":{"expr":{"id":"2015"},"units":"rad"},"x":{"value":0},"y":{"value":1}},"id":"2019","type":"Wedge"},{"attributes":{"data":{"angle":{"__ndarray__":"XjVCT/8BEUD4RMY09dT9P4XPDPrWV8U/","dtype":"float64","order":"little","shape":[3]},"color":["#3182bd","#6baed6","#9ecae1"],"index":[0,1,2],"key":["m","w","unbekannt"],"value":[561,246,22]},"selected":{"id":"2030"},"selection_policy":{"id":"2029"}},"id":"2017","type":"ColumnDataSource"},{"attributes":{"field":"angle","include_zero":true},"id":"2015","type":"CumSum"},{"attributes":{},"id":"1996","type":"DataRange1d"},{"attributes":{},"id":"2000","type":"LinearScale"},{"attributes":{"axis_label":null,"formatter":{"id":"2026"},"ticker":{"id":"2009"},"visible":false},"id":"2008","type":"LinearAxis"},{"attributes":{"align":"center","text":"Beitr\u00e4ge nach Titeln in absoluten Zahlen (Stand: 26. Dezember 2020)","text_font_style":"italic"},"id":"2033","type":"Title"},{"attributes":{"label":{"field":"key"},"renderers":[{"id":"2021"}]},"id":"2032","type":"LegendItem"},{"attributes":{"axis_label":null,"formatter":{"id":"2028"},"ticker":{"id":"2005"},"visible":false},"id":"2004","type":"LinearAxis"},{"attributes":{},"id":"2028","type":"BasicTickFormatter"},{"attributes":{},"id":"2029","type":"UnionRenderers"},{"attributes":{"align":"center","text":"Yggdrasill Jahresr\u00fcckblick 2020","text_font_size":{"value":"16pt"}},"id":"2034","type":"Title"},{"attributes":{"field":"angle"},"id":"2016","type":"CumSum"},{"attributes":{"above":[{"id":"2033"},{"id":"2034"}],"below":[{"id":"2004"}],"center":[{"id":"2007"},{"id":"2011"},{"id":"2031"}],"left":[{"id":"2008"}],"outline_line_color":null,"plot_height":350,"renderers":[{"id":"2021"}],"title":{"id":"2024"},"toolbar":{"id":"2013"},"toolbar_location":null,"x_range":{"id":"1996"},"x_scale":{"id":"2000"},"y_range":{"id":"1998"},"y_scale":{"id":"2002"}},"id":"1995","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"2002","type":"LinearScale"},{"attributes":{},"id":"2005","type":"BasicTicker"},{"attributes":{},"id":"2030","type":"Selection"},{"attributes":{},"id":"1998","type":"DataRange1d"},{"attributes":{"axis":{"id":"2004"},"grid_line_color":null,"ticker":null},"id":"2007","type":"Grid"},{"attributes":{"end_angle":{"expr":{"id":"2016"},"units":"rad"},"fill_alpha":{"value":0.1},"fill_color":{"field":"color"},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"radius":{"units":"data","value":0.35},"start_angle":{"expr":{"id":"2015"},"units":"rad"},"x":{"value":0},"y":{"value":1}},"id":"2020","type":"Wedge"},{"attributes":{"data_source":{"id":"2017"},"glyph":{"id":"2019"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2020"},"selection_glyph":null,"view":{"id":"2022"}},"id":"2021","type":"GlyphRenderer"},{"attributes":{"axis":{"id":"2008"},"dimension":1,"grid_line_color":null,"ticker":null},"id":"2011","type":"Grid"},{"attributes":{"text":""},"id":"2024","type":"Title"},{"attributes":{},"id":"2009","type":"BasicTicker"},{"attributes":{"callback":null,"tooltips":"@key: @value"},"id":"2012","type":"HoverTool"}],"root_ids":["1995"]},"title":"Bokeh Application","version":"2.2.3"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('2115').textContent;
+                  var render_items = [{"docid":"d4db40f7-1c3e-4c13-88b6-7616286731cf","root_ids":["1995"],"roots":{"1995":"22f0b0fa-cb72-4f9b-b412-bddb72d64804"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
