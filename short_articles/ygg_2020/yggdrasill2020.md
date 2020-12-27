@@ -25,29 +25,6 @@ Die Datenbasis besteht aus derzeit **829** Mailbeiträgen (+197 zum Vorjahr), di
 ### Anzahl der Beiträge pro Monat plus die Top-Themen
 Der interaktive Plot unter [diesem Link](yggdrasill_2020_overview.html) zeigt die absolute Anzahl an Beiträgen pro Monat an. Wenn die Maus (oder der Finger im Falle eines Smartphones bzw. Tablets) über die Rechtecke geführt wird, wird außerdem das Top-Thema des jeweiligen Monats angezeigt. Die Auswertung der Top-Themen ist nicht immer ganz korrekt, da insbesondere im Jahr 2020 viele Themenstränge unter wechselnden Titeln geführt wurden.
 
-### Anzahl der Beiträge unterteilt nach Gender
-Der *pie chart* unter [diesem Link](pie_chart_gender.html) (interaktive Version) zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2020 geordnet nach Gender der Verfasser/innen. Das Label "unbekannt" wurde vergeben, wenn Listenbeiträge von Organisationen oder nicht identifizierbaren Personen verfasst wurden.
-
-### Anzahl der Beiträge unterteilt nach Titeln
-Der interaktive *pie chart* unter [diesem Link](pie_chart_status.html) zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2020 geordnet nach Titeln der Verfasser/innen. Die Titel sind dabei unterteilt in:
-
-* Professoren
-* Promoviert
-* Kein Titel (Studierende, PhD students usw.)
-
-Da die Titel der einzelnen Personen nicht immer leicht zu ermitteln waren, sind die hier präsentierten Zahlen nur als vage Annäherungen zu verstehen. Habilitierte Personen, die keine feste Professur innehaben, wurden zumeist in die Gruppe "Promoviert" aufgenommen.
-
-### Gruppierung der Beiträge
-
-Der letzte *pie chart* unter [diesem Link](pie_chart_topics.html) (interaktive Version) zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2020 gruppiert nach übergreifenden Themen. Hierbei wurden die folgenden Oberkategorien festgelegt (**Achtung**: Es gibt Änderungen im Vergleich zum Vorjahr 2019, da einige Kategorien wie **Preise** rausgefallen sind bzw. in **Ankündigungen** integriert wurden):
-
-* Die Kategorie **Reflexion & Kritik** beinhaltet Beiträge, die sich mit allgemeinen Fragen und Entwicklungen der Religionswissenschaft beschäftigen. Darunter fallen beispielsweise Themen wie "Verhältnis von Religionswissenschaft und Theologie" oder die Frage nach der Relevanz von Quellensprachen in B.A. Studiengängen der Religionswissenschaft, aber auch der Umgang mit befristeten Stellen etc.
-* Die Kategorien **CfP** sowie **Veranstaltungen** und **Ankündigungen** weisen gewisse Schnittsmengen auf. Unter **Veranstaltungen** werden sämtliche Versammlungsformen gefasst (Workshop, Konferenz, Arbeitskreistreffen usw.). Die Kategorie **CfP** enthält nur Beiträge, in deren Betreffzeile "CfP" oder "Call for Papers" erwähnt wurden. Andere Beiträge, die eventuell ebenfalls als CfPs gewertet werden können, dies aber in der Betreffzeile nicht erwähnen, sind eventuell in anderen Kategorien wie **Veranstaltungen** oder **Ankündigungen** untergekommen.
-* Die Kategorie **Religionswissenschaft** beinhaltet Beiträge, die sich mit konkreten religionswissenschaftlichen Fragen ("Was ist Schamanismus aus rw. Perspektive?") befassen oder nach religionswissenschaftlicher Expertise fragen ("Wer arbeitet noch zu Thema XY?"). Die Kategorie **Religionswissenschaft** überschneidet sich teilweise mit **Reflexion & Kritik**, was insbesondere im Jahr 2020 anhand von Threads und Diskussionen wie der um die ZDF Doku "Juden in Japan" deutlich wurde, die ursprünglich sogar "nur" eine **Ankündigung** war. 
-* Die Kategorie **Publikation** beinhaltet alles, was irgendwie als "schriftlich" festgehalten angekündigt wurde. Darunter fallen Buchpublikationen, Artikel, aber auch Blogs, (schriftliche) Interviews oder Zeitungsartikel.
-* Die Kategorie **Ankündigungen** enthält Bekanntmachungen, wozu u.a. Filmvorführungen, Podiumsdiskussionen, Radiofeatures etc. gehören.
-* Die anderen Kategorien wie **Stellenausschreibungen** (jetzt **CfA**), **Stipendien** oder **Studiengang** sollten selbsterklärend sein.
-
 ### Top 3 Themen jedes Monats
 
 Die folgende Tabelle zeigt die drei meistdiskutierten Themen eines jeden Monats und bietet damit eine Ergänzung zu der Übersicht über die Top-Themen (siehe erster Plot). Sie weist außerdem auf noch bestehende Schwierigkeiten hin, Themen, die eigentlich zusammengehören, aber unter unterschiedlichen Titeln bzw. leicht abgeänderten Betreffzeilen diskutiert werden (siehe März 2020 in der Tabelle), automatisiert zusammenzufassen.
@@ -90,6 +67,42 @@ Die folgende Tabelle zeigt die drei meistdiskutierten Themen eines jeden Monats 
 | DEZ 20 | [Ygg] Nochmals zu Thema "Leitfaden" fürTheologiestudierende zum religionswissenschaftlichen Spracherwerb                                                                               |           47 |
 | | [Ygg] ZDF Info "Japan und die Juden"                                                                                                                                                   |           22 |
 | | [Ygg] Religionsunterricht versus Ethikunterricht oder versus pluralistischer Religionsunterricht?                                                                                    |            7 |
+
+### Anzahl der Beiträge unterteilt nach Gender
+Der *pie chart* unter [diesem Link](pie_chart_gender.html) (interaktive Version) zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2020 geordnet nach Gender der Verfasser/innen. Das Label "unbekannt" wurde vergeben, wenn Listenbeiträge von Organisationen oder nicht identifizierbaren Personen verfasst wurden.
+
+### Anzahl der Beiträge unterteilt nach Titeln
+Der interaktive *pie chart* unter [diesem Link](pie_chart_status.html) zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2020 geordnet nach Titeln der Verfasser/innen. Die Titel sind dabei unterteilt in:
+
+* Professoren
+* Promoviert
+* Kein Titel (Studierende, PhD students usw.)
+
+Da die Titel der einzelnen Personen nicht immer leicht zu ermitteln waren, sind die hier präsentierten Zahlen nur als vage Annäherungen zu verstehen. Habilitierte Personen, die keine feste Professur innehaben, wurden zumeist in die Gruppe "Promoviert" aufgenommen.
+
+### Genderanteil an Statusgruppen
+Die folgende Tabelle bietet eine Übersicht über den prozentualen Anteil der Geschlechter innerhalb der jeweiligen Statusgruppen. **Aufgrund der wackligen Datenbasis bitte mit Vorsicht zu interpretieren!** Auch muss die folgende Auswertung nicht zwingnd repräsentativ für die Gesamtsituation der Religionwissenschaft in Deutschland sein, da sie lediglich auf der an den Diskussionen auf Yggdrasill beteiligten Personen basiert.
+
+|      STATUS   |     GENDER               |   % |
+|:------------|----------------:|---------:|
+| Dr. | m                  | 52 |
+|  | w                  | 48 |
+| Kein Titel | m         | 44  |
+| | w         | 44  |
+| | unbekannt | 12 |
+| Prof. | m |                80      |
+| | w               | 20      |
+
+### Gruppierung der Beiträge
+
+Der letzte *pie chart* unter [diesem Link](pie_chart_topics.html) (interaktive Version) zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2020 gruppiert nach übergreifenden Themen. Hierbei wurden die folgenden Oberkategorien festgelegt (**Achtung**: Es gibt Änderungen im Vergleich zum Vorjahr 2019, da einige Kategorien wie **Preise** rausgefallen sind bzw. in **Ankündigungen** integriert wurden):
+
+* Die Kategorie **Reflexion & Kritik** beinhaltet Beiträge, die sich mit allgemeinen Fragen und Entwicklungen der Religionswissenschaft beschäftigen. Darunter fallen beispielsweise Themen wie "Verhältnis von Religionswissenschaft und Theologie" oder die Frage nach der Relevanz von Quellensprachen in B.A. Studiengängen der Religionswissenschaft, aber auch der Umgang mit befristeten Stellen etc.
+* Die Kategorien **CfP** sowie **Veranstaltungen** und **Ankündigungen** weisen gewisse Schnittsmengen auf. Unter **Veranstaltungen** werden sämtliche Versammlungsformen gefasst (Workshop, Konferenz, Arbeitskreistreffen usw.). Die Kategorie **CfP** enthält nur Beiträge, in deren Betreffzeile "CfP" oder "Call for Papers" erwähnt wurden. Andere Beiträge, die eventuell ebenfalls als CfPs gewertet werden können, dies aber in der Betreffzeile nicht erwähnen, sind eventuell in anderen Kategorien wie **Veranstaltungen** oder **Ankündigungen** untergekommen.
+* Die Kategorie **Religionswissenschaft** beinhaltet Beiträge, die sich mit konkreten religionswissenschaftlichen Fragen ("Was ist Schamanismus aus rw. Perspektive?") befassen oder nach religionswissenschaftlicher Expertise fragen ("Wer arbeitet noch zu Thema XY?"). Die Kategorie **Religionswissenschaft** überschneidet sich teilweise mit **Reflexion & Kritik**, was insbesondere im Jahr 2020 anhand von Threads und Diskussionen wie der um die ZDF Doku "Juden in Japan" deutlich wurde, die ursprünglich sogar "nur" eine **Ankündigung** war. 
+* Die Kategorie **Publikation** beinhaltet alles, was irgendwie als "schriftlich" festgehalten angekündigt wurde. Darunter fallen Buchpublikationen, Artikel, aber auch Blogs, (schriftliche) Interviews oder Zeitungsartikel.
+* Die Kategorie **Ankündigungen** enthält Bekanntmachungen, wozu u.a. Filmvorführungen, Podiumsdiskussionen, Radiofeatures etc. gehören.
+* Die anderen Kategorien wie **Stellenausschreibungen** (jetzt **CfA**), **Stipendien** oder **Studiengang** sollten selbsterklärend sein.
 
 Über Feedback, Hinweise (gerne auch technischer Natur) sowie Ideen für weitere Auswertungen würde ich mich sehr freuen. Gerne können Sie mich unter meiner Mailadresse, die ich auf Yggdrasill nutze, oder aber unter <contact@thomas-jurczyk.com> erreichen.
 
