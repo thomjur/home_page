@@ -3,6 +3,7 @@ title: Yggdrasill Jahresrückblick 2020
 author: thomas jurczyk
 layout: article
 exclude: true
+category: short_contributions
 ---
 
 <sub>**Aktueller Stand:** 26. Dezember 2020</sub>

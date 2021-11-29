@@ -2,6 +2,7 @@
 title: short_contributions
 author: thomas jurczyk
 layout: page
+category: short_contributions
 ---
 ## 2021
 ***

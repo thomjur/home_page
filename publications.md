@@ -3,12 +3,13 @@ title: publications
 author: thomas jurczyk
 layout: page
 permalink: /publications/
+category: publications
 ---
 
 **See also:** [ORCID Profile](https://orcid.org/0000-0002-5943-2305)
 
 #### Monographies
-- Jurczyk, Thomas. 2022. "The Notion of "holy" in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript, 2022. ISBN: 978-3-8376-6181-1
+- Jurczyk, Thomas. 2022 (forthcoming). "The Notion of "holy" in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript. ISBN: 978-3-8376-6181-1
 
 #### Peer-reviewed journal articles
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)

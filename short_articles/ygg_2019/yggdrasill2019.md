@@ -3,6 +3,7 @@ title: Yggdrasill Jahresrückblick 2019
 author: thomas jurczyk
 layout: article
 exclude: true
+category: short_contributions
 ---
 
 <sub>**Aktueller Stand:** 31. Dezember 2019</sub>

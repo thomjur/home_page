@@ -2,6 +2,7 @@
 title: projects
 author: thomas jurczyk
 layout: page
+category: projects
 ---
 
 1. [ReligionML Corpus Annotation for Machine Learning]({{ site.baseurl }}{% link projects/religionml.md %})
