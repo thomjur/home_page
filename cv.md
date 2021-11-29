@@ -25,14 +25,17 @@ Thomas Jurczyk
 Bochum (Germany)
 
 **Mail**  
-<contact@thomas-jurczyk.com>
+<er-contact@rub.de>
+
+**ORCID**  
+[ORCID Profile](https://orcid.org/0000-0002-5943-2305)
 
 ## Education
 ***
 &nbsp;
 
 **Ruhr-University Bochum**, Bochum, September 2020  
-PhD, Thesis: "The Notion of *surb* in Ancient Armenian Texts from the Fifth Century CE"
+PhD, Thesis: "The Notion of *surb* in Ancient Armenian Texts from the Fifth Century CE" (**summa cum laude**)
 
 **Ruhr-University Bochum**, Bochum, March 2014  
 MA, History, Religious Studies (Grade: 1.0)
@@ -53,17 +56,22 @@ BA, Studying Computer Sciences and Mathematics on a part-time basis
 
 ## Publications
 ***
+
+#### Monographies
+- Jurczyk, Thomas. 2022. "The Notion of "holy" in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript, 2022. ISBN: 978-3-8376-6181-1
+
 #### Peer-reviewed journal articles
-- Jurczyk, Thomas. "Unsupervised Learning and K-Means Clustering with Python" (draft sent to *The Programming Historian* for peer-review)
-- Jurczyk, Thomas. "A Quantitative and Comparative Approach towards Multimodality. The (Automated) Analysis of Web Infrastructures and Webdesign of Neoconservative Religious Websites" (publication soon)  
-- Jurczyk, Thomas. "Representation of transcendence: the Armenian letter 'On the image-fighters' from the seventh century CE." *Entangled Religions* 5 (2019): 95–153. [Link to the article](https://er.ceres.rub.de/index.php/ER/article/view/7306)
+- Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
+- Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
+- Jurczyk, Thomas. 2019. "Representation of transcendence: the Armenian letter 'On the image-fighters' from the seventh century CE." *Entangled Religions* 5 (2019): 95–153. [Link to the article](https://er.ceres.rub.de/index.php/ER/article/view/7306)
 
 #### Contributions to edited volumes  
-- Jurczyk, Thomas, "Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In *Bild Macht Religion: Kunst zwischen Verehrung, Verbot und Vernichtung*, edited by Martin Radermacher, Volkhard Krech (a.o.), 114–121. Bochum, 2019.  
+- Jurczyk, Thomas. 2019. "Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In *Bild Macht Religion: Kunst zwischen Verehrung, Verbot und Vernichtung*, edited by Martin Radermacher, Volkhard Krech (a.o.), 114–121. Bochum.  
 
 #### Other publications (journals without peer review, book reviews, popular)  
-- Jurczyk, Thomas, "Review: Considering Comparison. A Method for Religious Studies by Oliver Freiberger." *JRE* 12 (2019): 217-219.
-- Jurczyk, Thomas. "Hintergrundinformation: Christ/innen in islamischen Ländern. In *Religion unterbringen: Regulierung kultureller und religiöser Vielfalt in Flüchtlingsheimen*, edited by Sarah J. Jahn, Lisa Wevelsiep. Veröffentlichung des Centrums für Religionswissenschaftliche Studien Ceres, Bereich Wissenstransfer, Bochum 2020.
+- Jurczyk, Thomas. 2021. "Wie die Welt aus einem großen Familienstreit hervorging." In *Eine Schöpfungsgeschichte aus der griechischen Mythologie*, edited by Kianoosh Rezania, Judith Stander-Dulisch, Franziska Burstyn. Leipzig: Edition Hamouda. ISBN: 	978-39581-70568
+- Jurczyk, Thomas. 2020. "Hintergrundinformation: Christ/innen in islamischen Ländern." In *Religion unterbringen: Regulierung kultureller und religiöser Vielfalt in Flüchtlingsheimen*, edited by Sarah J. Jahn, Lisa Wevelsiep. Veröffentlichung des Centrums für Religionswissenschaftliche Studien Ceres, Bereich Wissenstransfer, Bochum.
+- Jurczyk, Thomas. 2019. "Review: Considering Comparison. A Method for Religious Studies by Oliver Freiberger." *JRE* 12 (2019): 217-219.
 
 ## Honors, Grants, and Awards
 ***
@@ -74,6 +82,12 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 
 ## Professional Experience
 ***
+&nbsp;  
+**Ruhr-University Bochum, Center for Religious Studies (CERES)**  
+*Managing Editor of Entangled Religions* (Wissenschaftlicher Mitarbeiter), since January 2021  
+
+- Managing editor of [Entangled Religions](https://er.ceres.rub.de/)
+
 &nbsp;  
 **Ruhr-University Bochum, Center for Religious Studies (CERES)**  
 *Research Assistant* (Wissenschaftlicher Mitarbeiter), since October 2014  
@@ -176,6 +190,7 @@ Università degli studi di Pavia, March 2012 – June 2012
 
 #### Programming and markup languages
 - Python (advanced)
+- Java (advanced)
 - HTML/CSS/Markdown (basic)
 - PHP (basic)
 - JavaScript (basic)

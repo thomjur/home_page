@@ -3,6 +3,14 @@ title: short_contributions
 author: thomas jurczyk
 layout: page
 ---
+## 2021
+***
+&nbsp;  
+1. **Yggdrasill Jahresrückblick 2021**  
+<sub> Overview of the discussions and topics on the Yggdrasill mailing list in 2021 (German only)</sub>
+&nbsp;  
+[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2020/yggdrasill2021.md %})
+
 ## 2020
 ***
 &nbsp;  
