@@ -5,4 +5,4 @@ permalink: /about/
 category: about
 ---
 
-You can contact me via <thomas.jurczyk-q88@rub.de>.
+You can contact me via **thomas.jurczyk-q88 _at_ rub.de**.
