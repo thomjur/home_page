@@ -9,7 +9,7 @@ layout: page
 1. **Yggdrasill Jahresrückblick 2021**  
 <sub> Overview of the discussions and topics on the Yggdrasill mailing list in 2021 (German only)</sub>
 &nbsp;  
-[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2020/yggdrasill2021.md %})
+[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2021/yggdrasill2021.md %})
 
 ## 2020
 ***
