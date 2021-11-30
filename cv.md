@@ -57,7 +57,7 @@ BA, Studying Computer Sciences and Mathematics on a part-time basis
 
 ## Publications
 ***
-
+&nbsp;
 #### Monographies
 - Jurczyk, Thomas. 2022. "The Notion of "holy" in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript, 2022. ISBN: 978-3-8376-6181-1
 
