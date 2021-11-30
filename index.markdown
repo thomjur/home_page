@@ -7,14 +7,9 @@ title: home
 category: home
 ---
 
-My name is Thomas Jurczyk. I am a historian and scholar in the field of religious studies at the [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en). I am currently working as a research assistant and managing editor of [Entangled Religions](https://er.ceres.rub.de/) at the [Center for Religious Studies (CERES)](https://ceres.rub.de/en/) at the Ruhr-University Bochum. I am teaching BA/MA courses on Greco-Roman religions and digital methods in the study of religion. My special interest are the history of ancient religions, an/iconism and the application of digital methods and quantitative approaches in the study of religion.
+I am a historian and scholar in the field of religious studies at the [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en). I am currently working as a research assistant and managing editor of [Entangled Religions](https://er.ceres.rub.de/) at the [Center for Religious Studies (CERES)](https://ceres.rub.de/en/) at the Ruhr-University Bochum.
 
-Other research interests are:
-
-- Early Christianity
-- History of religious notions
-- An/Iconism
-- Python/Java programming
+I am teaching BA/MA courses on Greco-Roman religions and digital methods in the study of religion. My special interest are the history of ancient religions, an/iconism and the application of digital methods and quantitative approaches in the study of religion.
 
 This website contains selected information about me and my projects. It also includes a list of my publications and presentations.
 
