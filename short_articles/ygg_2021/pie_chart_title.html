@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="8c55d7d6-7495-41f1-9800-f4fc2d22358e" data-root-id="2562"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2735">
+          {"a0dee017-6fcb-4035-b027-6f1624b6419d":{"defs":[],"roots":{"references":[{"attributes":{},"id":"2576","type":"BasicTicker"},{"attributes":{},"id":"2595","type":"AllLabels"},{"attributes":{"axis":{"id":"2575"},"coordinates":null,"dimension":1,"grid_line_color":null,"group":null,"ticker":null},"id":"2578","type":"Grid"},{"attributes":{"end_angle":{"expr":{"id":"2583"}},"fill_alpha":{"value":0.2},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.2},"line_alpha":{"value":0.2},"line_color":{"value":"white"},"radius":{"value":0.35},"start_angle":{"expr":{"id":"2582"}},"x":{"value":0},"y":{"value":1}},"id":"2588","type":"Wedge"},{"attributes":{},"id":"2597","type":"BasicTickFormatter"},{"attributes":{},"id":"2598","type":"AllLabels"},{"attributes":{},"id":"2594","type":"BasicTickFormatter"},{"attributes":{"coordinates":null,"data_source":{"id":"2584"},"glyph":{"id":"2586"},"group":null,"hover_glyph":null,"muted_glyph":{"id":"2588"},"nonselection_glyph":{"id":"2587"},"view":{"id":"2590"}},"id":"2589","type":"GlyphRenderer"},{"attributes":{"field":"angle","include_zero":true},"id":"2582","type":"CumSum"},{"attributes":{"coordinates":null,"group":null},"id":"2591","type":"Title"},{"attributes":{},"id":"2563","type":"DataRange1d"},{"attributes":{"field":"angle"},"id":"2583","type":"CumSum"},{"attributes":{"callback":null,"tooltips":"@key: @value"},"id":"2579","type":"HoverTool"},{"attributes":{},"id":"2569","type":"LinearScale"},{"attributes":{},"id":"2599","type":"UnionRenderers"},{"attributes":{"end_angle":{"expr":{"id":"2583"}},"fill_alpha":{"value":0.1},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.1},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"radius":{"value":0.35},"start_angle":{"expr":{"id":"2582"}},"x":{"value":0},"y":{"value":1}},"id":"2587","type":"Wedge"},{"attributes":{},"id":"2565","type":"DataRange1d"},{"attributes":{"align":"center","coordinates":null,"group":null,"text":"Beitr\u00e4ge nach Titeln in absoluten Zahlen (Stand: 15. Dezember 2021)","text_font_style":"italic"},"id":"2603","type":"Title"},{"attributes":{"coordinates":null,"formatter":{"id":"2597"},"group":null,"major_label_policy":{"id":"2598"},"ticker":{"id":"2572"},"visible":false},"id":"2571","type":"LinearAxis"},{"attributes":{"source":{"id":"2584"}},"id":"2590","type":"CDSView"},{"attributes":{},"id":"2600","type":"Selection"},{"attributes":{"above":[{"id":"2603"},{"id":"2604"}],"below":[{"id":"2571"}],"center":[{"id":"2574"},{"id":"2578"},{"id":"2601"}],"height":350,"left":[{"id":"2575"}],"outline_line_color":null,"renderers":[{"id":"2589"}],"title":{"id":"2591"},"toolbar":{"id":"2580"},"toolbar_location":null,"x_range":{"id":"2563"},"x_scale":{"id":"2567"},"y_range":{"id":"2565"},"y_scale":{"id":"2569"}},"id":"2562","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"2572","type":"BasicTicker"},{"attributes":{"axis":{"id":"2571"},"coordinates":null,"grid_line_color":null,"group":null,"ticker":null},"id":"2574","type":"Grid"},{"attributes":{"coordinates":null,"formatter":{"id":"2594"},"group":null,"major_label_policy":{"id":"2595"},"ticker":{"id":"2576"},"visible":false},"id":"2575","type":"LinearAxis"},{"attributes":{},"id":"2567","type":"LinearScale"},{"attributes":{"end_angle":{"expr":{"id":"2583"}},"fill_color":{"field":"color"},"line_color":{"value":"white"},"radius":{"value":0.35},"start_angle":{"expr":{"id":"2582"}},"x":{"value":0},"y":{"value":1}},"id":"2586","type":"Wedge"},{"attributes":{"tools":[{"id":"2579"}]},"id":"2580","type":"Toolbar"},{"attributes":{"data":{"angle":{"__ndarray__":"/5gwqmWJBEC5bA6fQ4j/P6kVoV3e7Ps/","dtype":"float64","order":"little","shape":[3]},"color":["#3182bd","#6baed6","#9ecae1"],"index":[0,1,2],"key":["prof","dr","kein titel"],"value":[353,271,240]},"selected":{"id":"2600"},"selection_policy":{"id":"2599"}},"id":"2584","type":"ColumnDataSource"},{"attributes":{"align":"center","coordinates":null,"group":null,"text":"Yggdrasill Jahresr\u00fcckblick 2021","text_font_size":"16pt"},"id":"2604","type":"Title"},{"attributes":{"coordinates":null,"group":null,"items":[{"id":"2602"}]},"id":"2601","type":"Legend"},{"attributes":{"label":{"field":"key"},"renderers":[{"id":"2589"}]},"id":"2602","type":"LegendItem"}],"root_ids":["2562"]},"title":"Bokeh Application","version":"2.4.2"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            const fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  const docs_json = document.getElementById('2735').textContent;
+                  const render_items = [{"docid":"a0dee017-6fcb-4035-b027-6f1624b6419d","root_ids":["2562"],"roots":{"2562":"8c55d7d6-7495-41f1-9800-f4fc2d22358e"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    let attempts = 0;
+                    const timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
