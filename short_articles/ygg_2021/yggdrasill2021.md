@@ -6,7 +6,7 @@ exclude: true
 category: short_contributions
 ---
 
-<sub>**Aktueller Stand**: 15. Dezember 2020</sub>
+<sub>**Aktueller Stand**: 15. Dezember 2021</sub>
 
 ## Einführung
 Die folgenden Visualisierungen und Statistiken basieren auf Beiträgen, die während des Jahres 2021 auf der religionswissenschaftlichen Informationsliste [Yggdrasill](https://www.lists.uni-marburg.de/lists/sympa/info/yggdrasill) veröffentlicht worden sind. Laut Beschreibung auf der offiziellen Webseite, die von der Universität Marburg gehostet wird, handelt es sich bei Yggdrasill um eine ...
