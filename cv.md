@@ -12,9 +12,6 @@ category: cv
 **Name**  
 Thomas Jurczyk
 
-**Date and place of birth**  
-1985/07/23 (Hagen, Germany)
-
 **Nationality**  
 German
 
