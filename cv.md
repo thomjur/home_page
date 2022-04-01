@@ -73,7 +73,7 @@ BA, Studying Computer Sciences and Mathematics on a part-time basis
 
 #### Other publications (journals without peer review, book reviews, popular)  
 - Jurczyk, Thomas. 2021. "Wie die Welt aus einem großen Familienstreit hervorging: Eine Schöpfungsgeschichte aus der griechischen Mythologie" In *Wie die Sterne an den Himmel kamen: Elf Geschichten aus der Zeit unserer Vorfahren*, edited by Kianoosh Rezania, Judith Stander-Dulisch, Franziska Burstyn. Leipzig: Edition Hamouda. ISBN: 978-39581-70568
-- Jurczyk, Thomas. 2021. "Besprechung von Klaus Heinrichs *wie eine religion der anderen die wahrheit wegnimmt*". Ça ira Verlag. [Link](https://www.ca-ira.net/verlag/rezensionen/thomas-jurczyk-rezension-zu-wie-eine-religion-der-anderen-die-wahrheit-wegnimmt/)
+- Jurczyk, Thomas. 2020. "Besprechung von Klaus Heinrichs *wie eine religion der anderen die wahrheit wegnimmt*". Ça ira Verlag. [Link](https://www.ca-ira.net/verlag/rezensionen/thomas-jurczyk-rezension-zu-wie-eine-religion-der-anderen-die-wahrheit-wegnimmt/)
 - Jurczyk, Thomas. 2020. "Hintergrundinformation: Christ/innen in islamischen Ländern." In *Religion unterbringen: Regulierung kultureller und religiöser Vielfalt in Flüchtlingsheimen*, edited by Sarah J. Jahn, Lisa Wevelsiep. Veröffentlichung des Centrums für Religionswissenschaftliche Studien Ceres, Bereich Wissenstransfer, Bochum.
 - Jurczyk, Thomas. 2019. "Review: Considering Comparison. A Method for Religious Studies by Oliver Freiberger." *JRE* 12 (2019): 217-219.
 
