@@ -7,10 +7,10 @@ title: home
 category: home
 ---
 
-I am a historian and scholar in the field of religious studies at the [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de/en). I am currently working as a research assistant and managing editor of [Entangled Religions](https://er.ceres.rub.de/) at the [Center for Religious Studies (CERES)](https://ceres.rub.de/en/) at the Ruhr-University Bochum.
+I am a historian and scholar in the field of religious studies at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de/en). Currently, I am working as a research assistant and managing editor of [Entangled Religions](https://er.ceres.rub.de/) at the [Center for Religious Studies (CERES)](https://ceres.rub.de/en/).
 
-I am teaching BA/MA courses on Greco-Roman religions and digital methods in the study of religion. My special interest are the history of ancient religions, an/iconism and the application of digital methods and quantitative approaches in the study of religion.
+As part of our teaching unit, I am mainly teaching BA/MA classes on Greco-Roman religions and digital methods. My research interests are the history of ancient religions, an/iconism, and the application of digital methods and quantitative approaches in the study of religion.
 
-This website contains selected information about me and my projects. It also includes a list of my publications and presentations.
+This website contains selected information about me and my projects. It also includes an overview of my publications and presentations.
 
 If you would like to contact me, please write an email to **thomas.jurczyk-q88 _at_ rub.de**.

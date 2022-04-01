@@ -25,6 +25,9 @@ Bochum (Germany)
 **Mail**  
 thomas.jurczyk-q88 _at_ rub.de
 
+**Website**  
+<https://thomjur.github.io/home_page/>
+
 **ORCID**  
 [ORCID Profile](https://orcid.org/0000-0002-5943-2305)
 
@@ -32,17 +35,17 @@ thomas.jurczyk-q88 _at_ rub.de
 ***
 &nbsp;
 
-**Ruhr-University Bochum**, Bochum, September 2020  
+**Ruhr-Universität Bochum**, Bochum, September 2020  
 PhD, Thesis: "The Notion of *surb* in Ancient Armenian Texts from the Fifth Century CE" (*summa cum laude*)
 
-**Ruhr-University Bochum**, Bochum, March 2014  
+**Ruhr-Universität Bochum**, Bochum, March 2014  
 MA, History, Religious Studies (Grade: 1.0)
 
 - Concentration: Ancient Religions (Greek and Roman Religions; Early Christianity) and Theory of Religions / Systematic Approaches
 - Dissertation: "Differenzierung von 'Religion' und 'Politik' in der Antike: Das Beispiel Judäa im 2. Jh. v.Chr." ("Differentiation between 'Religion' and 'Politics': The Example of Judaea during the 2nd century BCE")
 - Supervisors: Professor Volkhard Krech and Professor Linda-Marie Günther  
 
-**Ruhr-University Bochum**, Bochum, March 2011  
+**Ruhr-Universität Bochum**, Bochum, March 2011  
 BA, History, Religious Studies (Grade: 1.0)  
 
 - Concentration: Ancient Religions (Greco-Roman Religions; Early Christianity) and Theory of Religions / Systematic Approaches
@@ -51,6 +54,8 @@ BA, History, Religious Studies (Grade: 1.0)
 
 **FernUniversität Hagen**, since October 2017  
 BA, Studying Computer Sciences and Mathematics on a part-time basis
+
+- currently 90 CP (January 2022)
 
 ## Publications
 ***
@@ -75,23 +80,30 @@ BA, Studying Computer Sciences and Mathematics on a part-time basis
 ## Honors, Grants, and Awards
 ***
 &nbsp;  
-Grant "International Realisation Budget" (7,500 €) of the Research School PLUS (Ruhr-University Bochum)
+Grant "International Realisation Budget" (7,500 €) of the Research School PLUS (Ruhr-Universität Bochum)
 
-“Preis an Studierende” (Award for the best MA dissertation during the “Akademische Jahresfeier 2014”), Ruhr-University Bochum, November 2014.
+“Preis an Studierende” (Award for the best MA dissertation during the “Akademische Jahresfeier 2014”), Ruhr-Universität Bochum, November 2014.
 
 ## Professional Experience
 ***
 &nbsp;  
-**Ruhr-University Bochum, Center for Religious Studies (CERES)**  
+**Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Managing Editor of Entangled Religions* (Wissenschaftlicher Mitarbeiter), since January 2021  
 
 - Managing editor of [Entangled Religions](https://er.ceres.rub.de/)
 
 &nbsp;  
-**Ruhr-University Bochum, Center for Religious Studies (CERES)**  
+**Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
+*Conducting the teaching-learning project ARELINCO ("Ancient Religions in Contact")*, funded by [inStudies](https://www.ruhr-uni-bochum.de/instudies/), October 2020 – September 2021
+
+- [Link to the project description](https://ceres.rub.de/en/research/projects/arelinco/)
+- [Link to the project website](https://www.ruhr-uni-bochum.de/arelinco/index.html)
+
+&nbsp;  
+**Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Research Assistant* (Wissenschaftlicher Mitarbeiter), since October 2014  
 
-- Teaching BA courses on Greco-Roman religions and digital methods in the study of religion
+- Teaching BA and MA courses on Greco-Roman religions and digital methods in the study of religion
 - Part of the administration and organization of the study program "Religionswissenschaft"
 - Part of the [RUB Checks](http://rubcheck.rub.de/) initiative to create a digital portal for the international Master program ["Religious Studies"](https://ma.ceres.rub.de/en/){:target="_blank"} in Bochum  
 
@@ -100,23 +112,23 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 
 - BA seminar on "Rituale in der Antike" (2h/w)
 
-**Ruhr-University Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
+**Ruhr-Universität Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
 *Research Assistant* (Wissenschaftliche Hilfskraft), March 2013 – September 2014  
 
 - Assisting the international research fellows at the [Käte Hamburger Kolleg](https://khk.ceres.rub.de/de/){:target="_blank"}
 - Creating conference and workshop flyers with Adobe Creative Suite and Corel Draw  
 
-**Ruhr-University Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
+**Ruhr-Universität Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
 *Administration Employee* (Verwaltungsangestellter), August 2012 – September 2014  
 
 - Responsible for the Public Relations of the [Käte Hamburger Kolleg](https://khk.ceres.rub.de/de/){:target="_blank"}
 
-**Ruhr-University Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
+**Ruhr-Universität Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
 *Research Assistant* (Wissenschaftliche Hilfskraft), April 2011 – July 2012  
 
 - Assisting the international fellows at the [Käte Hamburger Kolleg](https://khk.ceres.rub.de/de/){:target="_blank"}
 
-**Ruhr-University Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
+**Ruhr-Universität Bochum, Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
 *Student Assistant* (Studentische Hilfskraft), June 2008 – March 2011  
 
 - Assisting the international fellows at the [Käte Hamburger Kolleg](https://khk.ceres.rub.de/de/){:target="_blank"}
@@ -124,10 +136,15 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 ## Stay Abroad, Conferences, and Other Academic Activities
 ***
 &nbsp;  
-**Participation Workshop "Iterative Annotation als linguistische Forschungsmethode​"**  
+**Workshop "Softwaregestützte Kategorienentwicklung in Praxis und Forschung"**  
+TU Darmstadt (online), February 2022 ([LINK](https://fortext.github.io/katkit/events/ws1/ws1/){:target="_blank"})
+
+- Presentation: "Annotation und Visualisierung des Artikel-Corpus der religionswissenschaftlichen Open Access Zeitschrift Entangled Religions: Vorhaben, Durchführung und Probleme"
+
+**Workshop "Iterative Annotation als linguistische Forschungsmethode​"**  
 University of Heidelberg (online), October 2020 ([LINK](http://graduiertenplattform.sprache-und-wissen.de/workshops/workshop-2020/){:target="_blank"})
 
-**Participation Hands-On Workshop "Finding Metaphor in Discourse"**  
+**Hands-On Workshop "Finding Metaphor in Discourse"**  
 University of Basel, November 2018
 
 **Siebtes InterDisziplinäres Kolloquium (IDK): Wissenskulturen im Vergleich**  
@@ -144,11 +161,11 @@ Panel "Religion is struggling with media. Historical and contemporary conflicts 
 **Intensive Armenian Language Summer School 2016** [ARMACAD](https://armacad.info/summer-schools){:target="_blank"} 
 Armenia, July/August 2016
 
-**Workshop Participation** [Armenian Manuscript Studies: An Introduction](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/orientabteilung/pdf/WorkshopArmenien.pdf){:target="_blank"}  
+**Workshop** [Armenian Manuscript Studies: An Introduction](https://staatsbibliothek-berlin.de/fileadmin/user_upload/zentrale_Seiten/orientabteilung/pdf/WorkshopArmenien.pdf){:target="_blank"}  
 Berlin, March 2016
 
 **Organizing and conducting the Käte Hamburger Kolleg "Iconoclasm" Working Group**  
-Ruhr-University Bochum, since 2016
+Ruhr-Universität Bochum, since 2016
 
 **Viertes InterDisziplinäres Kolloquium (IDK): Wissenskulturen im Vergleich**  
 De Haagse Hogeschool Delft, November 2015  
@@ -167,10 +184,10 @@ Maison Heinrich Heine, Paris, October 2014
 - Presentation: "MOOC, Youtube und Udacity: Universitäres Lehren und Lernen im Zeitalter des Internet" 
 
 **Doctoral Student Reviewer for Research School PLUS**  
-Ruhr-University Bochum, since 2014
+Ruhr-Universität Bochum, since 2014
 
 **Participation in the International Summer School ERiC 2014 (“Eurasian Religions in Contact”) of the Käte Hamburger Kolleg “Dynamics in the History of Religions between Asia and Europe”**  
-Ruhr-University Bochum, July 2014  
+Ruhr-Universität Bochum, July 2014  
 
 - Presentation: "Differentiation between Politics and Religion: Byzantium after the Council of Chalcedon (451) with a Focus on the Relation between the Greek Orthodoxy in Constantinople and Armenia"
 
@@ -198,7 +215,7 @@ Università degli studi di Pavia, March 2012 – June 2012
 ***
 #### Modern languages
 **German**  
-nativ
+native
 
 **English**  
 fluent
