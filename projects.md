@@ -6,4 +6,5 @@ category: projects
 ---
 
 1. [ReligionML Corpus Annotation for Machine Learning]({{ site.baseurl }}{% link projects/religionml.md %})
-2. [ARELINCO: Ancient Religion(s) in Contact: Contemporary Religious Phenomena and Their Ancient Predecessors](https://ceres.rub.de/en/research/projects/arelinco/){:target="_blank"}
+2. [A Quantitative Analysis of the Dissemination of Religious Notions in Contemporary English Texts]({{ site.baseurl }}{% link projects/religioid.md %})
+3. [ARELINCO: Ancient Religion(s) in Contact: Contemporary Religious Phenomena and Their Ancient Predecessors](https://ceres.rub.de/en/research/projects/arelinco/){:target="_blank"}
