@@ -6,8 +6,7 @@ exclude: true
 category: projects
 ---
 
-## A Quantitative Analysis of the Dissemination of Religious Notions in Contemporary English Texts (11. April 2022)
-
+<h1 id="a-quantitative-analysis-of-the-dissemination-of-religious-notions-in-contemporary-english-texts">A Quantitative Analysis of the Dissemination of Religious Notions in Contemporary English Texts (April 11, 2022)</h1>
 <h2 id="aim-of-this-research-project">Aim of this Research Project</h2>
 <p>The project has set itself the task of quantitatively examining central religious concepts such as sacred, ritual, purity, but also religion in terms of their prevalence, use, and meaning in various social fields such as politics and art. From a theoretical perspective, the focus is on (de)sacralization processes <span class="citation" data-cites="krech_soziologie_2018">(see <a href="#ref-krech_soziologie_2018" role="doc-biblioref">Krech 2018a</a>)</span> and the concept of the “religioid” coined by Simmel <span class="citation" data-cites="tyrell_religioide_2018">(see <a href="#ref-tyrell_religioide_2018" role="doc-biblioref">Tyrell 2018</a>)</span>.</p>
 <p>Empirically, this project will build on the religious studies text corpus ReligionML that collects texts from different social fields and annotates them to enable data-driven research in the study of religion (more details on ReligionML and the first annotation attempts can be found on the <a href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML website</a>).</p>
@@ -41,7 +40,7 @@ Brezina, Vaclav. 2018. <em>Statistics in corpus linguistics: a practical guide</
 Géron, Aurélien. 2019. <em>Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</em>. Second edition. O’Reilly.
 </div>
 <div id="ref-jurczyk_notion_2022a" class="csl-entry" role="doc-biblioentry">
-Jurczyk, Thomas. 2022. <em>The Notion of <span>“holy”</span> in Ancient Armenian Texts from the Fifth Century CE A Comparative Approach Using Digital Tools and Methods</em>. Bielefeld: transcript.
+Jurczyk, Thomas. 2022. <em>The Notion of <span>“holy”</span> in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods</em>. Digital Humanities Research 5. Bielefeld: transcript.
 </div>
 <div id="ref-krech_soziologie_2018" class="csl-entry" role="doc-biblioentry">
 Krech, Volkhard. 2018a. <span>“Die ‚Soziologie der Religion` – neu gelesen.”</span> In <em>Georg simmel und das leben in der gegenwart</em>, edited by Rüdiger Lautmann and Hanns Wienold, 325–46. Wiesbaden: Springer Fachmedien Wiesbaden. <a href="https://doi.org/10.1007/978-3-658-21427-2_18">https://doi.org/10.1007/978-3-658-21427-2_18</a>.
