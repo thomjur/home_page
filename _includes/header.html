@@ -24,7 +24,7 @@
                 <a {% if my_page.title == page.category %} class="page-link" style="color:red;" {% else %} class="page-link" {%
                   endif %}
                 
-                href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                href="{{ my_page.url | relative_url }}">{{ my_page.title | escape | replace: "_", " " | upcase}}</a>
               {%- endunless -%}
             {%- endif -%}
           {%- endfor -%}

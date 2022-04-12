@@ -7,10 +7,23 @@ title: home
 category: home
 ---
 
-I am a historian and scholar in the field of religious studies at the [Ruhr-Universität Bochum](https://www.ruhr-uni-bochum.de/en). Currently, I am working as a research assistant and managing editor of [Entangled Religions](https://er.ceres.rub.de/) at the [Center for Religious Studies (CERES)](https://ceres.rub.de/en/). My research interests are the history of ancient religions, an/iconism, and the application of digital methods and quantitative approaches in the study of religion.
+<figure style="padding-bottom: 3%;">
+  <img src="{{ site.baseurl }}{% link assets/images/title.jpg %}" alt="Frauen am Schreibtisch." style="width:100%">
+  <figcaption style="font-size: small">Image credits: <a href="https://commons.wikimedia.org/wiki/File:Fotothek_df_n-35_0000073_Facharbeiter_f%C3%BCr_Satztechnik.jpg">Eugen Nosko, Facharbeiter für Satztechnik (CC-BY) Wikimedia</a> - slightly changed.</figcaption>
+</figure>
 
-As part of our teaching unit, I am mainly teaching BA/MA classes on Greco-Roman religions and digital methods.
+<p class="title-text">
+	<span style="font-family: monospace"><b>Hi!</b></span> I am a <span style="font-family: monospace"><b>historian</b></span> and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> at the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>. Currently, I am working as a research assistant and managing editor of <a href="https://er.ceres.rub.de/" style="font-family: monospace">Entangled Religions</a> at the <a href="https://ceres.rub.de/en/" style="font-family: monospace">Center for Religious Studies (CERES)</a>. My research interests are the history of <span style="font-family: monospace"><b>ancient religions</b></span>, <span style="font-family: monospace"><b>an/iconism</b></span>, and the application of <span style="font-family: monospace"><b>digital methods</b></span> and <span style="font-family: monospace"><b>quantitative approaches</b></span> in the study of religion.
+</p>
 
-This website contains selected information about me and my projects. It also includes an overview of my publications and presentations.
+<p class="title-text">
+	As part of our teaching unit, I am mainly teaching BA/MA classes on <span style="font-family: monospace"><b>Greco-Roman religions</b></span> and <span style="font-family: monospace"><b>digital methods</b></span>.
+</p>
 
-If you would like to contact me, please write an email to **thomas.jurczyk-q88 _at_ rub.de**.
+<p class="title-text">
+	This website contains selected information about me and my <span style="font-family: monospace"><b>projects</b></span>. It also includes an overview of my <span style="font-family: monospace"><b>publications</b></span> and presentations.
+</p>
+
+<p class="title-text">
+	If you would like to contact me, please write an email to <span style="font-family: monospace"><b>thomas.jurczyk-q88 _at_ rub.de</b></span>.
+</p>
