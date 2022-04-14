@@ -1,11 +1,10 @@
 ---
-author: Thomas Jurczyk
-title: A Quantitative Analysis of the Dissemination of Religious Notions in Contemporary English Texts
-date: \today
+title: religioid
+author: thomas jurczyk
+layout: project
+exclude: true
+category: projects
 link-citations: true
-link-bibliography: true
-linkcolor: blue
-lang: en
 ---
 
 # A Quantitative Analysis of the Dissemination of Religious Notions in Contemporary English Texts
