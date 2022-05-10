@@ -55,7 +55,7 @@ BA, History, Religious Studies (Grade: 1.0)
 **FernUniversität Hagen**, since October 2017  
 BA, Studying Computer Sciences and Mathematics on a part-time basis
 
-- currently 90 CP (January 2022)
+- currently 100 CP (May 2022)
 
 ## Publications
 ***
