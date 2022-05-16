@@ -38,6 +38,8 @@ thomas.jurczyk-q88 _at_ rub.de
 **Ruhr-Universität Bochum**, Bochum, September 2020  
 PhD, Thesis: "The Notion of *surb* in Ancient Armenian Texts from the Fifth Century CE" (*summa cum laude*)
 
+- Supervisors: Professor Volkhard Krech and Professor Zara Pogossian 
+
 **Ruhr-Universität Bochum**, Bochum, March 2014  
 MA, History, Religious Studies (Grade: 1.0)
 
