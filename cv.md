@@ -53,7 +53,7 @@ BA, History, Religious Studies (Grade: 1.0)
 - Supervisors: Professor Alexander-Kenneth Nagel and Jens Schlamelcher  
 
 **FernUniversität Hagen**, since October 2017  
-BA, Studying Computer Sciences and Mathematics on a part-time basis
+BA, Studying Computer Science and Mathematics on a part-time basis
 
 - currently 100 CP (May 2022)
 
