@@ -8,7 +8,7 @@ category: projects
 
 <h2
 id="religionml-corpus-annotation-project-for-machine-learning-april-14-2022">ReligionML:
-Corpus Annotation Project for Machine Learning (April 14, 2022)</h2>
+Corpus Annotation Project for Machine Learning (May 21, 2022)</h2>
 <h3 id="description">Description</h3>
 <p>The ReligionML project has set itself the task of creating an
 annotated text corpus for the study of religion. The corpus data
@@ -131,11 +131,11 @@ referring to religion as a social system dealing with the
 immanence/transcendence distinction. A typical example are two
 non-religious persons talking about religion as a worldview and
 religious truth claims compared to, for instance, philosophical
-ones.</p>
+ones. This category also includes religious polemics and mockery.</p>
 <p><em>Religion-immanence</em> means that the document still uses
 religious semantics but more in the sense of a general distinction
 marker. A good example is "religion" as an ethnic/political
-category.</p>
+category. The boundaries between <em>Religion-transcendence</em> and <em>Religion-immanence</em> are particularly blurry when dealing with religiously motivated extremism or 'theocratic' governments. The attribution to either of these categories has to be decided on a case to case basis.</p>
 <p><em>Metaphorical-use</em> means that the religious terminology in the
 document is no longer directly referring to "religion" but uses the
 "religion" domain in another context. A typical example are sentences

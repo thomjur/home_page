@@ -7,7 +7,7 @@ category: projects
 link-citations: true
 ---
 
-## ReligionML: Corpus Annotation Project for Machine Learning (April 14, 2022)
+## ReligionML: Corpus Annotation Project for Machine Learning (May 21, 2022)
 
 ### Description
 The ReligionML project has set itself the task of creating an annotated text corpus for the study of religion. The corpus data consists of smaller text units (sentences, short paragraphs, tweets, etc.) which include central religious notions. These religious word fields and their syntactic/semantic embedding will be annotated on a word and sentence level. The final corpus should enable conducting research questions dealing with the use and meaning of central religious notions on both a qualitative and quantitative level (see the project [A Quantitative Analysis of the Dissemination of Religious Notions in Contemporary English Texts]({{ site.baseurl }}{% link projects/religioid.md %})).
@@ -64,9 +64,9 @@ The five categories in the final step are:
 
 *Inner-religion* means that the selected document has a religious meaning and was stated from within religion. A typical example would be a Christian or Muslim writing/saying something about their belief.
 
-*Religion-transcendence* means that although the document does not come from an inner-religious sphere, the overall context is still referring to religion as a social system dealing with the immanence/transcendence distinction. A typical example are two non-religious persons talking about religion as a worldview and religious truth claims compared to, for instance, philosophical ones.
+*Religion-transcendence* means that although the document does not come from an inner-religious sphere, the overall context is still referring to religion as a social system dealing with the immanence/transcendence distinction. A typical example are two non-religious persons talking about religion as a worldview and religious truth claims compared to, for instance, philosophical ones. This category also includes religious polemics and mockery.
 
-*Religion-immanence* means that the document still uses religious semantics but more in the sense of a general distinction marker. A good example is \"religion\" as an ethnic/political category.
+*Religion-immanence* means that the document still uses religious semantics but more in the sense of a general distinction marker. A good example is \"religion\" as an ethnic/political category. The boundaries between *Religion-transcendence* and *Religion-immanence* are particularly blurry when dealing with religiously motivated extremism or 'theocratic' governments. The attribution to either of these categories has to be decided on a case to case basis.
 
 *Metaphorical-use* means that the religious terminology in the document is no longer directly referring to \"religion\" but uses the \"religion\" domain in another context. A typical example are sentences such as \"Electronic music is my religion.\"
 
