@@ -46,7 +46,7 @@ central religious notions and their syntactic/semantic embedding
 (independent of the full document in which they appear in).</p>
 <p>The data for the ReligionML corpus is currently collected by
 searching for sentences in larger documents that include
-religious/religioid words (mostly be using web scrapers or a Twitter
+religious/religioid words (mostly by using web scrapers or a Twitter
 streamer). The words that are currently included in the search are:</p>
 <ol type="a">
 <li><p> Words related to the word field of holiness (“sacred,” “holy,”
@@ -89,7 +89,7 @@ behind the new annotation workflow are:</p>
 <li>Using an in-house web application to annotate the texts on the macro
 layer (see below).</li>
 <li>Combining the in-house solution with existing software solutions for
-the qualitative/microanalysis (such as CATMA or existing JavaScript
+the qualitative analysis (such as CATMA or existing JavaScript
 frameworks for text annotation, which should ideally be implemented on
 the website).</li>
 <li>Creating an annotation scheme using SKOS and RDF with the potential
@@ -146,7 +146,7 @@ religion or has no religious or religioid meaning.</p>
 (Qualitative Annotation)</h3>
 <p>The micro annotation page should be reachable from the page of the
 macro annotation and enable the annotators to add annotations on a word
-level. Potential tags to include should indicate the sentiment
+level. Potential tags should indicate the sentiment
 (positive/negative) and include tags from the <em>Semantic Domain
 Annotation System</em> (SDAS).</p>
 <p>The <em>Semantic Domain Annotation System</em> (SDAS) is currently
@@ -213,7 +213,7 @@ Retrieving Data</h3>
 <p>The new web application should offer possibilities to query and
 retrieve the (annotated) corpus data. The users should be able to
 download both the corpus and the (meta) data deriving from the
-annotations via a structured REST API or as simple .csv files. This step
+annotations via a structured REST API or as simple CSV files. This step
 underlines the necessity to use anonymized and licence-free data
 only.</p>
 <h3
@@ -270,7 +270,7 @@ machine learning algorithms to filter the the Twitter data for their
 specific needs.</p>
 <h3 id="use-case-iii-new-perspectives-on-current-research-questions">Use
 Case III: New Perspectives on Current Research Questions</h3>
-<p>The training of machine learning models and the general annotation of
+<p>The training of machine learning models and the annotation of
 the data also grant new insights into the use of religious terminology.
 Firstly, the annotations' statistics contribute exciting insights into
 the data, for example, by providing an overview of the distribution of

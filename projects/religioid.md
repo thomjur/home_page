@@ -9,7 +9,7 @@ category: projects
 <h2
 id="a-quantitative-analysis-of-the-dissemination-of-religious-notions-in-contemporary-english-texts">A
 Quantitative Analysis of the Dissemination of Religious Notions in
-Contemporary English Texts (April 13, 2022)</h2>
+Contemporary English Texts (May 23, 2022)</h2>
 <h3 id="aim-of-this-research-project">Aim of this Research Project</h3>
 <p>The project has set itself the task of quantitatively examining
 central religious concepts such as sacred, ritual, purity, and religion
@@ -99,13 +99,12 @@ role="doc-noteref"><sup>4</sup></a></p>
 <h3 id="methodology">Methodology</h3>
 <p>The methodology is based on the quantitative analysis of the textual
 evidence collected in the ReligionML Corpus, consisting of sentences and
-short documents of diverse provenance (text snippets, tweets, etc.). On
-the one hand, the analysis will be performed by applying machine
+short documents of diverse provenance (text snippets, tweets, etc.). The analysis will be performed by applying machine
 learning algorithms <span class="citation"
 data-cites="geron_handson_2019">(in particular from the field of
 unsupervised learning, see <a href="#ref-geron_handson_2019"
 role="doc-biblioref">Géron 2019</a>)</span> on the annotated documents
-of the ReligionML Corpus. On the other hand, established methods from
+of the ReligionML Corpus. In addition, established methods from
 the field of corpus linguistics will be applied to achieve a better
 understanding of the use and meaning of the terms under investigation.
 These include methods such as keyword analysis, collocation analysis,

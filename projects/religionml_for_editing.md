@@ -20,7 +20,7 @@ A group of five religious studies' scholars working at the [Center for Religious
 
 The final corpus should consist of (annotated) sentences and paragraphs deriving from both historical and contemporary texts that include religious and religion-related notions, such as holy, pure, religion, etc. The corpus and the annotation workflow focus on rather small text units such as sentences due to the project\'s emphasis on central religious notions and their syntactic/semantic embedding (independent of the full document in which they appear in).
 
-The data for the ReligionML corpus is currently collected by searching for sentences in larger documents that include religious/religioid words (mostly be using web scrapers or a Twitter streamer). The words that are currently included in the search are:
+The data for the ReligionML corpus is currently collected by searching for sentences in larger documents that include religious/religioid words (mostly by using web scrapers or a Twitter streamer). The words that are currently included in the search are:
 
 a)  Words related to the word field of holiness ("sacred," "holy," "holiness," etc.) and their *pendants* in other languages (for instance, "heilig" in German).
 
@@ -41,7 +41,7 @@ The corpus and the subcorpora will continuously be expanded and updated.
 The initial annotation workflow conducted at the [Center for Religious Studies](https://ceres.rub.de/en/) between 2019 and 2020 was based on an in-house solution written in Python (using Flask as a web framework). Even though this initial platform produced promising first results, it yet had several flaws. One goal of the current research project is to establish a new annotation platform (using Django) that can be used by both the annotators and a wider audience to annotate and discuss the corpus texts. The major ideas behind the new annotation workflow are:
 
 1. Using an in-house web application to annotate the texts on the macro layer (see below).
-2. Combining the in-house solution with existing software solutions for the qualitative/microanalysis (such as CATMA or existing JavaScript frameworks for text annotation, which should ideally be implemented on the website).
+2. Combining the in-house solution with existing software solutions for the qualitative analysis (such as CATMA or existing JavaScript frameworks for text annotation, which should ideally be implemented on the website).
 3. Creating an annotation scheme using SKOS and RDF with the potential to embed the annotation results within a broader context (linked open data).
 
 ### Macro Annotation (Quantitative Annotation)
@@ -74,7 +74,7 @@ The five categories in the final step are:
 
 ### Micro Annotation (Qualitative Annotation)
 
-The micro annotation page should be reachable from the page of the macro annotation and enable the annotators to add annotations on a word level. Potential tags to include should indicate the sentiment (positive/negative) and include tags from the *Semantic Domain Annotation System* (SDAS).
+The micro annotation page should be reachable from the page of the macro annotation and enable the annotators to add annotations on a word level. Potential tags should indicate the sentiment (positive/negative) and include tags from the *Semantic Domain Annotation System* (SDAS).
 
 The *Semantic Domain Annotation System* (SDAS) is currently based on three top domains: \"Society,\" \"World,\" and \"Mind.\" The current
 subdivision of these domains is shown in figure @fig:figure3. The SDAS is mainly developed from an inductive perspective, meaning that the users annotating the documents add and discuss candidates for new categories based on their needs.
@@ -103,7 +103,7 @@ The group did not agree on a pre-defined \"gold standard\" of the annotation sch
 
 ### Querying the Corpus & Retrieving Data
 
-The new web application should offer possibilities to query and retrieve the (annotated) corpus data. The users should be able to download both the corpus and the (meta) data deriving from the annotations via a structured REST API or as simple .csv files. This step underlines the necessity to use anonymized and licence-free data only.
+The new web application should offer possibilities to query and retrieve the (annotated) corpus data. The users should be able to download both the corpus and the (meta) data deriving from the annotations via a structured REST API or as simple CSV files. This step underlines the necessity to use anonymized and licence-free data only.
 
 ### Machine Learning & Other Use Cases of the ReligionML Corpus
 
@@ -134,7 +134,7 @@ the Twitter data for their specific needs.
 
 ### Use Case III: New Perspectives on Current Research Questions
 
-The training of machine learning models and the general annotation of
+The training of machine learning models and the annotation of
 the data also grant new insights into the use of religious terminology.
 Firstly, the annotations\' statistics contribute exciting insights into
 the data, for example, by providing an overview of the distribution of
