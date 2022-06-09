@@ -9,7 +9,7 @@ category: projects
 <h2
 id="a-quantitative-analysis-of-the-dissemination-of-religious-notions-in-contemporary-english-texts">A
 Quantitative Analysis of the Dissemination of Religious Notions in
-Contemporary English Texts (May 23, 2022)</h2>
+Contemporary English Texts</h2>
 <h3 id="aim-of-this-research-project">Aim of this Research Project</h3>
 <p>The project has set itself the task of quantitatively examining
 central religious concepts such as sacred, ritual, purity, and religion
@@ -30,10 +30,19 @@ can be found on the <a
 href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML
 website</a>).</p>
 <h3 id="theoretical-background">Theoretical Background</h3>
-<p>The theoretical background of this project is, on the one hand, the
-concept of the “religioid” coined by Georg Simmel, which describes the
-emergence of religious semantics and of religion as a whole from
-(non-religious) social processes:</p>
+<p>The overall theoretical assumption behind the examination of
+religiously connotated words in various social fields is “that phenomena
+of the religious field are defined in relation to other religious
+constituents and other social and cultural facts outside the religious
+field” <span class="citation" data-cites="krech_relational_2020">(quote
+from introduction of the forthcoming ER special issue on “Religion and
+Images,” following <a href="#ref-krech_relational_2020"
+role="doc-biblioref">Krech 2020</a>)</span>.</p>
+<p>To analyze the ways in which these interdependences between the
+various social fields have shaped religion (and the other way round),
+this project builds upon the concept of the “religioid” coined by Georg
+Simmel, which describes the emergence of religious semantics and of
+religion as a whole from (non-religious) social processes:</p>
 <blockquote>
 <p>Als Ausgangspunkt dient die empirische Herleitung von Religion aus
 sozialen Vorgängen mittels des Differenzierungsparadigmas und der daraus
@@ -99,13 +108,13 @@ role="doc-noteref"><sup>4</sup></a></p>
 <h3 id="methodology">Methodology</h3>
 <p>The methodology is based on the quantitative analysis of the textual
 evidence collected in the ReligionML Corpus, consisting of sentences and
-short documents of diverse provenance (text snippets, tweets, etc.). The analysis will be performed by applying machine
-learning algorithms <span class="citation"
-data-cites="geron_handson_2019">(in particular from the field of
-unsupervised learning, see <a href="#ref-geron_handson_2019"
+short documents of diverse provenance (text snippets, tweets, etc.). The
+analysis will be performed by applying machine learning algorithms <span
+class="citation" data-cites="geron_handson_2019">(in particular from the
+field of unsupervised learning, see <a href="#ref-geron_handson_2019"
 role="doc-biblioref">Géron 2019</a>)</span> on the annotated documents
-of the ReligionML Corpus. In addition, established methods from
-the field of corpus linguistics will be applied to achieve a better
+of the ReligionML Corpus. In addition, established methods from the
+field of corpus linguistics will be applied to achieve a better
 understanding of the use and meaning of the terms under investigation.
 These include methods such as keyword analysis, collocation analysis,
 and word frequency lists <span class="citation"
@@ -118,8 +127,9 @@ quantitative analysis. The <em>mixed methods</em> approach used here
 builds on a procedure I developed in my dissertation <span
 class="citation" data-cites="jurczyk_notion_2022a">(<a
 href="#ref-jurczyk_notion_2022a" role="doc-biblioref">Jurczyk
-2022</a>)</span> that will hopefully be extended during this
-project.</p>
+2022</a>)</span> that will hopefully be extended during this project.<a
+href="#fn5" class="footnote-ref" id="fnref5"
+role="doc-noteref"><sup>5</sup></a></p>
 <p>An example in this context is the analysis of (English) terms such as
 "sacred" or "holy" in documents of different provenance and genres
 (Twitter, newspaper articles, forums, art, politics, etc.), which are
@@ -138,8 +148,8 @@ made at the document and word level, the details of which are explained
 on the <a
 href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML
 Corpus website</a>.</p>
-<p>From a copyright and pragmatic<a href="#fn5" class="footnote-ref"
-id="fnref5" role="doc-noteref"><sup>5</sup></a> point of view, already
+<p>From a copyright and pragmatic<a href="#fn6" class="footnote-ref"
+id="fnref6" role="doc-noteref"><sup>6</sup></a> point of view, already
 digitized and freely available sources (Twitter, newspapers, digitized
 books, Wikipedia, etc.) are to be included and supplemented with manual
 and anonymized excerpts from other sources. From a copyright
@@ -173,6 +183,14 @@ Armenian Texts from the Fifth Century CE: A Comparative Approach Using
 Digital Tools and Methods</em>. Digital Humanities Research 5.
 Bielefeld: transcript.
 </div>
+<div id="ref-kleymann_datendiffraktion_2022a" class="csl-entry"
+role="doc-biblioentry">
+Kleymann, Rabea. 2022. <span>“Datendiffraktion: Von Mixed zu Entangled
+Methods in den Digital Humanities.”</span> HTML,XML,PDF. <em>Fabrikation
+von Erkenntnis – Experimente in den Digital Humanities. Hg. von Manuel
+Burghardt</em> Lisa Dieckmann: 5). <a
+href="https://doi.org/10.17175/SB005_008">https://doi.org/10.17175/SB005_008</a>.
+</div>
 <div id="ref-krech_soziologie_2018" class="csl-entry"
 role="doc-biblioentry">
 Krech, Volkhard. 2018. <span>“Die ‚Soziologie der Religion` – neu
@@ -188,6 +206,12 @@ Religionssoziologie</em>, edited by Detlef Pollack, Volkhard Krech, Olaf
 Müller, and Markus Hero, 783–807. Wiesbaden: Springer Fachmedien
 Wiesbaden. <a
 href="https://doi.org/10.1007/978-3-531-18924-6_32">https://doi.org/10.1007/978-3-531-18924-6_32</a>.
+</div>
+<div id="ref-krech_relational_2020" class="csl-entry"
+role="doc-biblioentry">
+———. 2020. <span>“Relational Religion: Manifesto for a Synthesis in the
+Study of Religion.”</span> <em>Religion</em> 50 (1): 97–105. <a
+href="https://doi.org/10.1080/0048721X.2019.1686847">https://doi.org/10.1080/0048721X.2019.1686847</a>.
 </div>
 <div id="ref-neumaier_religion_2016" class="csl-entry"
 role="doc-biblioentry">
@@ -273,8 +297,15 @@ href="#ref-neumaier_religion_2018" role="doc-biblioref">2018</a>, <a
 href="#ref-neumaier_religion_2016"
 role="doc-biblioref">2016</a>)</span>.<a href="#fnref4"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5" role="doc-endnote"><p>The keyword here is automated
-acquisition of data through web scraping.<a href="#fnref5"
+<li id="fn5" role="doc-endnote"><p>For an intriguing discussion of mixed
+methods approaches in digital humanities and their critique, see
+Kleymann <span class="citation"
+data-cites="kleymann_datendiffraktion_2022a">(<a
+href="#ref-kleymann_datendiffraktion_2022a"
+role="doc-biblioref">2022</a>)</span>.<a href="#fnref5"
+class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6" role="doc-endnote"><p>The keyword here is automated
+acquisition of data through web scraping.<a href="#fnref6"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>

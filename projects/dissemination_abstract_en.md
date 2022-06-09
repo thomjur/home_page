@@ -17,7 +17,9 @@ Empirically, this project will build on the religious studies text corpus Religi
 
 ## Theoretical Background
 
-The theoretical background of this project is, on the one hand, the concept of the "religioid" coined by Georg Simmel, which describes the emergence of religious semantics and of religion as a whole from (non-religious) social processes:
+The overall theoretical assumption behind the examination of religiously connotated words in various social fields is "that phenomena of the religious field are defined in relation to other religious constituents and other social and cultural facts outside the religious field" [quote from introduction of the forthcoming ER special issue on "Religion and Images," following @krech_relational_2020].
+
+To analyze the ways in which these interdependences between the various social fields have shaped religion (and the other way round), this project builds upon the concept of the "religioid" coined by Georg Simmel, which describes the emergence of religious semantics and of religion as a whole from (non-religious) social processes:
 
 > Als Ausgangspunkt dient die empirische Herleitung von Religion aus sozialen Vorgängen mittels des Differenzierungsparadigmas und der daraus resultierenden Unterscheidung von Religion als autonomer Vorstellungswelt und „Religioidem“ [...], das bereits in Vergesellschaftungsprozessen vorzufinden ist. [@krech_soziologie_2018, 337][^C]
 
@@ -41,7 +43,9 @@ The project "A Quantitative Analysis of the Dissemination of Religious Notions i
 
 The methodology is based on the quantitative analysis of the textual evidence collected in the ReligionML Corpus, consisting of sentences and short documents of diverse provenance (text snippets, tweets, etc.). The analysis will be performed by applying machine learning algorithms [in particular from the field of unsupervised learning, see @geron_handson_2019] on the annotated documents of the ReligionML Corpus. In addition, established methods from the field of corpus linguistics will be applied to achieve a better understanding of the use and meaning of the terms under investigation. These include methods such as keyword analysis, collocation analysis, and word frequency lists [@brezina_statistics_2018b].
 
-The quantitative methods will be expanded to include a qualitative level of analysis focusing on selected textual examples drawn from the quantitative analysis. The *mixed methods* approach used here builds on a procedure I developed in my dissertation [@jurczyk_notion_2022a] that will hopefully be extended during this project.
+The quantitative methods will be expanded to include a qualitative level of analysis focusing on selected textual examples drawn from the quantitative analysis. The *mixed methods* approach used here builds on a procedure I developed in my dissertation [@jurczyk_notion_2022a] that will hopefully be extended during this project.[^3]
+
+[^3]: For an intriguing discussion of mixed methods approaches in digital humanities and their critique, see Kleymann [-@kleymann_datendiffraktion_2022a].
 
 An example in this context is the analysis of (English) terms such as \"sacred\" or \"holy\" in documents of different provenance and genres (Twitter, newspaper articles, forums, art, politics, etc.), which are collected and annotated in the ReligionML Corpus and analyzed and discussed under the questions addressed in the theory section [I took a first step in this direction in my dissertation, see @jurczyk_notion_2022a].
 
@@ -442,6 +446,72 @@ references:
   type: article-journal
   URL: https://www.degruyter.com/document/doi/10.1515/bfp-2016-0042/html
   volume: '40'
+
+- id: krech_relational_2020
+  accessed:
+    - year: 2022
+      month: 6
+      day: 9
+  author:
+    - family: Krech
+      given: Volkhard
+  citation-key: krech_relational_2020
+  container-title: Religion
+  container-title-short: Religion
+  DOI: 10.1080/0048721X.2019.1686847
+  ISSN: 0048-721X, 1096-1151
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 1
+      day: 2
+  language: en
+  page: 97-105
+  source: DOI.org (Crossref)
+  title: 'Relational religion: manifesto for a synthesis in the study of religion'
+  title-short: Relational religion
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/full/10.1080/0048721X.2019.1686847
+  volume: '50'
+
+- id: kleymann_datendiffraktion_2022a
+  abstract: >-
+    The research program of mixed methods, adopted from social research, shapes
+    the epistemic cultures of the Digital Humanities (DH). Mixed methods
+    research is understood as a combination of qualitative and quantitative
+    methods, which can be defined by the characteristics of compatibility,
+    integration and inference. The article deals with the import of mixed
+    methods into DH and asks for alternatives. In a descriptive approach,
+    conditions of knowledge production with mixed methods are exposed. In a
+    speculative approach, the paper proposes an entangled methods research
+    design, which is explored through the concepts of intra-action, data
+    diffraction, and interference, by drawing on Karen Barad’s approach of
+    agential realism.
+  accessed:
+    - year: 2022
+      month: 5
+      day: 25
+  author:
+    - family: Kleymann
+      given: Rabea
+  citation-key: kleymann_datendiffraktion_2022a
+  container-title: >-
+    Fabrikation von Erkenntnis – Experimente in den Digital Humanities. Hg. von
+    Manuel Burghardt
+  DOI: 10.17175/SB005_008
+  issued:
+    - year: 2022
+  language: de
+  medium: HTML,XML,PDF
+  page: 5)
+  publisher: Zeitschrift für digitale Geisteswissenschaften - ZfdG
+  source: DOI.org (Datacite)
+  title: 'Datendiffraktion: Von Mixed zu Entangled Methods in den Digital Humanities'
+  title-short: Datendiffraktion
+  type: article-journal
+  URL: https://zfdg.de/sb005_008
+  version: '1.0'
+  volume: Lisa Dieckmann
 
 - id: neumaier_religion_2016
   author:
