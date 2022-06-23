@@ -9,14 +9,16 @@ category: projects
 <h2
 id="a-quantitative-analysis-of-the-dissemination-of-religious-notions-in-contemporary-english-texts">A
 Quantitative Analysis of the Dissemination of Religious Notions in
-Contemporary English Texts</h2>
-<h3 id="aim-of-this-research-project">Aim of this Research Project</h3>
+Contemporary English Texts (15.06.2022)</h2>
+<h3 id="aim-of-this-research-project">1. Aim of this Research
+Project</h3>
 <p>The project has set itself the task of quantitatively examining
 central religious concepts such as sacred, ritual, purity, and religion
 in terms of their prevalence, use, and meaning in various social fields
 such as politics and art. From a theoretical perspective, the project’s
-focus lies on (de)sacralization processes <span class="citation"
-data-cites="krech_soziologie_2018">(see <a
+focus lies on the interplay between religion and various non-religious
+parts of society, with a special focus on (de)sacralization processes
+<span class="citation" data-cites="krech_soziologie_2018">(see <a
 href="#ref-krech_soziologie_2018" role="doc-biblioref">Krech
 2018</a>)</span> and the concept of the “religioid” coined by Simmel
 <span class="citation" data-cites="tyrell_religioide_2018">(see <a
@@ -28,16 +30,23 @@ and annotates them to enable data-driven research in the study of
 religion (more details on ReligionML and the first annotation attempts
 can be found on the <a
 href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML
-website</a>).</p>
-<h3 id="theoretical-background">Theoretical Background</h3>
-<p>The overall theoretical assumption behind the examination of
-religiously connotated words in various social fields is “that phenomena
-of the religious field are defined in relation to other religious
-constituents and other social and cultural facts outside the religious
-field” <span class="citation" data-cites="krech_relational_2020">(quote
-from introduction of the forthcoming ER special issue on “Religion and
-Images,” following <a href="#ref-krech_relational_2020"
-role="doc-biblioref">Krech 2020</a>)</span>.</p>
+website</a>). Due to several reasons, the initial phase of the project
+will concentrate on gathering, tagging, and examining Twitter data (for
+more details, please see the following parts and the section on <span
+id="sec-data">Data</span> in particular).</p>
+<h3 id="theoretical-background">2. Theoretical Background</h3>
+<p>This research project aims at contributing to research on the
+interplay between religion and other societal spheres (such as
+politics)<a href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a> by analyzing public discourses about
+and from within religion. The overall theoretical assumption behind this
+attempt is “that phenomena of the religious field are defined in
+relation to other religious constituents and other social and cultural
+facts outside the religious field” <span class="citation"
+data-cites="krech_relational_2020">(quote from introduction of the
+forthcoming ER special issue on “Religion and Images,” following <a
+href="#ref-krech_relational_2020" role="doc-biblioref">Krech
+2020</a>)</span>.</p>
 <p>To analyze the ways in which these interdependences between the
 various social fields have shaped religion (and the other way round),
 this project builds upon the concept of the “religioid” coined by Georg
@@ -51,8 +60,8 @@ Vorstellungswelt und „Religioidem“ […], das bereits in
 Vergesellschaftungsprozessen vorzufinden ist. [<span class="citation"
 data-cites="krech_soziologie_2018">Krech (<a
 href="#ref-krech_soziologie_2018" role="doc-biblioref">2018</a>)</span>,
-337]<a href="#fn1" class="footnote-ref" id="fnref1"
-role="doc-noteref"><sup>1</sup></a></p>
+337]<a href="#fn2" class="footnote-ref" id="fnref2"
+role="doc-noteref"><sup>2</sup></a></p>
 </blockquote>
 <p>Complementing the concept of the religioid, the project also draws on
 the process of (de)sacralization, which can be seen as an extension of
@@ -67,14 +76,13 @@ between the poles of increasing (sacralization) and decreasing
 (desacralization) religious interpretations <span class="citation"
 data-cites="krech_soziologie_2018">(<a href="#ref-krech_soziologie_2018"
 role="doc-biblioref">Krech 2018, 445</a>)</span>. In this context,
-sacralization is understood as the process of a religious interpretation
+sacralization is understood as the process of religious interpretations
 of “vormals religiös insignifikante Entität[en]” <span class="citation"
 data-cites="krech_soziologie_2018">(<a href="#ref-krech_soziologie_2018"
-role="doc-biblioref">Krech 2018, 443</a>)</span>,<a href="#fn2"
-class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>
-which is not only undertaken by religious actors (e.g. religious
-institutions) but can also be initiated by non-religious
-participants:</p>
+role="doc-biblioref">Krech 2018, 443</a>)</span>,<a href="#fn3"
+class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> by
+religious actors (e.g. religious institutions) and non-religious
+participants alike:</p>
 <blockquote>
 <p>Unter Sakralisierung ist in der Religionsforschung ganz allgemein zu
 verstehen, dass sich die kollektive Verständigung über das Heilige vom
@@ -82,8 +90,8 @@ religiösen in den nicht-religiösen Bereich ausweitet oder verlagert.
 [<span class="citation"
 data-cites="schlette_sakralisierung_2018">Schlette and Krech (<a
 href="#ref-schlette_sakralisierung_2018"
-role="doc-biblioref">2018</a>)</span>, 437]<a href="#fn3"
-class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+role="doc-biblioref">2018</a>)</span>, 437]<a href="#fn4"
+class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
 </blockquote>
 <p>The process of (de)sacralization can shift the meaning of concepts
 from the religious to the non-religious realm, but it can also take the
@@ -94,31 +102,37 @@ role="doc-biblioref">Bellah 1967</a>)</span>.</p>
 <p>The project “A Quantitative Analysis of the Dissemination of
 Religious Notions in Contemporary English Texts” will attempt to
 quantitatively analyze these processes of religioid use cases of certain
-terms as well as the process of (de)sacralization using texts from
-various social fields. Potential social fields that could be examined in
-this context are found, among others, in the section “Religion im
+terms and the process of (de)sacralization using texts from various
+social fields. Potential social fields that could be examined in this
+context are found, among others, in the section “Religion im
 gesellschaftlichen Kontext” in the <em>Handbuch Religionssoziologie</em>
 <span class="citation" data-cites="pollack_handbuch_2018">(<a
 href="#ref-pollack_handbuch_2018" role="doc-biblioref">Pollack et al.
 2018, 657–859</a>)</span>. For several reasons (among others:
 availability, copyright issues, relevance), the project is currently
-limited to the three fields of politics, art, and media/internet.<a
-href="#fn4" class="footnote-ref" id="fnref4"
-role="doc-noteref"><sup>4</sup></a></p>
-<h3 id="methodology">Methodology</h3>
-<p>The methodology is based on the quantitative analysis of the textual
-evidence collected in the ReligionML Corpus, consisting of sentences and
-short documents of diverse provenance (text snippets, tweets, etc.). The
-analysis will be performed by applying machine learning algorithms <span
-class="citation" data-cites="geron_handson_2019">(in particular from the
-field of unsupervised learning, see <a href="#ref-geron_handson_2019"
-role="doc-biblioref">Géron 2019</a>)</span> on the annotated documents
-of the ReligionML Corpus. In addition, established methods from the
-field of corpus linguistics will be applied to achieve a better
-understanding of the use and meaning of the terms under investigation.
-These include methods such as keyword analysis, collocation analysis,
-and word frequency lists <span class="citation"
-data-cites="brezina_statistics_2018b">(<a
+limited to the three fields of politics, art, and media.<a href="#fn5"
+class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<h3 id="methodology">3. Methodology</h3>
+<p>The methodology is based on the quantitative analysis of the
+collected and annotated data, which will initially consist of Twitter
+data but also include other sources at a later stage (see section <span
+id="sec-data">Data</span> below). The data will be tagged according to
+the annotation schemata described on the <a
+href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML
+Corpus website</a>, thereby both iteratively enhancing the annotation
+schemata and facilitating a later integration into the ReligionML
+corpus.</p>
+<p>The exploratory data analysis will be performed by applying machine
+learning algorithms from the field of unsupervised learning <span
+class="citation" data-cites="geron_handson_2019">(see <a
+href="#ref-geron_handson_2019" role="doc-biblioref">Géron
+2019</a>)</span> and other statistical measures (such as phi coeficient)
+on the annotated data. The clusters resulting from these steps will be
+analyzed using established methods from the field of corpus linguistics
+to achieve a better understanding of the use and meaning of the terms
+under investigation <span class="citation"
+data-cites="brezina_statistics_2018b">(including keyword analyses,
+collocation analyses, and word frequency lists, see <a
 href="#ref-brezina_statistics_2018b" role="doc-biblioref">Brezina
 2018</a>)</span>.</p>
 <p>The quantitative methods will be expanded to include a qualitative
@@ -128,8 +142,8 @@ builds on a procedure I developed in my dissertation <span
 class="citation" data-cites="jurczyk_notion_2022a">(<a
 href="#ref-jurczyk_notion_2022a" role="doc-biblioref">Jurczyk
 2022</a>)</span> that will hopefully be extended during this project.<a
-href="#fn5" class="footnote-ref" id="fnref5"
-role="doc-noteref"><sup>5</sup></a></p>
+href="#fn6" class="footnote-ref" id="fnref6"
+role="doc-noteref"><sup>6</sup></a></p>
 <p>An example in this context is the analysis of (English) terms such as
 "sacred" or "holy" in documents of different provenance and genres
 (Twitter, newspaper articles, forums, art, politics, etc.), which are
@@ -139,23 +153,54 @@ class="citation" data-cites="jurczyk_notion_2022a">(I took a first step
 in this direction in my dissertation, see <a
 href="#ref-jurczyk_notion_2022a" role="doc-biblioref">Jurczyk
 2022</a>)</span>.</p>
-<h3 id="data">Data</h3>
-<p>The data, consisting of individual sentences or short sections, will
-be archived and processed in a structured manner in the ReligionML
-Corpus. Central to both the investigations in the context of this
-project and the ReligionML project as a whole are the annotations to be
-made at the document and word level, the details of which are explained
-on the <a
+<h3 id="sec-data">4. Data</h3>
+<p>In the beginning of the project, the data acquisition will focus on
+tweets gathered via the Twitter API v2 that include certain religious
+terms, such as “religion,” “holy”, “sacred,” and others. These Tweets
+will be annotated according the schemata discussed on the <a
 href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML
-Corpus website</a>.</p>
-<p>From a copyright and pragmatic<a href="#fn6" class="footnote-ref"
-id="fnref6" role="doc-noteref"><sup>6</sup></a> point of view, already
-digitized and freely available sources (Twitter, newspapers, digitized
-books, Wikipedia, etc.) are to be included and supplemented with manual
-and anonymized excerpts from other sources. From a copyright
-perspective, it is advantageous that the analyses in this project are
-based on short text excerpts (sentences and at most paragraphs, tweets)
-without including the complete sources.</p>
+Corpus website</a>, meaning that they will be tagged on a sentence
+(document) and word level. In the long run, the annotated tweets should
+be archived and processed in a structured manner as part of the
+ReligionML Corpus.</p>
+<p>At a later point of the project, other (digitized) contemporary and
+historical sources (such as newspapers, books, Wikipedia, etc.) should
+also be included in order to complement the analysis with a diachronic
+layer and text genres that represent additional parts of the public
+sphere.</p>
+<p>The reason to focus on Twitter data first has two major reasons:</p>
+<p>Firstly, Twitter has the enormous advantage of being widely used by
+religious actors (both private persons and institutions) as well as
+persons communicating <em>about</em> religion(s) between various
+societal spheres. It covers a broad spectrum of what is known as ‘public
+religion’ <span class="citation"
+data-cites="casanova_rethinking_2012 casanova_public_2008">(<a
+href="#ref-casanova_rethinking_2012" role="doc-biblioref">Casanova
+2012</a>, <a href="#ref-casanova_public_2008"
+role="doc-biblioref">2008</a>)</span> and the public discourse about
+religion <span class="citation" data-cites="neumaier_religion_2018">(<a
+href="#ref-neumaier_religion_2018" role="doc-biblioref">Neumaier 2018,
+834</a>)</span>. Therefore, Twitter data provides an excellent (and
+constantly growing) empirical basis and thus starting point for a
+research project that aims to examine the relation between religion and
+other parts of society. Yet, the concentration on Twitter data also adds
+several potential pitfalls to the analysis because the communication on
+Twitter follows certain rules and forms a distinct genre of
+communication <span class="citation"
+data-cites="bouvier_twitter_2020">(see <a
+href="#ref-bouvier_twitter_2020" role="doc-biblioref">Bouvier and
+Rosenbaum 2020</a>)</span>. Thus, it is mandatory during the first
+stages of the examination to remember the restricted representational
+character of Twitter communication for <em>the</em> public disource on
+religion and to complement the Twitter analysis by integrating other
+sources at a later stage (see again the idea behind the <a
+href="https://thomjur.github.io/home_page/projects/religionml.html">ReligionML
+Corpus</a>).</p>
+<p>Secondly, from a copyright and pragmatic<a href="#fn7"
+class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a>
+point of view, working with already digitized and freely copyright-free
+source material (such as Twitter data) has the advantage of saving a lot
+of time while also avoiding potential legal issues.</p>
 <h2 class="unnumbered" id="bibliography">Bibliography</h2>
 <div id="refs" class="references csl-bib-body hanging-indent"
 role="doc-bibliography">
@@ -164,11 +209,33 @@ role="doc-biblioentry">
 Bellah, Robert N. 1967. <span>“Civil Religion in America.”</span>
 <em>Daedalus</em> 96 (1): 1–21.
 </div>
+<div id="ref-bourdieu_feinen_2021a" class="csl-entry"
+role="doc-biblioentry">
+Bourdieu, Pierre. 2021. <em>Die feinen Unterschiede: Kritik der
+gesellschaftlichen Urteilskraft</em>. Translated by Bernd Schwibs and
+Achim Russer. 28. Auflage. Suhrkamp-Taschenbuch Wissenschaft 658.
+Frankfurt am Main: Suhrkamp.
+</div>
+<div id="ref-bouvier_twitter_2020" class="csl-entry"
+role="doc-biblioentry">
+Bouvier, Gwen, and Judith E. Rosenbaum, eds. 2020. <em>Twitter, the
+public sphere, and the chaos of online deliberation</em>. Cham Palgrave
+Macmillan.
+</div>
 <div id="ref-brezina_statistics_2018b" class="csl-entry"
 role="doc-biblioentry">
 Brezina, Vaclav. 2018. <em>Statistics in corpus linguistics: a practical
 guide</em>. <a
 href="https://www.cambridge.org/core/books/statistics-in-corpus-linguistics/4E530F86B328B2287681AD240796D2CF#fndtn-contents">https://www.cambridge.org/core/books/statistics-in-corpus-linguistics/4E530F86B328B2287681AD240796D2CF#fndtn-contents</a>.
+</div>
+<div id="ref-casanova_public_2008" class="csl-entry"
+role="doc-biblioentry">
+Casanova, José. 2008. <em>Public religions in the modern world</em>. 6.
+[reprint]. Chicago: University of Chicago Press.
+</div>
+<div id="ref-casanova_rethinking_2012" class="csl-entry"
+role="doc-biblioentry">
+———. 2012. <span>“Rethinking Public Religions.”</span> In, 25–35.
 </div>
 <div id="ref-geron_handson_2019" class="csl-entry"
 role="doc-biblioentry">
@@ -212,6 +279,12 @@ role="doc-biblioentry">
 ———. 2020. <span>“Relational Religion: Manifesto for a Synthesis in the
 Study of Religion.”</span> <em>Religion</em> 50 (1): 97–105. <a
 href="https://doi.org/10.1080/0048721X.2019.1686847">https://doi.org/10.1080/0048721X.2019.1686847</a>.
+</div>
+<div id="ref-luhmann_soziale_2021" class="csl-entry"
+role="doc-biblioentry">
+Luhmann, Niklas. 2021. <em>Soziale Systeme: Grundriß einer allgemeinen
+Theorie</em>. 18. Auflage. Suhrkamp-Taschenbuch Wissenschaft 666.
+Frankfurt am Main: Suhrkamp.
 </div>
 <div id="ref-neumaier_religion_2016" class="csl-entry"
 role="doc-biblioentry">
@@ -270,21 +343,32 @@ href="https://doi.org/10.1007/978-3-531-18924-6_27">https://doi.org/10.1007/978-
 role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>“The starting point is the empirical
+<li id="fn1" role="doc-endnote"><p>The term “social sphere” is applied
+with a vague reference to Bourdieu <span class="citation"
+data-cites="bourdieu_feinen_2021a">(<a href="#ref-bourdieu_feinen_2021a"
+role="doc-biblioref">2021</a>)</span> and Niklas Luhmann’s social
+systems <span class="citation" data-cites="luhmann_soziale_2021">(<a
+href="#ref-luhmann_soziale_2021" role="doc-biblioref">2021</a>)</span>.
+It takes up the observation that modern differentiated societies consist
+of various social spheres (or fields/systems; I use these terms
+synonymously throughout the project) that can be understood as
+autonomous systems which interact with (and influence) each other.<a
+href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>“The starting point is the empirical
 derivation of religion from social processes by means of the
 differentiation paradigm and the resulting distinction between religion
 as an autonomous world of imagination and a ‘religioid’ [...], which is
-already found in processes of socialization.”<a href="#fnref1"
+already found in processes of socialization.”<a href="#fnref2"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p>“formerly religiously insignificant
-entity[ies].”<a href="#fnref2" class="footnote-back"
+<li id="fn3" role="doc-endnote"><p>“formerly religiously insignificant
+entity[ies].”<a href="#fnref3" class="footnote-back"
 role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p>“In religious studies, sacralization
+<li id="fn4" role="doc-endnote"><p>“In religious studies, sacralization
 is generally understood to mean that the collective understanding of the
 sacred expands or shifts from the religious to the non-religious
-realm.”<a href="#fnref3" class="footnote-back"
+realm.”<a href="#fnref4" class="footnote-back"
 role="doc-backlink">↩︎</a></p></li>
-<li id="fn4" role="doc-endnote"><p>For the relation between religion and
+<li id="fn5" role="doc-endnote"><p>For the relation between religion and
 politics, see Willems <span class="citation"
 data-cites="willems_religion_2018">(<a href="#ref-willems_religion_2018"
 role="doc-biblioref">2018</a>)</span>. For the relation between religion
@@ -295,17 +379,17 @@ and media/online discourses, see Neumaier <span class="citation"
 data-cites="neumaier_religion_2018 neumaier_religion_2016">(<a
 href="#ref-neumaier_religion_2018" role="doc-biblioref">2018</a>, <a
 href="#ref-neumaier_religion_2016"
-role="doc-biblioref">2016</a>)</span>.<a href="#fnref4"
+role="doc-biblioref">2016</a>)</span>.<a href="#fnref5"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5" role="doc-endnote"><p>For an intriguing discussion of mixed
+<li id="fn6" role="doc-endnote"><p>For an intriguing discussion of mixed
 methods approaches in digital humanities and their critique, see
 Kleymann <span class="citation"
 data-cites="kleymann_datendiffraktion_2022a">(<a
 href="#ref-kleymann_datendiffraktion_2022a"
-role="doc-biblioref">2022</a>)</span>.<a href="#fnref5"
+role="doc-biblioref">2022</a>)</span>.<a href="#fnref6"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn6" role="doc-endnote"><p>The keyword here is automated
-acquisition of data through web scraping.<a href="#fnref6"
+<li id="fn7" role="doc-endnote"><p>The keyword here is automated
+acquisition of data through web scraping.<a href="#fnref7"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
