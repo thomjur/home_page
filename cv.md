@@ -57,15 +57,17 @@ BA, History, Religious Studies (Grade: 1.0)
 **FernUniversität Hagen**, since October 2017  
 BA, Studying Computer Science and Mathematics on a part-time basis
 
-- currently 100 CP (May 2022)
+- Currently 100 CP (May 2022)
+- Concentration: AI and Data Mining
 
 ## Publications
 ***
 &nbsp;
 #### Monographies
-- Jurczyk, Thomas. 2022. "The Notion of "holy" in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript. ISBN: 978-3-8376-6181-1
+- Jurczyk, Thomas. 2022. "The Notion of 'holy' in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript. ISBN: 978-3-8376-6181-1
 
 #### Peer-reviewed journal articles
+- Jurczyk, Thomas. forthcoming. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14.
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
 - Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
 - Jurczyk, Thomas. 2019. "Representation of transcendence: the Armenian letter 'On the image-fighters' from the seventh century CE." *Entangled Religions* 5 (2019): 95–153. [Link to the article](https://er.ceres.rub.de/index.php/ER/article/view/7306)
@@ -82,31 +84,34 @@ BA, Studying Computer Science and Mathematics on a part-time basis
 ## Honors, Grants, and Awards
 ***
 &nbsp;  
+inStudies (RUB) project „ARELINCO“ (50% research assistant position for one year), 2020–2021
+
 Grant "International Realisation Budget" (7,500 €) of the Research School PLUS (Ruhr-Universität Bochum)
 
-“Preis an Studierende” (Award for the best MA dissertation during the “Akademische Jahresfeier 2014”), Ruhr-Universität Bochum, November 2014.
+“Preis an Studierende” (Award for the best MA dissertation during the “Akademische Jahresfeier 2014”), Ruhr-Universität Bochum, November 2014
 
 ## Professional Experience
 ***
 &nbsp;  
 **Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
+*Research Assistant THERE project*, since April 2022
+
+**Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Managing Editor of Entangled Religions* (Wissenschaftlicher Mitarbeiter), since January 2021  
 
 - Managing editor of [Entangled Religions](https://er.ceres.rub.de/)
-
-&nbsp;  
+ 
 **Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Conducting the teaching-learning project ARELINCO ("Ancient Religions in Contact")*, funded by [inStudies](https://www.ruhr-uni-bochum.de/instudies/), October 2020 – September 2021
 
 - [Link to the project description](https://ceres.rub.de/en/research/projects/arelinco/)
 - [Link to the project website](https://www.ruhr-uni-bochum.de/arelinco/index.html)
-
-&nbsp;  
+  
 **Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Research Assistant* (Wissenschaftlicher Mitarbeiter), since October 2014  
 
 - Teaching BA and MA courses on Greco-Roman religions and digital methods in the study of religion
-- Part of the administration and organization of the study program "Religionswissenschaft"
+- Administration and organization of the study program "Religionswissenschaft"
 - Part of the [RUB Checks](http://rubcheck.rub.de/) initiative to create a digital portal for the international Master program ["Religious Studies"](https://ma.ceres.rub.de/en/){:target="_blank"} in Bochum  
 
 **University of Bremen, Institut für Religionswissenschaft und Religionspädagogik**  
@@ -209,9 +214,9 @@ Università degli studi di Pavia, March 2012 – June 2012
 #### Programming and markup languages
 - Python (advanced)
 - Java (advanced)
-- HTML/CSS/Markdown (basic)
-- PHP (basic)
-- JavaScript (basic)
+- Markdown (advanced)
+- HTML/CSS/JavaScript (basic)
+- SQL (basic)
 
 ## Languages
 ***

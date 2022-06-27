@@ -10,7 +10,7 @@ category: projects
 id="a-quantitative-analysis-of-the-dissemination-of-religious-notions-in-contemporary-english-texts">A
 Quantitative Analysis of the Dissemination of Religious Notions in
 Contemporary English Texts (15.06.2022)</h2>
-<h3 id="aim-of-this-research-project">1. Aim of this Research
+<h3 id="aim-of-this-research-project">Aim of this Research
 Project</h3>
 <p>The project has set itself the task of quantitatively examining
 central religious concepts such as sacred, ritual, purity, and religion
@@ -34,7 +34,7 @@ website</a>). Due to several reasons, the initial phase of the project
 will concentrate on gathering, tagging, and examining Twitter data (for
 more details, please see the following parts and the section on <span
 id="sec-data">Data</span> in particular).</p>
-<h3 id="theoretical-background">2. Theoretical Background</h3>
+<h3 id="theoretical-background">Theoretical Background</h3>
 <p>This research project aims at contributing to research on the
 interplay between religion and other societal spheres (such as
 politics)<a href="#fn1" class="footnote-ref" id="fnref1"
@@ -112,7 +112,7 @@ href="#ref-pollack_handbuch_2018" role="doc-biblioref">Pollack et al.
 availability, copyright issues, relevance), the project is currently
 limited to the three fields of politics, art, and media.<a href="#fn5"
 class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
-<h3 id="methodology">3. Methodology</h3>
+<h3 id="methodology">Methodology</h3>
 <p>The methodology is based on the quantitative analysis of the
 collected and annotated data, which will initially consist of Twitter
 data but also include other sources at a later stage (see section <span
@@ -153,7 +153,7 @@ class="citation" data-cites="jurczyk_notion_2022a">(I took a first step
 in this direction in my dissertation, see <a
 href="#ref-jurczyk_notion_2022a" role="doc-biblioref">Jurczyk
 2022</a>)</span>.</p>
-<h3 id="sec-data">4. Data</h3>
+<h3 id="sec-data">Data</h3>
 <p>In the beginning of the project, the data acquisition will focus on
 tweets gathered via the Twitter API v2 that include certain religious
 terms, such as “religion,” “holy”, “sacred,” and others. These Tweets
