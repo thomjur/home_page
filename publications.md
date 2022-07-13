@@ -12,6 +12,7 @@ category: publications
 - Jurczyk, Thomas. 2022. "The Notion of 'holy' in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript. ISBN: 978-3-8376-6181-1
 
 #### Peer-reviewed journal articles
+- Jurczyk, Thomas. forthcoming. "Data Science and the Study of Religion: Analyzing the Use and Meaning of 'Religion' in English Tweets". TBA.
 - Jurczyk, Thomas. forthcoming. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14.
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
 - Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
