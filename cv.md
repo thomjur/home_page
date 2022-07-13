@@ -67,6 +67,7 @@ BA, Studying Computer Science and Mathematics on a part-time basis
 - Jurczyk, Thomas. 2022. "The Notion of 'holy' in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." In *Digital Humanities Research* 5. Bielefeld: transcript. ISBN: 978-3-8376-6181-1
 
 #### Peer-reviewed journal articles
+- Jurczyk, Thomas. forthcoming. "Data Science and the Study of Religion: Analyzing the Use and Meaning of “Religion” in English Tweets". TBA.
 - Jurczyk, Thomas. forthcoming. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14.
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
 - Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
@@ -81,9 +82,13 @@ BA, Studying Computer Science and Mathematics on a part-time basis
 - Jurczyk, Thomas. 2020. "Hintergrundinformation: Christ/innen in islamischen Ländern." In *Religion unterbringen: Regulierung kultureller und religiöser Vielfalt in Flüchtlingsheimen*, edited by Sarah J. Jahn, Lisa Wevelsiep. Veröffentlichung des Centrums für Religionswissenschaftliche Studien Ceres, Bereich Wissenstransfer, Bochum.
 - Jurczyk, Thomas. 2019. "Review: Considering Comparison. A Method for Religious Studies by Oliver Freiberger." *JRE* 12 (2019): 217-219.
 
-## Honors, Grants, and Awards
+## Honors, Grants, and Committees
 ***
 &nbsp;  
+Board Member "Netzwerk Digital Humanities" (Ruhr-Universität Bochum) [Link](https://dh.ub.rub.de/de/)
+
+Member "Centrum für Reflektierte Textanalyse" (CRETA Verein) [Link](https://www.cretaverein.de/)
+
 inStudies (RUB) project „ARELINCO“ (50% research assistant position for one year), 2020–2021
 
 Grant "International Realisation Budget" (7,500 €) of the Research School PLUS (Ruhr-Universität Bochum)
