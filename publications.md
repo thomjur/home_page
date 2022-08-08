@@ -22,6 +22,7 @@ category: publications
 - Jurczyk, Thomas. 2019. "Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In *Bild Macht Religion: Kunst zwischen Verehrung, Verbot und Vernichtung*, edited by Martin Radermacher, Volkhard Krech (a.o.), 114–121. Bochum.  
 
 #### Other publications (journals without peer review, book reviews, popular)  
+- Jurczyk, Thomas. 2022. "Analyzing the Discourse on ‘Climate Change’ in U.S. Media: A Basic Tutorial on How to Do Data Science With Python". In *Medium.com*. [Link](https://medium.com/@ThomJur/analyzing-the-discourse-on-climate-change-in-u-s-1dd029e58420)
 - Jurczyk, Thomas. 2021. "Wie die Welt aus einem großen Familienstreit hervorging: Eine Schöpfungsgeschichte aus der griechischen Mythologie" In *Wie die Sterne an den Himmel kamen: Elf Geschichten aus der Zeit unserer Vorfahren*, edited by Kianoosh Rezania, Judith Stander-Dulisch, Franziska Burstyn. Leipzig: Edition Hamouda. ISBN: 978-39581-70568
 - Jurczyk, Thomas. 2020. "Besprechung von Klaus Heinrichs *wie eine religion der anderen die wahrheit wegnimmt*". Ça ira Verlag. [Link](https://www.ca-ira.net/verlag/rezensionen/thomas-jurczyk-rezension-zu-wie-eine-religion-der-anderen-die-wahrheit-wegnimmt/)
 - Jurczyk, Thomas. 2020. "Hintergrundinformation: Christ/innen in islamischen Ländern." In *Religion unterbringen: Regulierung kultureller und religiöser Vielfalt in Flüchtlingsheimen*, edited by Sarah J. Jahn, Lisa Wevelsiep. Veröffentlichung des Centrums für Religionswissenschaftliche Studien Ceres, Bereich Wissenstransfer, Bochum.

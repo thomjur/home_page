@@ -4,6 +4,14 @@ author: thomas jurczyk
 layout: page
 category: short_contributions
 ---
+## 2022
+***
+&nbsp;  
+1. **Analyzing the Discourse on ‘Climate Change’ in U.S. Media: A Basic Tutorial on How to Do Data Science With Python** (published on *Medium.com*)  
+<sub> In this contribution, I collect and analyze a small dataset consisting of news articles collected via an API to illustrate the typical pipeline for data-driven research.</sub>
+&nbsp;  
+[Link](https://medium.com/@ThomJur/analyzing-the-discourse-on-climate-change-in-u-s-1dd029e58420)
+
 ## 2021
 ***
 &nbsp;  
