@@ -8,7 +8,7 @@ category: home
 ---
 
 <figure style="padding-bottom: 3%;">
-  <img src="{{ site.baseurl }}{% link assets/images/title.png %}" alt="Cherry blossom tree." style="width:50%">
+  <img src="{{ site.baseurl }}{% link assets/images/title.png %}" alt="Cherry blossom tree." style="width:75%">
   <figcaption style="font-size: small">Image credits: Created with <a href="https://openai.com/dall-e-2/">DALL-E 2</a> - Cherry blossom tree.</figcaption>
 </figure>
 
