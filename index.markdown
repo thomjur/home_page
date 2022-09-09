@@ -8,8 +8,8 @@ category: home
 ---
 
 <figure style="padding-bottom: 3%;">
-  <img src="{{ site.baseurl }}{% link assets/images/title.jpg %}" alt="Frauen am Schreibtisch." style="width:100%">
-  <figcaption style="font-size: small">Image credits: <a href="https://commons.wikimedia.org/wiki/File:Fotothek_df_n-35_0000073_Facharbeiter_f%C3%BCr_Satztechnik.jpg">Eugen Nosko, Facharbeiter für Satztechnik (CC-BY) Wikimedia</a> - slightly changed.</figcaption>
+  <img src="{{ site.baseurl }}{% link assets/images/title.png %}" alt="Cherry blossom tree." style="width:50%">
+  <figcaption style="font-size: small">Image credits: Created with <a href="https://openai.com/dall-e-2/">DALL-E 2</a> - Cherry blossom tree.</figcaption>
 </figure>
 
 <p class="title-text">
