@@ -102,6 +102,8 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 **Eberhard Karls Universität Tübingen, Dr. Eberle Zentrum für digitale Kompetenzen**  
 *Research Assistant/LBA*, since October 2022
 
+- Teaching introductory/advanced classes on Python and data processing
+
 **Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Research Assistant THERE project*, since April 2022
 
