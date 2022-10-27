@@ -55,10 +55,10 @@ BA, History, Religious Studies (Grade: 1.0)
 - Supervisors: Professor Alexander-Kenneth Nagel and Jens Schlamelcher  
 
 **FernUniversität Hagen**, since October 2017  
-BA, Studying Computer Science and Mathematics on a part-time basis
+BA, Studying Computer Science on a part-time basis
 
-- Currently 100 CP (May 2022)
-- Concentration: AI and Data Mining
+- Currently 120 ECTS (October 2022)
+- Received Certificate "Applied Computer Science" (focus: Software Engineering) (60 ECTS) (Grade: 1.5) 
 
 ## Publications
 ***
@@ -99,6 +99,9 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 ## Professional Experience
 ***
 &nbsp;  
+**Eberhard Karls Universität Tübingen, Dr. Eberle Zentrum für digitale Kompetenzen**  
+*Research Assistant/LBA*, since October 2022
+
 **Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
 *Research Assistant THERE project*, since April 2022
 
