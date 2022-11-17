@@ -13,9 +13,9 @@ category: home
 </figure>
 
 <p class="title-text">
-	<span style="font-family: monospace"><b>Hi!</b></span> I am a <span style="font-family: monospace"><b>historian</b></span> and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> based at the <a href="https://uni-tuebingen.de/">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
+	<span style="font-family: monospace"><b>Hi!</b></span> I am a <span style="font-family: monospace"><b>historian</b></span> and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> based at the <a href="https://uni-tuebingen.de/" style="font-family: monospace">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
 	
-	In Tübingen, I am working as a lecturer teaching classes on <span style="font-family: monospace"><b>Python</b></span> at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/"><i>Dr. Eberle Zentrum für digitale Kompetenzen</i></a>. In Bochum, I am working as a research assistant and managing editor of <a href="https://er.ceres.rub.de/" style="font-family: monospace">Entangled Religions</a> at the <a href="https://ceres.rub.de/en/" style="font-family: monospace">Center for Religious Studies (CERES)</a>.
+	In Tübingen, I am working as a lecturer teaching classes on <span style="font-family: monospace"><b>Python</b></span> at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/" style="font-family: monospace">Dr. Eberle Zentrum für digitale Kompetenzen</a>. In Bochum, I am working as a research assistant and managing editor of <a href="https://er.ceres.rub.de/" style="font-family: monospace">Entangled Religions</a> at the <a href="https://ceres.rub.de/en/" style="font-family: monospace">Center for Religious Studies (CERES)</a>.
 </p>
 
 <p class="title-text">
