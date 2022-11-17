@@ -12,10 +12,8 @@ category: impressum
 44791 Bochum <br> 
 </p>
 
-<p> <strong>Vertreten durch: </strong><br>
-Thomas Jurczyk<br>
-</p><p><strong>Kontakt:</strong> <br>
-E-Mail: <a href='mailto:pyristfeuer@gmail.com'>pyristfeuer@gmail.com</a></br></p>
+<p><strong>Kontakt:</strong> <br>
+E-Mail: <a href='mailto:pyristfeuer@gmail.com'>pyristfeuer@gmail.com</a></p>
 
 <p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Thomas Jurczyk <br> 
