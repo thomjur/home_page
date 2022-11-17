@@ -13,11 +13,13 @@ category: home
 </figure>
 
 <p class="title-text">
-	<span style="font-family: monospace"><b>Hi!</b></span> I am a <span style="font-family: monospace"><b>historian</b></span> and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> at the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>. Currently, I am working as a research assistant and managing editor of <a href="https://er.ceres.rub.de/" style="font-family: monospace">Entangled Religions</a> at the <a href="https://ceres.rub.de/en/" style="font-family: monospace">Center for Religious Studies (CERES)</a>. My research interests are the history of <span style="font-family: monospace"><b>ancient religions</b></span>, <span style="font-family: monospace"><b>an/iconism</b></span>, and the application of <span style="font-family: monospace"><b>digital methods</b></span> and <span style="font-family: monospace"><b>quantitative approaches</b></span> in the study of religion.
+	<span style="font-family: monospace"><b>Hi!</b></span> I am a <span style="font-family: monospace"><b>historian</b></span> and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> based at the <a href="https://uni-tuebingen.de/">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
+	
+	In Tübingen, I am working as a lecturer teaching classes on <span style="font-family: monospace"><b>Python</b></span> at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/"><i>Dr. Eberle Zentrum für digitale Kompetenzen</i></a>. In Bochum, I am working as a research assistant and managing editor of <a href="https://er.ceres.rub.de/" style="font-family: monospace">Entangled Religions</a> at the <a href="https://ceres.rub.de/en/" style="font-family: monospace">Center for Religious Studies (CERES)</a>.
 </p>
 
 <p class="title-text">
-	As part of our teaching unit, I am mainly teaching BA/MA classes on <span style="font-family: monospace"><b>Greco-Roman religions</b></span> and <span style="font-family: monospace"><b>digital methods</b></span>.
+	My research interests are the history of <span style="font-family: monospace"><b>ancient religions</b></span>, <span style="font-family: monospace"><b>an/iconism</b></span>, and the application of <span style="font-family: monospace"><b>digital methods</b></span> and <span style="font-family: monospace"><b>quantitative approaches</b></span> in the study of religion.
 </p>
 
 <p class="title-text">
