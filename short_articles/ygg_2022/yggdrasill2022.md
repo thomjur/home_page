@@ -1,5 +1,5 @@
 ---
-title: Yggdrasill Jahresrückblick 2021
+title: Yggdrasill Jahresrückblick 2022
 author: thomas jurczyk
 layout: article
 exclude: true
