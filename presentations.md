@@ -4,6 +4,13 @@ author: thomas jurczyk
 layout: page
 category: short_contributions
 ---
+## 2023
+***
+&nbsp;  
+1. **Yggdrasill Jahresrückblick 2022**  
+<p class="sub-text"> Overview of the discussions and topics on the Yggdrasill mailing list in 2022 (German only)</p>
+[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2022/yggdrasill2022.md %}){:.sub-text}
+
 ## 2022
 ***
 &nbsp;  
