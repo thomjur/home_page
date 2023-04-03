@@ -13,7 +13,7 @@ category: publications
 
 #### Peer-reviewed journal articles
 - Jurczyk, Thomas. forthcoming. "Data Science and the Study of Religion: Analyzing the Use and Meaning of 'Religion' in English Tweets". TBA.
-- Jurczyk, Thomas. forthcoming. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14.
+- Jurczyk, Thomas. 2023. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14 (5). https://doi.org/10.46586/er.14.2023.10442
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
 - Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
 - Jurczyk, Thomas. 2019. "Representation of transcendence: the Armenian letter 'On the image-fighters' from the seventh century CE." *Entangled Religions* 5 (2019): 95–153. [Link to the article](https://er.ceres.rub.de/index.php/ER/article/view/7306)
