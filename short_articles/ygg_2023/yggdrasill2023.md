@@ -64,7 +64,7 @@ Der automatisierten Auswertung zufolge wurden Beiträge von **210** verschiedene
 ![Kumulative Summe der Beiträge auf Yggdrasill 2023.](cumsum_2023.png)
 
 ### Anzahl der Beiträge nach Geschlecht
-Das folgende Tortendiagramm zeigt die absolute Anzahl an Beiträgen auf Yggdrasill in 2023 verteilt nach Geschlecht der Verfasser:innen. Das Label "e" (=else) wurde vergeben, wenn Listenbeiträge von Organisationen oder nicht identifizierbaren Personen verfasst wurden. Es kann als durchaus problematisch betrachtet werden, dass die Kategorisierung in männlich oder weiblich hier lediglich binär erfolgt und dies auch noch rein auf Basis der Namen. Der Verfasser ist sich dieses Problems bewusst.
+Das folgende Tortendiagramm zeigt die relative Anzahl an Beiträgen auf Yggdrasill in 2023 nach Geschlecht der Verfasser:innen. Das Label "e" (=else) wurde vergeben, wenn Listenbeiträge von Organisationen oder nicht identifizierbaren Personen verfasst wurden. Es kann als durchaus problematisch betrachtet werden, dass die Kategorisierung in männlich oder weiblich hier lediglich binär erfolgt und dies auch noch rein auf Basis der Namen. Der Verfasser ist sich dieses Problems bewusst.
 
 ![Yggdrasill Gender-Analyse 2023.](gender_pie.png)
 
