@@ -18,6 +18,10 @@ category: short_contributions
 <p class="sub-text"> Overview of the discussions and topics on the Yggdrasill mailing list in 2022 (German only)</p>
 [Web Version]({{ site.baseurl }}{% link short_articles/ygg_2022/yggdrasill2022.md %}){:.sub-text}
 
+2. **ChatGPT und Religion: Kann AI Religionswissenschaft?**  
+<p class="sub-text"> Blog-Post published on "Marginalien: Religionswissenschaftliche Randbemerkungen" (German only)</p>
+[Web Version](https://marginalie.hypotheses.org/2769){:.sub-text}
+
 ## 2022
 ***
 &nbsp;  
