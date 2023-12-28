@@ -70,7 +70,7 @@ BA, Studying Computer Science on a part-time basis
 - Jurczyk, Thomas. 2023. "An/Iconism: On the Relations of Religion and Images". In Entangled Religions 14 (5). <https://doi.org/10.46586/er.14.5.2023>
 
 #### Peer-reviewed journal articles
-- Jurczyk, Thomas. 2023. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14 (5). https://doi.org/10.46586/er.14.2023.10442
+- Jurczyk, Thomas. 2023. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14 (5). <https://doi.org/10.46586/er.14.2023.10442>
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
 - Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
 - Jurczyk, Thomas. 2019. "Representation of transcendence: the Armenian letter 'On the image-fighters' from the seventh century CE." *Entangled Religions* 5 (2019): 95–153. [Link to the article](https://er.ceres.rub.de/index.php/ER/article/view/7306)
@@ -104,15 +104,20 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 ***
 &nbsp;  
 **Eberhard Karls Universität Tübingen, Dr. Eberle Zentrum für digitale Kompetenzen**  
-*Research Assistant/LBA*, since October 2022
+*Research Assistant/LBA* (50%), since October 2022
 
 - Teaching introductory/advanced classes on Python and data processing
 
-**Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
-*Research Assistant THERE project*, since April 2022
+**Ruhr-Universität Bochum**  
+*Editor of Philosophy and the Mind Sciences* (Wissenschaftlicher Mitarbeiter) (50%), since April 2023   
+
+- Editor of [Philosophy and the Mind Sciences](https://philosophymindscience.org/)
 
 **Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
-*Managing Editor of Entangled Religions* (Wissenschaftlicher Mitarbeiter), since January 2021  
+*Research Assistant THERE project*, April 2022 – March 2023
+
+**Ruhr-Universität Bochum, Center for Religious Studies (CERES)**  
+*Managing Editor of Entangled Religions* (Wissenschaftlicher Mitarbeiter), January 2021 – March 2022  
 
 - Managing editor of [Entangled Religions](https://er.ceres.rub.de/)
  
