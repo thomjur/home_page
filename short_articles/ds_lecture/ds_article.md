@@ -12470,7 +12470,6 @@ Name: cluster, dtype: int64</pre>
 </div>
 </div>
 </div>
-</div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=74c8f892-b3f5-4b2b-99bf-ae82a4fcce8b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
