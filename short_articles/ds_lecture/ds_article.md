@@ -12359,7 +12359,6 @@ Name: cluster, dtype: int64</pre>
 </div>
 </div>
 </div>
-</div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=15b22d29-aa22-4ff1-a692-f2ed42b68730">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -12371,6 +12370,7 @@ Name: cluster, dtype: int64</pre>
 <p style="text-indent: -0.5em">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</p>
 <p style="text-indent: -0.5em">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</p>
 <p>Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</p>
+</div>
 </div>
 </div>
 </div>
