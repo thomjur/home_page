@@ -10784,13 +10784,13 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="%C3%9Cbersicht">Übersicht<a class="anchor-link" href="#%C3%9Cbersicht">¶</a></h2><ol>
-<li>Einführung</li>
-<li>Was ist Data Science?</li>
-<li>Die Data Science Workflow</li>
-<li>Beispielprojekt: Analyse der Themen einer religionswissenchaftlichen E-Mail-Liste</li>
-<li>Zusammenfassung</li>
-<li>Literaturverzeichnis</li>
-<li>Code Appendix</li>
+<li><a href="#1.-Einf%C3%BChrung">Einführung</a></li>
+<li><a href="#2.-Was-ist-Data-Science?">Was ist Data Science?</a></li>
+<li><a href="#3.-Data-Science-Workflow">Der Data Science Workflow</href></li>
+<li><a href="4.-Beispielprojekt:-Analyse-der-Themen-einer-religionswissenchaftlichen-E-Mail-Liste-(Yggdrasill)">Beispielprojekt: Analyse der Themen einer religionswissenchaftlichen E-Mail-Liste</a></li>
+<li><a href="5.-Zusammenfassung">Zusammenfassung</a></li>
+<li><a href="6.-Literaturverzeichnis">Literaturverzeichnis</a></li>
+<li><a href="7.-Code-Appendix">Code Appendix</a></li>
 </ol>
 </div>
 </div>
@@ -10813,7 +10813,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>In dieser Sitzung werde ich eine kurze <strong>Einführung in das Thema Data Science</strong> und dessen Relevanz für die Geisteswissenschaften geben. Beginnen möchte ich mit einer kurzen Darstellung, was Data Science ist und warum Data Science auch für die Geistes- und Sozialwissenschaften relevant ist.</p>
+<p>In dieser Sitzung werde ich eine <strong>Einführung in das Thema Data Science</strong> und dessen Relevanz für die Geisteswissenschaften geben. Beginnen möchte ich mit einer kurzen Darstellung, was Data Science ist und warum Data Science auch für die Geistes- und Sozialwissenschaften relevant ist.</p>
 <p>Ich werde dabei primär mit der Programmiersprache <a href="https://www.python.org/">Python</a> und <a href="https://jupyter.org/">Jupyter Notebooks</a> arbeiten, die sich hervorragend für die Datenanalyse und deren Darstellung sowie Vermittlung eignen. Allerdings sind weder Python noch Jupyter Notebooks ein <em>sine qua non</em> für die Datenverarbeitung, sondern die im Folgenden zu zeigenden Schritte können auch mit anderen Programmen umgesetzt werden. Der Vorteil an einer Programmiersprache wie Python ist, dass alles an einem Ort und in einer Sprache durchgeführt werden kann.</p>
 <p>Nach der Einführung werde ich ein im Umfang reduziertes <strong>Beispielprojekt</strong> durchführen, das einige der vorher abstrakt herausgearbeiteten Aspekte veranschaulichen soll.</p>
 </div>
@@ -11131,7 +11131,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Im Folgenden soll sich der Frage gewwidmet werden, <strong>welche Themen im Laufe der Jahre am häufigsten besprochen wurden und ob es Themencluster gab</strong>, was einen Eindruck der Fachtradition und der sich im Laufe der Jahre verändernden Schwerpunkte im religionswissenschaftlichen Diskurs vermitteln soll.</p>
+<p>Im Folgenden soll sich der Frage gewidmet werden, <strong>welche Themen im Laufe der Jahre am häufigsten besprochen wurden und ob es Themencluster gab</strong>, was einen Eindruck der Fachtradition und der sich im Laufe der Jahre verändernden Schwerpunkte im religionswissenschaftlichen Diskurs vermitteln soll.</p>
 <p>Die Analyse konzentriert sich auf die <strong>Betreffzeilen</strong> der E-Mails (und nicht auf deren Inhalt).</p>
 </div>
 </div>
@@ -12462,12 +12462,12 @@ Name: cluster, dtype: int64</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Alby, Tom. 2022. Data Science in der Praxis: eine verständliche Einführung in alle wichtigen Verfahren. 1. Auflage. Rheinwerk computing. Bonn: Rheinwerk Verlag.<br/>
-Biemann, Chris, Gerhard Heyer, und Uwe Quasthoff. 2022. Wissensrohstoff Text: eine Einführung in das Text Mining. 2., Wesentlich überarbeitete Auflage. Wiesbaden: Springer Vieweg.<br/>
-Holmes, Dawn E. 2017. Big data: a very short introduction. First edition. Very short introductions 539. Oxford, United Kingdom: Oxford University Press.<br/>
-Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.<br/>
-Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.<br/>
-Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</p>
+<p><span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Alby, Tom. 2022. Data Science in der Praxis: eine verständliche Einführung in alle wichtigen Verfahren. 1. Auflage. Rheinwerk computing. Bonn: Rheinwerk Verlag.</span><br/>
+<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Biemann, Chris, Gerhard Heyer, und Uwe Quasthoff. 2022. Wissensrohstoff Text: eine Einführung in das Text Mining. 2., Wesentlich überarbeitete Auflage. Wiesbaden: Springer Vieweg.</span><br/>
+<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Holmes, Dawn E. 2017. Big data: a very short introduction. First edition. Very short introductions 539. Oxford, United Kingdom: Oxford University Press.</span><br/>
+<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</span><br/>
+<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</span><br/>
+<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</span></p>
 </div>
 </div>
 </div>
