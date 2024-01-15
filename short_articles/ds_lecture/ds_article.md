@@ -10789,7 +10789,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 <li><a href="#3.-Data-Science-Workflow">Der Data Science Workflow</a></li>
 <li><a href="#4.-Beispielprojekt:-Analyse-der-Themen-einer-religionswissenchaftlichen-E-Mail-Liste-(Yggdrasill)">Beispielprojekt: Analyse der Themen einer religionswissenchaftlichen E-Mail-Liste</a></li>
 <li><a href="#5.-Zusammenfassung">Zusammenfassung</a></li>
-<li><a href="#6.-Literaturverzeichnis">Literaturverzeichnis</a></li>
+<li><a href="#6.-Literatur">Literaturverzeichnis</a></li>
 <li><a href="#7.-Code-Appendix">Code Appendix</a></li>
 </ol>
 </div>
