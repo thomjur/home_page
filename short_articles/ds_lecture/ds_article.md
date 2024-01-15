@@ -11929,8 +11929,6 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <td>1.462600</td>
 <td>1.247500</td>
 <td>...</td>
-<td>0.690550</td>
-<td>0.406380</td>
 <td>-0.586430</td>
 <td>1.139300</td>
 </tr>
@@ -12373,6 +12371,7 @@ Name: cluster, dtype: int64</pre>
 <p style="text-indent: -0.5em">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</p>
 <p style="text-indent: -0.5em">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</p>
 <p style="text-indent: -0.5em">Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</p>
+</div>
 </div>
 </div>
 </div>
