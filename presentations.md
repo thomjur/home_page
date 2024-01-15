@@ -7,7 +7,11 @@ category: short_contributions
 ## 2024
 ***
 &nbsp;  
-1\. **Yggdrasill Jahresrückblick 2023**  
+1\. **Data Science Einführung 2024**  
+<p class="sub-text">German introduction to data science using the Yggdrasill mailing list as an example (German only)</p>
+[Web Version]({{ site.baseurl }}{% link short_articles/ds_lecture/ds_article.md %}){:.sub-text}
+
+2\. **Yggdrasill Jahresrückblick 2023**  
 <p class="sub-text"> Overview of the discussions and topics on the Yggdrasill mailing list in 2023 (German only)</p>
 [Web Version]({{ site.baseurl }}{% link short_articles/ygg_2023/yggdrasill2023.md %}){:.sub-text}
 
@@ -50,7 +54,7 @@ category: short_contributions
 <p class="sub-text"> Presentation CERES Computer Café 2019, Ruhr-University Bochum, November 2019. </p>
 [Web Version]({{ site.baseurl }}{% link presentations/computer_cafe_08112019.md %}){:.sub-text}
 
-1\. **Yggdrasill Jahresrückblick 2019**  
+2\. **Yggdrasill Jahresrückblick 2019**  
 <p class="sub-text"> Overview of the discussions and topics on the Yggdrasill mailing list in 2019 (German only)</p>
 [Web Version]({{ site.baseurl }}{% link short_articles/ygg_2019/yggdrasill2019.md %}){:.sub-text}
 
