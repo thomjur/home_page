@@ -10787,10 +10787,10 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 <li><a href="#1.-Einf%C3%BChrung">Einführung</a></li>
 <li><a href="#2.-Was-ist-Data-Science?">Was ist Data Science?</a></li>
 <li><a href="#3.-Data-Science-Workflow">Der Data Science Workflow</a></li>
-<li><a href="4.-Beispielprojekt:-Analyse-der-Themen-einer-religionswissenchaftlichen-E-Mail-Liste-(Yggdrasill)">Beispielprojekt: Analyse der Themen einer religionswissenchaftlichen E-Mail-Liste</a></li>
-<li><a href="5.-Zusammenfassung">Zusammenfassung</a></li>
-<li><a href="6.-Literaturverzeichnis">Literaturverzeichnis</a></li>
-<li><a href="7.-Code-Appendix">Code Appendix</a></li>
+<li><a href="#4.-Beispielprojekt:-Analyse-der-Themen-einer-religionswissenchaftlichen-E-Mail-Liste-(Yggdrasill)">Beispielprojekt: Analyse der Themen einer religionswissenchaftlichen E-Mail-Liste</a></li>
+<li><a href="#5.-Zusammenfassung">Zusammenfassung</a></li>
+<li><a href="#6.-Literaturverzeichnis">Literaturverzeichnis</a></li>
+<li><a href="#7.-Code-Appendix">Code Appendix</a></li>
 </ol>
 </div>
 </div>
@@ -12461,13 +12461,13 @@ Name: cluster, dtype: int64</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Alby, Tom. 2022. Data Science in der Praxis: eine verständliche Einführung in alle wichtigen Verfahren. 1. Auflage. Rheinwerk computing. Bonn: Rheinwerk Verlag.</span><br/>
-<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Biemann, Chris, Gerhard Heyer, und Uwe Quasthoff. 2022. Wissensrohstoff Text: eine Einführung in das Text Mining. 2., Wesentlich überarbeitete Auflage. Wiesbaden: Springer Vieweg.</span><br/>
-<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Holmes, Dawn E. 2017. Big data: a very short introduction. First edition. Very short introductions 539. Oxford, United Kingdom: Oxford University Press.</span><br/>
-<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</span><br/>
-<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</span><br/>
-<span style="text-indent: -0.5em; margin-bottom: 1em; margin-left: 1em;">Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</span></p>
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown" style="margin-bottom: 1em; margin-left: 1em;">
+<p><span style="text-indent: -0.5em;">Alby, Tom. 2022. Data Science in der Praxis: eine verständliche Einführung in alle wichtigen Verfahren. 1. Auflage. Rheinwerk computing. Bonn: Rheinwerk Verlag.</span><br/>
+<span style="text-indent: -0.5em;">Biemann, Chris, Gerhard Heyer, und Uwe Quasthoff. 2022. Wissensrohstoff Text: eine Einführung in das Text Mining. 2., Wesentlich überarbeitete Auflage. Wiesbaden: Springer Vieweg.</span><br/>
+<span style="text-indent: -0.5em;">Holmes, Dawn E. 2017. Big data: a very short introduction. First edition. Very short introductions 539. Oxford, United Kingdom: Oxford University Press.</span><br/>
+<span style="text-indent: -0.5em;">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</span><br/>
+<span style="text-indent: -0.5em;">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</span><br/>
+<span style="text-indent: -0.5em;">Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</span></p>
 </div>
 </div>
 </div>
