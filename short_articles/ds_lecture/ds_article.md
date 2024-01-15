@@ -11239,7 +11239,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 <p><code>diskussion panel dvrw-tagung 2009</code></p>
 <p>Das neue Format vereinfacht die Zählung gleicher/ähnlicher Betreffzeilen und konzentriert deren Inhalt auf das Wesentliche.</p>
 <p>In einem ersten Schritt sollen die Betreffzeilen anhand mit den vorgeschlagenen Transformationen 1-3 bearbeitet und in einem entsprechenden Dictionary strukturiert werden.</p>
-<p>Dies sieht in Python wie folt aus (Achtung: hier wird nur das fertige Resultat geladen; für die eigentliche Transformation bitte den Code-Appendix konsultieren).</p>
+<p>Dies sieht in Python wie folgt aus (Achtung: hier wird nur das fertige Resultat geladen; für die eigentliche Transformation bitte den Code Appendix konsultieren).</p>
 </div>
 </div>
 </div>
@@ -11309,7 +11309,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h3 id="4.3-Explorate-Datenanalyse-(EDA)">4.3 Explorate Datenanalyse (EDA)<a class="anchor-link" href="#4.3-Explorate-Datenanalyse-(EDA)">¶</a></h3>
+<h3 id="4.3-Explorate-Datenanalyse-(EDA)">4.3 Explorative Datenanalyse (EDA)<a class="anchor-link" href="#4.3-Explorate-Datenanalyse-(EDA)">¶</a></h3>
 </div>
 </div>
 </div>
@@ -11320,7 +11320,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Selbst wenn das Gefühl besteht, die eigenen Daten gut zu kennen bzw. diese sehr simpel strukturiert sind, sollte <em>immer</em> eine rudimentäre explorative Datenanalyse durchgeführt werden. Denn selbst wenn diese nur das bestätigt, was bereits vorher bekannt war, ist auch dies als ein Ergebnis zu werten. Außerdem kennt der Leser:in die Daten wahrscheinlich nicht so gut wie man selbst und ist daher für eine kurze Übersicht dankbar. Häufig führt die EDA aber auch zu <strong>überraschenden Ergebnissen</strong> und offenbart Eigenschaften oder sogar Probleme der Daten, die bisher übersehen wurden (beispielsweise unbekannte Strukturen, <strong>Outlier</strong> (Ausreißer) oder auch einfach fehlerhafte Datenpunkte).</p>
+<p>Selbst wenn das Gefühl besteht, die eigenen Daten gut zu kennen bzw. diese sehr simpel strukturiert sind, sollte <em>immer</em> eine rudimentäre explorative Datenanalyse durchgeführt werden. Denn selbst wenn diese nur das bestätigt, was bereits vorher bekannt war, ist auch dies als ein Ergebnis zu werten. Außerdem kennt der Leser:in die Daten wahrscheinlich nicht so gut wie man selbst und ist daher für eine kurze Übersicht dankbar. Häufig führt die EDA aber auch zu <strong>überraschenden Ergebnissen</strong> und offenbart Eigenschaften oder sogar Probleme in den Daten, die übersehen wurden (beispielsweise unbekannte Strukturen, <strong>Outlier</strong> (Ausreißer) oder auch einfach fehlerhafte Datenpunkte).</p>
 </div>
 </div>
 </div>
@@ -11342,7 +11342,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Die vorliegenden Daten umfassen <strong>14.741</strong> Beiträge, was ca. <strong>546</strong> Beiträgen/Jahr (arithm. Mittel) entspricht (Median: <strong>497</strong>).</p>
+<p>Die vorliegenden Daten umfassen <strong>14.741</strong> Beiträge/E-Mails, was ca. <strong>546</strong> Beiträgen/Jahr (arithm. Mittel) entspricht (Median: <strong>497</strong>).</p>
 </div>
 </div>
 </div>
@@ -11375,7 +11375,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Als nächstes werden die Betreffzeilen selbst untersucht, indem die Länge (= Anzahl an Zeichen) einer jeden Betreffzeile berechnet und dann deren Verteilung betrachtet wird. Hierfür wird die Längenverteilung der Betreffzeilen mit Hilfe eines Boxplot visualisiert.</p>
+<p>Anschließend werden die Betreffzeilen selbst untersucht, indem die Länge (= Anzahl an Zeichen) einer jeden Betreffzeile berechnet und dann deren Verteilung betrachtet wird. Hierfür wird die Längenverteilung der Betreffzeilen mit Hilfe eines Boxplot visualisiert.</p>
 </div>
 </div>
 </div>
@@ -11676,10 +11676,10 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 <p>(1) <strong>Ich mag Bananen.</strong> (2) <strong>Du mochtest Birnen.</strong></p>
 <p>Das Bag-of-Words sieht dann einfach wie folgt aus:</p>
 <p>BoW: <code>{"Ich": 1, "mag": 1, "Bananen": 1, "Du": 1, "mochtest": 1, "Birnen": 1}</code></p>
-<p>An dieser Stelle wird deutlich, warum eine Lemmatisierung (oder auch Stemming) bei semantischen Fragestellungen sinnvoll sein kann. Denn in beiden Sätzen kommt eine Form des Wortes "mögen" vor, allerdings wird dies im BoW des nicht-lemmatisierten Textes nicht deutlich, weil hier konsequenterweise zwei unterschiedliche Wörter (<em>types</em>) registriert werden, nämlich "mag" und "mochtest").</p>
-<p>Das BoW einer lemmatisierten Version der Texte sähe wie folgt aus:</p>
+<p>An dieser Stelle wird deutlich, warum eine Lemmatisierung (oder auch Stemming) bei semantischen Fragestellungen sinnvoll sein kann. Denn in beiden Sätzen kommt eine Form des Wortes "mögen" vor, allerdings wird dies im BoW des nicht-lemmatisierten Textes nicht deutlich, weil hier konsequenterweise zwei unterschiedliche Wörter (<em>types</em>) registriert werden, nämlich "mag" und "mochtest".</p>
+<p>Das BoW einer lemmatisierten Version der Texte sieht wie folgt aus:</p>
 <p>(1) <strong>Ich mögen Banane</strong> (2) <strong>Du mögen Birne</strong></p>
-<p>BoW: <code>{"Ich": 1, "mögen": 2, "Banane": 1, "Birne": 1}</code></p>
+<p>BoW: <code>{"Ich": 1, "Du": 1, "mögen": 2, "Banane": 1, "Birne": 1}</code></p>
 <p>Jetzt wird deutlich, dass das Wortfeld rund um "mögen" eindeutig der häufigste Begriff in der zugegeben kleinen Textsammlung ist, was einen zufriedenstellenden Ersteindruck von deren Inhalt vermittelt.</p>
 <p>Entsprechend wird an dieser Stelle mit einer lemmatisierten Version der Betreffzeilen weitergarbeitet (für die Details siehe den Code Appendix).</p>
 </div>
@@ -11763,7 +11763,7 @@ Kontakt: <a href="mailto:thomas.jurczyk@uni-tuebingen.de">thomas.jurczyk@uni-tue
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Unter den häufigsten Wörtern finden sich viele erwartbare Begriffe wie "Religionswissenschaft", "Religionswissenschaftler:inn" etc. Es wird außerdem deutlich, dass es häufig um Stellenausschreibungen, Neuerscheinungen und Einladungen zu Veranstaltungen geht, was für eine Mailingliste nicht untyisch ist. Spannenderweise tauchen aber auch Begriffe wie "Fachverständnis" und "interreligiös" auf, die darauf hindeuten, dass es auf der Liste auch darum geht, das eigene Fach zu reflektieren und zu diskutieren.</p>
+<p>Unter den häufigsten Wörtern finden sich viele erwartbare Begriffe wie "Religionswissenschaft", "Religionswissenschaftler" etc. Es wird außerdem deutlich, dass es häufig um Stellenausschreibungen, Neuerscheinungen und Einladungen zu Veranstaltungen geht, was für eine Mailingliste nicht untyisch ist. Spannenderweise tauchen aber auch Begriffe wie "Fachverständnis" und "interreligiös" auf, die darauf hindeuten, dass es auf der Liste auch darum geht, das eigene Fach zu reflektieren und zu diskutieren.</p>
 </div>
 </div>
 </div>
@@ -11799,7 +11799,7 @@ Damit der Computer Texte miteinander vergleichen, also mit diesen rechnen kann, 
 <p>Mit Word2Vec können Vektoren für einzelne Wörter generiert werden, die es ermöglichen, dass ein Vergleich (= Ähnlichkeits/Distanzmessung) der Vektoren dazu führt, dass semantisch ähnliche Wörter möglichst nah und Wörter unterschiedlicher Bedeutung weiter auseinander liegen. Doc2Vec erstellt analog dazu einen Vektor für ein ganzes Dokument, sodass anstatt Wörter Dokumente miteinander verglichen werden können. Im vorliegenden Beispiel bedeutet dies, dass jede Betreffzeile in eine Vektorrepräsentation transformiert wird, um anschließend die Betreffszeilen auf Basis ihrer Vektoren auf Ähnlichkeit hin zu überprüfen und mögliche Cluster ähnlicher Betreffzeilen bilden zu können.</p>
 <p>In dieser Analyse werden die <a href="https://spacy.io/api/doc">Dokument-Vektoren</a> von spaCy verwendet (in der mittleren Varianten und 300 Dimensionen), " [... which default] to an average of the token vectors" (spaCy Docs).</p>
 <p><strong>umap</strong>/<strong>HDBSCAN</strong>:<br>
-Um das eigentliche Clustering durchzuführen, gibt es unterschiedliche Techniken, darunter <a href="https://en.wikipedia.org/wiki/K-means_clustering">k-means Clustering</a>, <a href="https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html">(H)DBSCAN</a>, <a href="https://en.wikipedia.org/wiki/Hierarchical_clustering">Hierarchisches Clustering</a> und vieles mehr. Vor dem Clustering wird jedoch zuerst vorbereitend das relativ neue <a href="https://pair-code.github.io/understanding-umap/">umap</a> Verfahren verwendet, das die vormals hochdimensionalen Vektoren reduziert und somit leichter visualisierbar macht. Die so reduzierten Daten werden dann mit HDBSCAN geclustert und anschließend visualisiert.</br></p>
+Um das eigentliche Clustering durchzuführen, gibt es unterschiedliche Techniken, darunter <a href="https://en.wikipedia.org/wiki/K-means_clustering">k-means Clustering</a>, <a href="https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html">(H)DBSCAN</a>, <a href="https://en.wikipedia.org/wiki/Hierarchical_clustering">Hierarchisches Clustering</a> und vieles mehr. Vor dem Clustering wird jedoch zuerst vorbereitend das relativ neue <a href="https://pair-code.github.io/understanding-umap/">umap</a> Verfahren verwendet, das die vormals hochdimensionalen Vektoren reduziert und somit leichter visualisierbar macht. Die so reduzierten Daten werden dann mit HDBSCAN geclustert und anschließend visualisiert.</p>
 </div>
 </div>
 </div>
@@ -12085,7 +12085,7 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>In den dimensionsreduzierten Daten wird deutlich, dass es midnestens zwei großere und mehrere kleinere Cluster gibt. Um diese zu identifizieren und zu labeln, wird der Datensatz nun mit HDBSCAN geclustert.</p>
+<p>In den dimensionsreduzierten Daten wird deutlich, dass es mindestens zwei größere und mehrere kleinere Cluster gibt. Um diese zu identifizieren und zu labeln, wird der Datensatz nun mit HDBSCAN geclustert.</p>
 </div>
 </div>
 </div>
@@ -12321,7 +12321,7 @@ Name: cluster, dtype: int64</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Die gefundenen Cluster können nun im weiteren Verlauf der Analyse weiter untersucht werden, zum Beispiel mit Methoden aus dem Bereich der qualitativen Forschung. Da es sich aber lediglich um ein Beispielprojekt handelt, wird die Clustering-Analyse an dieser Stelle beendet, da hoffentlich gezeigt werden konnte, wozu diese potenziell in der Lage ist.</p>
+<p>Die gefundenen Cluster können nun im weiteren Verlauf der Analyse untersucht werden, zum Beispiel mit Methoden aus dem Bereich der qualitativen Forschung. Da es sich  lediglich um ein Beispielprojekt handelt, wird die Clustering-Analyse an dieser Stelle beendet, da hoffentlich gezeigt werden konnte, wozu diese potenziell in der Lage ist.</p>
 </div>
 </div>
 </div>
@@ -12343,7 +12343,7 @@ Name: cluster, dtype: int64</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Ich hoffe, dass ich in dieser Sitzung zeigen konnte, (1) aus welchen Teilschritten ein typisches Data Science Vorhaben besteht (2) und wie die in einzelnen Teile in einem konkreten Projekt unter einer geisteswissenschaftlichen Fragestellung zusammengeführt werden können. Die dafür erforderlichen Daten lassen sich an vielen Stellen finden und oft wird man erst auf sie aufmerksam, wenn entsprechende Fähigkeiten erworben wurden und man mit einer "Datenbrille" durch die Welt läuft.</p>
+<p>Ich hoffe, dass ich in dieser Sitzung zeigen konnte, (1) aus welchen Teilschritten ein typisches Data Science Vorhaben besteht (2) und wie die einzelnen Teile in einem konkreten Projekt unter einer geisteswissenschaftlichen Fragestellung zusammengeführt werden können. Die dafür erforderlichen Daten lassen sich an vielen Stellen finden und oft wird man erst auf sie aufmerksam, wenn entsprechende Fähigkeiten erworben wurden und man mit einer "Datenbrille" durch die Welt läuft.</p>
 <p>Zum Abschluss soll noch einmal daran erinnert werden, dass für die jeweiligen Schritten nicht unbedingt die Kenntnis einer Programmiersprache erforderlich, auch wenn diese die Arbeit maßgeblich vereinfachen kann.</p>
 </div>
 </div>
