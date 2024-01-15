@@ -11910,23 +11910,7 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <th></th>
 <th>0</th>
 <th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
 <th>...</th>
-<th>290</th>
-<th>291</th>
-<th>292</th>
-<th>293</th>
-<th>294</th>
-<th>295</th>
-<th>296</th>
-<th>297</th>
 <th>298</th>
 <th>299</th>
 </tr>
@@ -11936,23 +11920,7 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <th>Kehrer ueber Scientology</th>
 <td>0.648040</td>
 <td>0.448960</td>
-<td>-1.376667</td>
-<td>-0.711435</td>
-<td>-0.765597</td>
-<td>1.113287</td>
-<td>-1.150450</td>
-<td>0.520177</td>
-<td>0.60752</td>
-<td>1.288460</td>
 <td>...</td>
-<td>0.250692</td>
-<td>-1.070300</td>
-<td>-0.161617</td>
-<td>-1.599067</td>
-<td>0.835717</td>
-<td>0.497893</td>
-<td>0.735443</td>
-<td>-0.82390</td>
 <td>-1.129867</td>
 <td>1.687930</td>
 </tr>
@@ -11960,23 +11928,9 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <th>Korrektion</th>
 <td>1.462600</td>
 <td>1.247500</td>
-<td>-0.127000</td>
-<td>1.509500</td>
-<td>-2.402400</td>
-<td>0.006856</td>
-<td>0.598910</td>
-<td>0.366980</td>
-<td>-0.22043</td>
-<td>2.392900</td>
 <td>...</td>
 <td>0.690550</td>
 <td>0.406380</td>
-<td>-1.456800</td>
-<td>-1.902500</td>
-<td>1.435800</td>
-<td>-1.549100</td>
-<td>1.274800</td>
-<td>-3.10120</td>
 <td>-0.586430</td>
 <td>1.139300</td>
 </tr>
@@ -11984,23 +11938,7 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <th>Tagung England</th>
 <td>2.625885</td>
 <td>1.048010</td>
-<td>0.394465</td>
-<td>-1.174630</td>
-<td>0.502150</td>
-<td>-0.612950</td>
-<td>0.983885</td>
-<td>-1.744005</td>
-<td>-1.57390</td>
-<td>0.529700</td>
 <td>...</td>
-<td>0.575605</td>
-<td>2.021335</td>
-<td>-0.717025</td>
-<td>-4.316150</td>
-<td>2.633700</td>
-<td>0.642810</td>
-<td>2.309350</td>
-<td>-2.66143</td>
 <td>1.163675</td>
 <td>2.816000</td>
 </tr>
@@ -12008,23 +11946,7 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <th>Adresse Fuer beitraege</th>
 <td>1.907067</td>
 <td>-0.024577</td>
-<td>-0.829933</td>
-<td>0.627328</td>
-<td>-2.336800</td>
-<td>1.165800</td>
-<td>-1.143503</td>
-<td>-0.932920</td>
-<td>1.05812</td>
-<td>1.366853</td>
 <td>...</td>
-<td>0.000567</td>
-<td>-2.250000</td>
-<td>0.071500</td>
-<td>2.220900</td>
-<td>-0.759940</td>
-<td>0.592900</td>
-<td>2.183388</td>
-<td>0.35370</td>
 <td>-0.892833</td>
 <td>1.223500</td>
 </tr>
@@ -12032,23 +11954,7 @@ Name: Kehrer ueber Scientology, Length: 300, dtype: float32</pre>
 <th>virtuell Ausflug</th>
 <td>0.711900</td>
 <td>-1.132605</td>
-<td>-0.334520</td>
-<td>-1.449605</td>
-<td>-1.764450</td>
-<td>-2.126910</td>
-<td>0.119200</td>
-<td>-0.911310</td>
-<td>-1.78299</td>
-<td>0.881060</td>
 <td>...</td>
-<td>0.482360</td>
-<td>1.792053</td>
-<td>0.205240</td>
-<td>-2.324350</td>
-<td>1.339705</td>
-<td>-1.065735</td>
-<td>0.592380</td>
-<td>0.75692</td>
 <td>-0.471435</td>
 <td>0.979915</td>
 </tr>
@@ -12461,12 +12367,12 @@ Name: cluster, dtype: int64</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p style="text-indent: -0.5em; margin-left: 1em;">Alby, Tom. 2022. Data Science in der Praxis: eine verständliche Einführung in alle wichtigen Verfahren. 1. Auflage. Rheinwerk computing. Bonn: Rheinwerk Verlag.</p>
-<p style="text-indent: -0.5em; margin-left: 1em;">Biemann, Chris, Gerhard Heyer, und Uwe Quasthoff. 2022. Wissensrohstoff Text: eine Einführung in das Text Mining. 2., Wesentlich überarbeitete Auflage. Wiesbaden: Springer Vieweg.</p>
-<p style="text-indent: -0.5em; margin-left: 1em;">Holmes, Dawn E. 2017. Big data: a very short introduction. First edition. Very short introductions 539. Oxford, United Kingdom: Oxford University Press.</p>
-<p style="text-indent: -0.5em; margin-left: 1em;">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</p>
-<p style="text-indent: -0.5em; margin-left: 1em;">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</p>
-<p style="text-indent: -0.5em; margin-left: 1em;">Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</p>
+<p style="text-indent: -0.5em">Alby, Tom. 2022. Data Science in der Praxis: eine verständliche Einführung in alle wichtigen Verfahren. 1. Auflage. Rheinwerk computing. Bonn: Rheinwerk Verlag.</p>
+<p style="text-indent: -0.5em">Biemann, Chris, Gerhard Heyer, und Uwe Quasthoff. 2022. Wissensrohstoff Text: eine Einführung in das Text Mining. 2., Wesentlich überarbeitete Auflage. Wiesbaden: Springer Vieweg.</p>
+<p style="text-indent: -0.5em">Holmes, Dawn E. 2017. Big data: a very short introduction. First edition. Very short introductions 539. Oxford, United Kingdom: Oxford University Press.</p>
+<p style="text-indent: -0.5em">Kane, Megan S. 2023. „Corpus Analysis with spaCy“. Herausgegeben von John R. Ladd. Programming Historian, Nr. 12 (November). <a href="https://doi.org/10.46430/phen0113">https://doi.org/10.46430/phen0113</a>.</p>
+<p style="text-indent: -0.5em">Kelleher, John D., und Brendan Tierney. 2018. Data science. The MIT Press essential knowledge series. Cambridge, Massachusetts: The MIT Press.</p>
+<p style="text-indent: -0.5em">Reades, Jonathan, und Jennie Williams. 2023. „Clustering and Visualising Documents Using Word Embeddings“. Herausgegeben von Alex Wermer-Colan. Programming Historian, Nr. 12 (August). <a href="https://doi.org/10.46430/phen0111">https://doi.org/10.46430/phen0111</a>.</p>
 </div>
 </div>
 </div>
