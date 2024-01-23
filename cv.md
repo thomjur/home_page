@@ -91,10 +91,6 @@ BA, Studying Computer Science on a part-time basis
 ## Honors, Grants, and Committees
 ***
 &nbsp;  
-Board Member "Netzwerk Digital Humanities" (Ruhr-Universität Bochum) [Link](https://dh.ub.rub.de/de/)
-
-Member "Centrum für Reflektierte Textanalyse" (CRETA Verein) [Link](https://www.cretaverein.de/)
-
 inStudies (RUB) project „ARELINCO“ (50% research assistant position for one year), 2020–2021
 
 Grant "International Realisation Budget" (7,500 €) of the Research School PLUS (Ruhr-Universität Bochum)
@@ -188,6 +184,9 @@ Since 2022
 
 **Member DHd AG “Digitales Publizieren”**  
 Since 2023
+
+**Member CRETA "Centrum für Reflektierte Textanalyse" (CRETA Verein) [Link](https://www.cretaverein.de/)**  
+Since 2022
 
 **DHd2024 Passau “#Quo Vadis DH?”**  
 Universität Passau, 26.02.–01.03.2024
