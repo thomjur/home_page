@@ -26,7 +26,7 @@ Bochum (Germany)
 thomas.jurczyk-q88 _at_ rub.de
 
 **Website**  
-<https://thomjur.github.io/home_page/>
+<https://website.tjurczyk.de/>
 
 **ORCID**  
 [ORCID Profile](https://orcid.org/0000-0002-5943-2305)
@@ -79,7 +79,8 @@ BA, Studying Computer Science on a part-time basis
 - Jurczyk, Thomas, Volkhard Krech, Martin Radermacher, and Knut Martin Stünkel. 2023. “Introduction: On the Relations of Religion and Images.” Entangled Religions 14 (5). <https://doi.org/10.46586/er.14.2023.10446>  
 - Jurczyk, Thomas. 2019. "Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In *Bild Macht Religion: Kunst zwischen Verehrung, Verbot und Vernichtung*, edited by Martin Radermacher, Volkhard Krech (a.o.), 114–121. Bochum.  
 
-#### Other publications (journals without peer review, book reviews, popular) 
+#### Other publications (journals without peer review, blogs, book reviews, popular) 
+- Jurczyk, Thomas. 2024. "Data Science in den Geisteswissenschaften: Eine praxisnahe Einführung" <https://website.tjurczyk.de/short_articles/ds_lecture/ds_article.html>
 - Jurczyk, Thomas. 2023. "ChatGPT und Religion: Kann AI Religionswissenschaft?". In Marginalien. <https://marginalie.hypotheses.org/2769> 
 - Jurczyk, Thomas. 2022. "Analyzing the Discourse on ‘Climate Change’ in U.S. Media: A Basic Tutorial on How to Do Data Science With Python". In *Medium.com*. [Link](https://medium.com/@ThomJur/analyzing-the-discourse-on-climate-change-in-u-s-1dd029e58420)
 - Jurczyk, Thomas. 2021. "Wie die Welt aus einem großen Familienstreit hervorging: Eine Schöpfungsgeschichte aus der griechischen Mythologie" In *Wie die Sterne an den Himmel kamen: Elf Geschichten aus der Zeit unserer Vorfahren*, edited by Kianoosh Rezania, Judith Stander-Dulisch, Franziska Burstyn. Leipzig: Edition Hamouda. ISBN: 978-39581-70568
@@ -163,6 +164,39 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 ## Stay Abroad, Conferences, and Other Academic Activities
 ***
 &nbsp;  
+**PhiMiSci Publishing-Workflow (Magic Manuscript Maker)**  
+A Docker-based server solution for the Typesetting Workflow of the  PhiMiSci Journal (One-Source Publishing via Pandoc). The workflow (currently in development) can be accessed at [mmm.phimisci.org](https://mmm.phimisci.org/) (password may be required). All repositories are located in the RUB internal Gitlab instance.
+
+**Entangled Religions Typesetting-Workflow**  
+Participation in the automated publishing workflows of the Entangled Religions Journal. The workflow was primarily developed by Frederik Elwert.
+
+**Religion Classification Web interface/API** ([Link](https://tjurczyk.de/religionclassification))  
+Prototype of a web application (Flask/Python) consisting of a web interface and a separately controllable API. This allows classifying short texts as “religious,” “non-religious,” or “religion-related.” Initially, custom-trained models were used, but now GPT-3.5-Turbo is accessed via the OpenAI API. The repositories are also located in the RUB internal Gitlab instance.
+
+**Pandoc Filter (Lua/Python)**  
+[Example](https://github.com/thomjur/pandoc-figref) of a Pandoc filter for in-text referencing of images.
+
+**Personal Website Jekyll/GitHub-Pages** ([Link](https://website.tjurczyk.de))
+
+**Website “Klaus und Renate Heinrich Stiftung”** ([Link](https://klausundrenateheinrich-stiftung.de/))
+
+## Stay Abroad, Conferences, and Other Academic Activities
+***
+&nbsp;  
+**Board Member “Netzwerk Digital Humanities” (Ruhr-Universität Bochum)**  
+Since 2022
+
+**Member DHd AG “Digitales Publizieren”**  
+Since 2023
+
+**DHd2024 Passau “#Quo Vadis DH?”**  
+Universität Passau, 26.02.–01.03.2024
+- Poster: „Roads? Where we’re going, we don't need roads.“ Die Zukunft des Publizierens
+
+**OJS-Netzwerktreffen 2024, Münster**  
+Universität Münster, 23.–24.02.2024
+- Presentation/Workshop: Automatization of the PhiMiSci-Workflow
+
 **Workshop "Softwaregestützte Kategorienentwicklung in Praxis und Forschung"**  
 TU Darmstadt (online), February 2022 ([LINK](https://fortext.github.io/katkit/events/ws1/ws1/){:target="_blank"})
 
@@ -229,14 +263,18 @@ Università degli studi di Pavia, March 2012 – June 2012
 #### General skills
 - Microsoft Office
 - Adobe Creative Suite (Illustrator, Premiere)
-- Corel Draw
 
 #### Programming and markup languages
-- Python (advanced)
-- Java (advanced)
-- Markdown (advanced)
-- HTML/CSS/JavaScript (basic)
-- SQL (basic)
+- Python
+- Java
+- Markdown
+- HTML/CSS
+- JavaScript
+- Webdevelopment (front- and backend)
+- Docker
+- Serveradministration
+- Wordpress
+- Gitlab/Git
 
 ## Languages
 ***

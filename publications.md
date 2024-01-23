@@ -24,7 +24,8 @@ category: publications
 - Jurczyk, Thomas, Volkhard Krech, Martin Radermacher, and Knut Martin Stünkel. 2023. “Introduction: On the Relations of Religion and Images.” Entangled Religions 14 (5). <https://doi.org/10.46586/er.14.2023.10446>
 - Jurczyk, Thomas. 2019. "Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In *Bild Macht Religion: Kunst zwischen Verehrung, Verbot und Vernichtung*, edited by Martin Radermacher, Volkhard Krech (a.o.), 114–121. Bochum.  
 
-#### Other publications (journals without peer review, book reviews, popular)  
+#### Other publications (journals without peer review, blogs, book reviews, popular)  
+- Jurczyk, Thomas. 2024. "Data Science in den Geisteswissenschaften: Eine praxisnahe Einführung" <https://website.tjurczyk.de/short_articles/ds_lecture/ds_article.html>
 - Jurczyk, Thomas. 2023. "ChatGPT und Religion: Kann AI Religionswissenschaft?". In Marginalien. <https://marginalie.hypotheses.org/2769>
 - Jurczyk, Thomas. 2022. "Analyzing the Discourse on ‘Climate Change’ in U.S. Media: A Basic Tutorial on How to Do Data Science With Python". In *Medium.com*. [Link](https://medium.com/@ThomJur/analyzing-the-discourse-on-climate-change-in-u-s-1dd029e58420)
 - Jurczyk, Thomas. 2021. "Wie die Welt aus einem großen Familienstreit hervorging: Eine Schöpfungsgeschichte aus der griechischen Mythologie" In *Wie die Sterne an den Himmel kamen: Elf Geschichten aus der Zeit unserer Vorfahren*, edited by Kianoosh Rezania, Judith Stander-Dulisch, Franziska Burstyn. Leipzig: Edition Hamouda. ISBN: 978-39581-70568
