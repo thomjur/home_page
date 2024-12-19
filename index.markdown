@@ -13,15 +13,14 @@ category: home
 </figure>
 
 <p class="title-text">
-	<span style="font-family: monospace"><b>I</b></span> am a <span style="font-family: monospace"><b>historian</b></span> and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> based at the <a href="https://uni-tuebingen.de/" style="font-family: monospace">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
-	
-	In Tübingen, I am teaching classes on <span style="font-family: monospace"><b>Python</b></span> and <span style="font-family: monospace"><b>Data Science</b></span> at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/" style="font-family: monospace">Dr. Eberle Zentrum für digitale Kompetenzen</a>. In Bochum, I am working as a research assistant and editor of <a href="https://philosophymindscience.org/" style="font-family: monospace">Philosophy and the Mind Sciences</a>.
+	<span style="font-family: monospace"><b>I</b></span> am a <span style="font-family: monospace"><b>historian</b></span>, <span style="font-family: monospace"><b>computer scientis</b></span>, and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> based at the <a href="https://uni-tuebingen.de/" style="font-family: monospace">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
+</p>
+<p>	
+	In Tübingen, I am teaching classes on <span style="font-family: monospace"><b>Python</b></span> and <span style="font-family: monospace"><b>Data Science</b></span> at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/" style="font-family: monospace">Dr. Eberle Zentrum für digitale Kompetenzen</a>. In Bochum, I am working as a research software engineer at the SFB 1475 <a href="https://sfb1475.ruhr-uni-bochum.de/en/research/outline/" style="font-family: monospace">Metaphors of Religion</a>. I also have experience developing automated workflows for online journals, such as the <a href="https://github.com/phimisci" style="font-family: monospace"> Magic Manuscript Maker</a>.
 </p>
 
 <p class="title-text">
-	My research interests are the history of <span style="font-family: monospace"><b>ancient religions</b></span>, <span style="font-family: monospace"><b>an/iconism</b></span>, and the application of <span style="font-family: monospace"><b>digital methods</b></span> and <span style="font-family: monospace"><b>quantitative approaches</b></span> in the study of religion.
-
-	I am also interested in developing single-source publishing workflows for online journals, as well as automating routine tasks to enhance daily workflow efficiency.
+	My research interests are the history of <span style="font-family: monospace"><b>ancient religions</b></span>, <span style="font-family: monospace"><b>an/iconism</b></span>, and the application of <span style="font-family: monospace"><b>digital methods</b></span> and <span style="font-family: monospace"><b>quantitative approaches</b></span> in the study of religion. I am also interested in developing single-source publishing workflows for online journals, as well as automating routine tasks to enhance daily workflow efficiency.
 </p>
 
 <p class="title-text">
