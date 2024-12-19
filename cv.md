@@ -47,18 +47,18 @@ MA, History, Religious Studies (Grade: 1.0)
 - Dissertation: "Differenzierung von 'Religion' und 'Politik' in der Antike: Das Beispiel Judäa im 2. Jh. v.Chr." ("Differentiation between 'Religion' and 'Politics': The Example of Judaea during the 2nd century BCE")
 - Supervisors: Professor Volkhard Krech and Professor Linda-Marie Günther  
 
+**FernUniversität Hagen**, December 2024  
+BA, Computer Science (Grade: 1.6)
+
+- Concentration: Data Mining, Software Security, and Software Engineering
+- Received Certificate "Applied Computer Science" (focus: Software Engineering) (60 ECTS) (Grade: 1.5) 
+
 **Ruhr-Universität Bochum**, Bochum, March 2011  
 BA, History, Religious Studies (Grade: 1.0)  
 
 - Concentration: Ancient Religions (Greco-Roman Religions; Early Christianity) and Theory of Religions / Systematic Approaches
 - Dissertation: „Das religiöse Feld im Athen des 5. Jh. v.Chr.” (“The Religious Field in Athens during the 5th century BCE”)
 - Supervisors: Professor Alexander-Kenneth Nagel and Jens Schlamelcher  
-
-**FernUniversität Hagen**, since October 2017  
-BA, Studying Computer Science on a part-time basis
-
-- Currently 165 ECTS (June 2024)
-- Received Certificate "Applied Computer Science" (focus: Software Engineering) (60 ECTS) (Grade: 1.5) 
 
 ## Publications
 ***
