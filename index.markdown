@@ -13,20 +13,20 @@ category: home
 </figure>
 
 <p class="title-text">
-	<span style="font-family: monospace"><b>I</b></span> am a <span style="font-family: monospace"><b>historian</b></span>, <span style="font-family: monospace"><b>computer scientis</b></span>, and scholar in the field of <span style="font-family: monospace"><b>religious studies</b></span> based at the <a href="https://uni-tuebingen.de/" style="font-family: monospace">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
+	I am a historian, computer scientis, and scholar in the field of religious studies based at the <a href="https://uni-tuebingen.de/" style="font-family: monospace">Universität Tübingen</a> and the <a href="https://www.ruhr-uni-bochum.de/en" style="font-family: monospace">Ruhr-Universität Bochum</a>.
 </p>
-<p>	
-	In Tübingen, I am teaching classes on <span style="font-family: monospace"><b>Python</b></span> and <span style="font-family: monospace"><b>Data Science</b></span> at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/" style="font-family: monospace">Dr. Eberle Zentrum für digitale Kompetenzen</a>. In Bochum, I am working as a research software engineer at the SFB 1475 <a href="https://sfb1475.ruhr-uni-bochum.de/en/research/outline/" style="font-family: monospace">Metaphors of Religion</a>. I also have experience developing automated workflows for online journals, such as the <a href="https://github.com/phimisci" style="font-family: monospace"> Magic Manuscript Maker</a>.
-</p>
-
-<p class="title-text">
-	My research interests are the history of <span style="font-family: monospace"><b>ancient religions</b></span>, <span style="font-family: monospace"><b>an/iconism</b></span>, and the application of <span style="font-family: monospace"><b>digital methods</b></span> and <span style="font-family: monospace"><b>quantitative approaches</b></span> in the study of religion. I am also interested in developing single-source publishing workflows for online journals, as well as automating routine tasks to enhance daily workflow efficiency.
+<p class="title-text">	
+	In Tübingen, I am teaching classes on Python and Data Science at the <a href="https://uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/dr-eberle-zentrum-fuer-digitale-kompetenzen/" style="font-family: monospace">Dr. Eberle Zentrum für digitale Kompetenzen</a>. In Bochum, I am working as a research software engineer at the SFB 1475 <a href="https://sfb1475.ruhr-uni-bochum.de/en/research/outline/" style="font-family: monospace">Metaphors of Religion</a>. I also have experience developing automated workflows for online journals, such as the <a href="https://github.com/phimisci" style="font-family: monospace"> Magic Manuscript Maker</a>.
 </p>
 
 <p class="title-text">
-	This website contains selected information about me and my <span style="font-family: monospace"><b>projects</b></span>. It also includes an overview of my <span style="font-family: monospace"><b>publications</b></span> and presentations.
+	My research interests are the history of ancient religions, an/iconism, and the application of digital methods and quantitative approaches in the study of religion. I am also interested in developing single-source publishing workflows and software solutions for online journals and humanities scholars.
 </p>
 
 <p class="title-text">
-	If you would like to contact me, please write an email to <span style="font-family: monospace"><b>thomas.jurczyk-q88 _at_ rub.de</b></span>.
+	This website contains selected information about me and my projects. It also includes an overview of my publications and presentations.
+</p>
+
+<p class="title-text">
+	If you would like to contact me, please write an email to thomas.jurczyk-q88 _at_ rub.de.
 </p>
