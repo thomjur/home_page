@@ -55,9 +55,9 @@ Es folgt die Liste der fünf meistdiskutierten Themen des Jahres 2024 auf Yggdra
 | professur religionswissenschaft wien                                                                                                                            |  7 |
 | teilzeitstelle (50%): „wissenschaftliche\*r referent\*in (m/w/d)“ in der evangelischen zentralstelle für weltanschauungsfragen (ezw) in berlin |  7 |
 
-Das dominierende Thema war die hitzige Debatte um Wissenschaftsfreiheit und Antisemitismus, die in Folge des Massakers in Israel und dessen Auswirkungen im ersten Quartal 2024 aufkam und auf die sich an dieser Stelle konzentriert werden soll. Bei den Themen, die unter der Überschrift "Wissenschaftsfreiheit und Antisemitismus" diskutiert wurden, ging es unter anderem um die Frage(n), welche Haltungen und Aussagen zu dem auf das Massaker folgenden Krieg in Gaza insbesondere in der deutschen akademischen Debatte zulässig sind. Unter den am häufigsten auftretenden Wörtern befanden sich "Debatte" (312), "Antisemitismus" (287), "Israel" (245), "Deutschland" (240) und "Wissenschaftsfreiheit" (238). Ebenfalls häufig anzutreffen waren die Begriffe "Vergleich" (162), "Politik" und "politisch" (jeweils 124) sowie die Namen "Ghassan Hage" (118) und "Kritik" (118) sowie "kritisch" (109).[^4]
+Das dominierende Thema war die hitzige Debatte um Wissenschaftsfreiheit und Antisemitismus, die in Folge des Massakers in Israel und dessen Auswirkungen im ersten Quartal 2024 aufkam und auf die sich an dieser Stelle konzentriert werden soll. Bei den Themen, die unter der Überschrift "Wissenschaftsfreiheit und Antisemitismus" diskutiert wurden, ging es unter anderem um die Frage(n), welche Haltungen und Aussagen zu dem auf das Massaker folgenden Krieg in Gaza insbesondere in der deutschen akademischen Debatte zulässig sind. Für die folgenden Analysen wurde erstmalig versucht, mit Hilfe eines regulären Ausdrucks[^5] zitierte E-Mails aus E-Mails automatisiert zu entfernen, um so eine Vervielfältigung von Texten zu vermeiden, die zufalschen Ergebnissen in der Analyse führen könnten. Unter den am häufigsten auftretenden Wörtern während dieser Debatte befanden sich in nicht geordneter Reihenfolge "Debatte" (82), "Antisemitismus" (97), "Israel" (72), "Deutschland" (64) und "Wissenschaftsfreiheit" (68). Ebenfalls häufig anzutreffen waren die Begriffe "Vergleich" (41), "Politik" (jeweils 37) sowie die Namen "Ghassan Hage" (26) und der Begriff der "Kritik" (35).[^4]
 
-Besonders interessant ist ein Blick auf die am häufigsten im Kontext von "Antisemitismus" vorkommenden Begriffe, die darauf hinweisen, welche Themen und nicht zuletzt Vorwürfe in der Diskussion eine besondere Rolle gespielt haben. Die folgende Tabelle zeigt die Ergebnisse einer mit AntConc durchgeführten Kollokationsanalyse "antisemitismus" (Log-Lik; 3L-3R; min. Freq. 5), die auf Basus der bereinigten und lemmatisierten E-Mails durchgeführt wurde.
+Ebenfalls aufschlussreich ist ein Blick auf die am häufigsten in der Nähe von "Antisemitismus" vorkommenden Begriffe, die darauf hinweisen, in welchem Kontext der Antisemitismus-Begriff in der Diskussion besprochen wurde. Die folgende Tabelle zeigt die Ergebnisse einer mit AntConc durchgeführten Kollokationsanalyse "Antisemitismus" (Log-Lik; 3L-3R; min. Freq. 5), die auf Basis der bereinigten und lemmatisierten E-Mails zum Thema "Wissenschaftsfreiheit und Antisemitismus" durchgeführt wurde.
 
 | Collocate             | Rank | Freq(Scaled) | FreqLR | FreqL | FreqR | Range | Likelihood | Effect |
 |-----------------------|------|--------------|--------|-------|-------|-------|------------|--------|
@@ -67,6 +67,8 @@ Besonders interessant ist ein Blick auf die am häufigsten im Kontext von "Antis
 | chiffre               | 4    | 162          | 27     | 27    | 0     | 1     | 103.281    | 3.988  |
 | freischein            | 4    | 162          | 27     | 27    | 0     | 1     | 103.281    | 3.988  |
 | deckmantel            | 4    | 162          | 27     | 0     | 27    | 1     | 103.281    | 3.988  |
+
+
 
 
 ### Anzahl der Beitragenden
@@ -90,3 +92,5 @@ In diesem Jahr überwiegen eindeutig die Posts männlicher Diskussionsteilnehmen
 [^3]: Stand 28. Dezember 2024.
 
 [^4]: An dieser Stelle sei allgemein auf die Schwierigkeiten automatisierter Textanalysen von E-Mails hingewiesen, da der Inhalt einer E-Mail häufig die vorangegangenen E-Mails als Zitate ebenfalls enthält, was zu einer künstlichen Vergrößerung der Textmenge führt, die wiederum Einfluss auf die Auswertung hat.
+
+[^5]: Der verwendete reguläre Ausdruck lautet: `(>.*\n)+|On .* wrote:\n|Am .* schrieb.*:\n`.
