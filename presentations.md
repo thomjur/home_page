@@ -11,6 +11,10 @@ category: short_contributions
 <p class="sub-text"> Overview of the discussions and topics on the Yggdrasill mailing list in 2024 (German only)</p>
 [Web Version]({{ site.baseurl }}{% link short_articles/ygg_2024/yggdrasill2024.md %}){:.sub-text}
 
+2\. **Data Science in the Humanities: An Introduction**  
+<p class="sub-text"> Article based on my presentation "Data Science in the Humanities: An Introduction" (English version)</p>
+[Medium.com article](https://medium.com/@ThomJur/data-science-in-the-humanities-a-practical-introduction-4a2fe9b392d4)
+
 ## 2024
 ***
 &nbsp;  
