@@ -13,7 +13,7 @@ category: short_contributions
 
 2\. **Data Science in the Humanities: An Introduction**  
 <p class="sub-text"> Article based on my presentation "Data Science in the Humanities: An Introduction" (English version)</p>
-[Medium.com article](https://medium.com/@ThomJur/data-science-in-the-humanities-a-practical-introduction-4a2fe9b392d4)
+[Medium.com article](https://medium.com/@ThomJur/data-science-in-the-humanities-a-practical-introduction-4a2fe9b392d4){:.sub-text}
 
 ## 2024
 ***
