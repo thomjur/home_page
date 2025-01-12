@@ -25,6 +25,7 @@ category: publications
 - Jurczyk, Thomas. 2019. "Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In *Bild Macht Religion: Kunst zwischen Verehrung, Verbot und Vernichtung*, edited by Martin Radermacher, Volkhard Krech (a.o.), 114–121. Bochum.  
 
 #### Other publications (journals without peer review, blogs, book reviews, popular)  
+- Jurczyk, Thomas. 2025. "Data Science in the Humanities: An Introduction". Medium.com, published 10.01.2025. [Link](https://medium.com/@ThomJur/data-science-in-the-humanities-a-practical-introduction-4a2fe9b392d4)
 -	Dinger, Patrick, Jan Horstmann, Caroline Jansky, Thomas Jurczyk und Timo Steyer. 2024. "Community statt Glaskugel: Euer Feedback zur Zukunft des digitalen Publizierens." DHd-Blog, 28. Juni 2024. https://dhd-blog.org/?p=21189.
 - Jurczyk, Thomas. 2024. "Data Science in den Geisteswissenschaften: Eine praxisnahe Einführung" <https://website.tjurczyk.de/short_articles/ds_lecture/ds_article.html>
 - Jurczyk, Thomas. 2023. "ChatGPT und Religion: Kann AI Religionswissenschaft?". In Marginalien. <https://marginalie.hypotheses.org/2769>
