@@ -102,8 +102,15 @@ Grant "International Realisation Budget" (7,500 €) of the Research School PLUS
 ## Professional Experience
 ***
 &nbsp;  
+**Ruhr-Universität Bochum**  
+*Research Software Engineer* CRC 1475 "Metaphors of Religion" (100%), since January 2025   
+
+- computer-driven analyses of the A01 tafsir corpus
+- development of a web application
+- data wrangling
+  
 **Eberhard Karls Universität Tübingen, Dr. Eberle Zentrum für digitale Kompetenzen**  
-*Research Assistant/LBA* (50%), since October 2022
+*Research Assistant/LBA* (50%), October 2022 – February 2025
 
 - Teaching introductory/advanced classes on Python and data processing
 
@@ -267,11 +274,12 @@ Università degli studi di Pavia, March 2012 – June 2012
 
 #### Programming and markup languages
 - Python
+- Go
 - Java
 - Markdown
 - HTML/CSS
 - JavaScript
-- Webdevelopment (front- and backend)
+- Webdevelopment (front- and backend), particularly Svelte
 - Docker
 - Serveradministration
 - Wordpress
