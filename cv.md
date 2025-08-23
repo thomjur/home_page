@@ -70,6 +70,7 @@ BA, History, Religious Studies (Grade: 1.0)
 - Jurczyk, Thomas. 2023. "An/Iconism: On the Relations of Religion and Images". In Entangled Religions 14 (5). <https://doi.org/10.46586/er.14.5.2023>
 
 #### Peer-reviewed journal articles
+- Jurczyk, Thomas, Roman Seidel, Adrian Bernhard, Tatjana Scheffler, and Johann Buessow. 2025. “Text Mining Tafsir: Compilation and Preliminary Explorations of a Curated Corpus of 80 Qurʾanic Commentaries.” Journal of Digital Islamicate Research (Leiden, The Netherlands) 3 (1): 97–167. https://doi.org/10.1163/27732363-bja00010
 - Jurczyk, Thomas. 2023. "The Meaning of *agalma*, *eidôlon*, and *eikôn* in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." *Entangled Religions* 14 (5). <https://doi.org/10.46586/er.14.2023.10442>
 - Jurczyk, Thomas. 2021. "Unsupervised Learning and K-Means Clustering with Python." *The Programming Historian* (2021) [Link to the article](https://programminghistorian.org/en/lessons/clustering-with-scikit-learn-in-python)
 - Jurczyk, Thomas. 2021. "Vorstellung eines (teil-)automatisierten Verfahrens zur Analyse der Multimodalität von Webseiten" *Zeitschrift für digitale Geisteswissenschaften* (2021) 6. [Link to the article](https://zfdg.de/2021_003)  
@@ -312,3 +313,4 @@ Graecum
 
 **Ancient Armenian (*Grabar*)**  
 basic/advanced
+
