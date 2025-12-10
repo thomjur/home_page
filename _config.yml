@@ -21,7 +21,7 @@
 title: tjurczyk
 email: thomas.jurczyk-q88 _at_ rub.de
 description: >- # this means to ignore newlines until "baseurl:"
-  digital/computational humanities. software engineering. religious studies. digital publishing. 
+  digital/computational humanities. software engineering. digital publishing. 
 
 header_pages:
   - index.markdown
@@ -60,6 +60,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
