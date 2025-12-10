@@ -34,6 +34,7 @@ header_pages:
 #baseurl: /arelinco # the subpath of your site, e.g. /blog
 #url: https://www.ruhr-uni-bochum.de # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thomjur
+mastodon_username: https://fedihum.org/@ThomasJurczyk
 
 # Build settings
 markdown: kramdown
@@ -60,4 +61,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
