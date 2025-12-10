@@ -20,7 +20,7 @@ category: home
 </p>
 
 <p class="title-text">
-	My research interests are the history of ancient religions, an/iconism, and the application of digital methods and quantitative approaches in the study of religion. I am also interested in developing single-source publishing workflows and software solutions for online journals and humanities scholars.
+	My professional work sits at the intersection of software engineering and digital humanities. I collaborate with humanities projects to develop project-specific software solutions, perform and support data analysis, manage and maintain databases, and provide overall tech support. Another important area of my interest is the development of single-source publishing workflows and corresponding software tools for online academic journals and scholars.
 </p>
 
 <p class="title-text">
