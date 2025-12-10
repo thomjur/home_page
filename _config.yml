@@ -21,7 +21,7 @@
 title: tjurczyk
 email: thomas.jurczyk-q88 _at_ rub.de
 description: >- # this means to ignore newlines until "baseurl:"
-  history and study of religions. an/iconism. digital tools and methods.
+  digital/computational humanities. software engineering. religious studies. digital publishing. 
 
 header_pages:
   - index.markdown
@@ -33,7 +33,6 @@ header_pages:
 
 #baseurl: /arelinco # the subpath of your site, e.g. /blog
 #url: https://www.ruhr-uni-bochum.de # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Juritho
 github_username:  thomjur
 
 # Build settings
@@ -61,3 +60,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
