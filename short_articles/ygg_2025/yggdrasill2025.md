@@ -1,4 +1,3 @@
-
 ---
 title: Yggdrasill Jahresrückblick 2025
 author: thomas jurczyk
@@ -30,7 +29,7 @@ Die Datenverarbeitung und -analyse wurde mit Python vorgenommen. Der Code in For
 ## Yggdrasill 2025 Auswertung
 
 ### Übersicht über alle Beiträge
-Der folgende Plot zeigt die Anzahl der Beiträge/Jahr seit Gründung der Yggdrasill-Liste (1997). Es fällt auf, dass die Aktivität auf der Liste in den letzten Jahren kontinuerlich abnimmt und mittlerweile auf dem Niveau der 2000er Jahre ist. Eine Hypothese ist ein möglicher Zusammenhang zwischen DACH-übergreifenden Institutskürzungen, sinkenden Studierendenzahlen, und einem entsprechenden Bedeutungsverlust der Religionswissenschaft, der sich auch in den Aktivitäten auf der Liste niederschlägt. Dies oll im Folgenden näher untersucht werden soll.
+Der folgende Plot zeigt die Anzahl der Beiträge/Jahr seit Gründung der Yggdrasill-Liste (1997). Es fällt auf, dass die Aktivität auf der Liste in den letzten Jahren kontinuerlich abnimmt und mittlerweile auf dem Niveau der 2000er Jahre ist. Eine Hypothese ist ein möglicher Zusammenhang zwischen DACH-übergreifenden Institutskürzungen, sinkenden Studierendenzahlen, und einem entsprechenden Bedeutungsverlust der Religionswissenschaft, der sich auch in den Aktivitäten auf der Liste niederschlägt. Dies soll im Folgenden näher untersucht werden soll.
 
 ![Yggdrasill-Beiträge/Jahr seit 1997.](yearly_stats.png)
 
@@ -39,7 +38,7 @@ Das Thema Schließungen von religionswissenschaftlichen Instituten, abnehmende S
 An dieser Stelle soll jedoch datengetrieben einem anderen möglichen Indikator für diesen Abwärtstrend nachgegangen werden, nämlich der jährlichen Anzahl an auf Yggdrasill veröffentlichten Stellenangeboten.
 
 #### Stellenangebote auf Yggdrasill (1997-2025)
-Um die Frage nach einem möglichen Abwärtstrend der Religionwissenschaft nachzugehen, soll an dieser Stelle die Anzahl an auf Yggdrasill veröffentlichten Stellenanzeigen untersucht werden. Dafür wurden Betreffszeilen in den E-Mail-Daten gesucht und gezählt, die eines der folgenden Wörter enthielten:
+Um die Frage nach einem möglichen Abwärtstrend der Religionwissenschaft nachzugehen, soll an dieser Stelle die Anzahl der auf Yggdrasill veröffentlichten Stellenanzeigen untersucht werden. Dafür wurden Betreffszeilen in den E-Mail-Daten gesucht und gezählt, die eines der folgenden Wörter enthielten:
 
 1. Stellenangebot
 2. Stellenanzeige
@@ -82,7 +81,7 @@ Ebenso wurde die Verbindung zwischen Politik, Religion und Wissenschaft in den U
 
 Bei der zweiten Debatte standen, wie bereits im Titel angedeutet, verschiedene Ursachen und Konsequenzen der **Schließung der Religionswissenschaft an der Universität Luzern** im Zentrum. Als Hauptgründe wurden sinkende Zahlen bei den (Hauptfach-)Studierenden, bevorstehende Emeritierungen sowie politisch-ökonomische Sparzwänge angeführt. Letztere scheinen Kriterien wie Drittmittelstärke und wissenschaftliche Relevanz zunehmend zu verdrängen.
 
-In der weiteren Diskussion wurde die Frage aufgeworfen, ob hier ein allgemeiner Trend erkennbar sei, der auch andere Standorte im DACH-Raum betreffen könnte (dazu auch Michael Stausberg: [What is happening to Religious Studies?](https://onlinelibrary.wiley.com/doi/10.1111/rsr.17065)). Angesichts der aktuellen wirtschaftlichen und gesellschaftlichen Lage erscheinen Kürzungen in sogenannten „Orchideenfächern“ immer wahrscheinlicher – eine Einschätzung, die von der Mehrheit geteilt wurde; nur wenige Stimmen sprachen von einer möglichen Trendwende. Zudem zeige sich bei den Studierenden eine zunehmende Pragmatisierung der Studienwahl sowie ein potenziell sinkendes Interesse an religiösen Themen. Ein weiterer Faktor sei die künstliche Intelligenz, die es ermöglicht, sich Spezialwissen niedrigschwellig anzueignen, ohne zwingend ein Interessen-Studium aufnehmen zu müssen. Ob und wie sich dieser Trend auch in der Stellenpolitik und Forschungsförderung widerpspiegelt, wurde unter anderem oben anhand der Analyse der Stellenausschreibungen auf Yggdrasill kurz diskutiert.
+In der weiteren Diskussion wurde die Frage aufgeworfen, ob hier ein allgemeiner Trend erkennbar sei, der auch andere Standorte im DACH-Raum betreffen könnte (dazu auch Michael Stausberg: [What is happening to Religious Studies?](https://onlinelibrary.wiley.com/doi/10.1111/rsr.17065)). Angesichts der aktuellen wirtschaftlichen und gesellschaftlichen Lage erscheinen Kürzungen in sogenannten „Orchideenfächern“ immer wahrscheinlicher – eine Einschätzung, die von der Mehrheit geteilt wurde; nur wenige Stimmen sprachen von einer möglichen Trendwende. Zudem zeige sich bei den Studierenden eine zunehmende Pragmatisierung der Studienwahl sowie ein potenziell sinkendes Interesse an religiösen Themen. Ein weiterer Faktor sei die künstliche Intelligenz, die es ermöglicht, sich Spezialwissen niedrigschwellig anzueignen, ohne zwingend ein Interessen-Studium aufnehmen zu müssen. Ob und wie sich dieser Trend auch in der Stellenpolitik und Forschungsförderung widerspiegelt, wurde unter anderem oben anhand der Analyse der Stellenausschreibungen auf Yggdrasill kurz diskutiert.
 
 ### Anzahl der Beitragenden
 Der automatisierten Auswertung zufolge wurden Beiträge von **141** verschiedenen E-Mail-Adressen gesendet (was -34 im Vergleich zum Vorjahr entspricht). Dies entspricht jedoch *nicht* zwingend 141 individuellen Beitragenden, da einige Personen Beiträge von unterschiedlichen Mailadressen gesendet haben. Im Falle von 141 Personen würde dies einem durchschnittlichen Beitragsmenge von ca. 3,3 Posts/Person entsprechen. Der folgende Plot mit der kumulativen Summe der Beiträge/Person (absteigend beginnend mit der Person bzw. Mailadresse mit den meisten Beiträgen) zeigt jedoch erneut, dass über die Hälfte der Posts von einem Viertel der Beitragenden verfasst wurden.
