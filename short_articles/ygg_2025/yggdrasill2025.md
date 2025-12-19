@@ -38,7 +38,7 @@ Das Thema Schließungen von religionswissenschaftlichen Instituten, abnehmende S
 An dieser Stelle soll jedoch datengetrieben einem anderen möglichen Indikator für diesen Abwärtstrend nachgegangen werden, nämlich der jährlichen Anzahl an auf Yggdrasill veröffentlichten Stellenangeboten.
 
 #### Stellenangebote auf Yggdrasill (1997-2025)
-Um die Frage nach einem möglichen Abwärtstrend der Religionwissenschaft nachzugehen, soll an dieser Stelle die Anzahl der auf Yggdrasill veröffentlichten Stellenanzeigen untersucht werden. Dafür wurden Betreffszeilen in den E-Mail-Daten gesucht und gezählt, die eines der folgenden Wörter enthielten:
+Um die Frage nach einem möglichen Abwärtstrend der Religionwissenschaft nachzugehen, soll an dieser Stelle die Anzahl der auf Yggdrasill veröffentlichten Stellenanzeigen untersucht werden. Dafür wurden Betreffszeilen in den E-Mail-Daten gesucht und gezählt, die eines der folgenden Wörter enthielten[^6]:
 
 1. Stellenangebot
 2. Stellenanzeige
@@ -107,4 +107,4 @@ Es überwiegen die Posts männlicher Diskussionsteilnehmender.
 
 [^5]: Der verwendete reguläre Ausdruck lautet: `(>.*\n)+|On .* wrote:\n|Am .* schrieb.*:\n`.
 
-[^6]: Der verwendete reguläre Ausdruck lautet: `Stellenangebot|Stellenausschreibung|[Jj]ob|\b[Pp]osition\b|\bStelle\b|\bStellen\b|[Ff]ellowship|[Ff]ellow`.
+[^6]: Der verwendete reguläre Ausdruck lautet: `Stellenangebot|Stellenausschreibung|[Jj]ob|\b[Pp]osition\b|\bStelle\b|\bStellen\b|[Ff]ellowship|[Ff]ellow` sowie `!re.match(r"R[eE]:|A[wW]:")` (um Antworten auf Ausschreibungen zu exludieren).
