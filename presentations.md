@@ -4,6 +4,13 @@ author: thomas jurczyk
 layout: page
 category: short_contributions
 ---
+## 2026
+***
+&nbsp;  
+1\. **Yggdrasill Jahresrückblick 2025**  
+<p class="sub-text"> Overview of the discussions and topics on the Yggdrasill mailing list in 2025 (German only)</p>
+[Web Version]({{ site.baseurl }}{% link short_articles/ygg_2025/yggdrasill2025.md %}){:.sub-text}
+
 ## 2025
 ***
 &nbsp;  
