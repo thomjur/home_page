@@ -1,9 +1,9 @@
 ---
-title: publications
+title: publikationen
 author: thomas jurczyk
 layout: page
-permalink: /publications/
-category: publications
+permalink: /publikationen/
+category: publikationen
 ---
 
 **See also:** [ORCID Profile](https://orcid.org/0000-0002-5943-2305)

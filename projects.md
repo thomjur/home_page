@@ -1,8 +1,8 @@
 ---
-title: projects
+title: projekte
 author: thomas jurczyk
 layout: page
-category: projects
+category: projekte
 ---
 
 <h3>Magic Manuscript Maker Typesetting Software</h3>

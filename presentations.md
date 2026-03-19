@@ -1,8 +1,8 @@
 ---
-title: short_contributions
+title: beiträge
 author: thomas jurczyk
 layout: page
-category: short_contributions
+category: beiträge
 ---
 ## 2026
 ***
