@@ -7,39 +7,39 @@ category: projects
 
 <h3>Magic Manuscript Maker Typesetting Software</h3>
 <p class="project-teaser">
-	The <em>Magic Manuscript Maker</em> (<a href="https://mmm.phimisci.org" target="_blank">Link</a>) is a collection of open-source tools and scripts that help to automate the typesetting process of academic articles. The workflow is designed to be used in a Docker container and currently used by the Philosophy and the Mind Sciences journal. The individual tools are channeled through a web application called the "Magic Manuscript Maker", which allows to create user profiles and projects. However, the individual tools can also be used independently. The MMM was mainly developed in Python.
+	Der <em>Magic Manuscript Maker</em> (<a href="https://mmm.phimisci.org" target="_blank">Link</a>) ist eine Sammlung von Open-Source-Tools und -Skripten, die dabei helfen, den Pandoc-basierte SSP-Workflows wissenschaftlicher Journals zu automatisieren. Der Workflow ist für die Verwendung in einem Docker-Container ausgelegt und wird derzeit von der Zeitschrift <em>Philosophy and the Mind Sciences</em> (<a href="https://philosophymindscience.org" target="_blank">Link</a>)  eingesetzt. Die einzelnen Tools werden über eine Webanwendung namens <em>Magic Manuscript Maker</em> gebündelt, die das Erstellen von Nutzerprofilen und Projekten ermöglicht. Die einzelnen Tools können jedoch auch unabhängig voneinander verwendet werden. Der MMM wurde hauptsächlich in Python entwickelt.
 </p>
 
 <p class="project-teaser-link">
 	<a href="https://github.com/phimisci" target="_blank">
-		<span class="material-icons-rounded md-36">
-			read_more
+		<span class=""> {% include_relative assets/icons/read_more_icon.svg %}
+			read more
 		</span>
 	</a>
 </p>
 
 <h3>Tafsir Web Corpus</h3>
 <p class="project-teaser">
-	Developed within the A01 project in the CRC 1475 "Metaphors of Religion" (<a href="https://sfb1475.ruhr-uni-bochum.de/en/subprojects/crc1475a01/" target="_blank">Link</a>), the <em>Tafsir Web Corpus</em> brings together one of the most extensive curated digital collections of Qurʾanic exegesis available today. It comprises: (1) 80 Arabic Tafsir works digitized and originally published by the Royal Aal al-Bayt Institute on <a href="https://altafsir.com" target="_blank">Altafsir.com</a>, the Qurʾan in TEI-XML (Corpus Coranicum), and Jalal al-Din Rumi’s Persian Masnavi, also in TEI-XML (see also <a href="https://sfb1475.ruhr-uni-bochum.de/en/research/sections/section-a-the-domain-of-the-physical/a01-corpus-description/" target="_blank">the official corpus description</a>). The web application allows to annotate metadata, download and filter specific text bundles, comment and discuss texts, and much more. It was developed using Svelte/JavaScript and Go.
+Entwickelt im Rahmen des Teilprojekts A01 des SFB 1475 „Metaphern der Religion" (<a href="https://sfb1475.ruhr-uni-bochum.de/en/subprojects/crc1475a01/" target="_blank">Link</a>), vereint das <em>Tafsir Web Corpus</em> eine der umfangreichsten kuratierten digitalen Sammlungen koranischer Exegese, die heute verfügbar ist. Es umfasst: (1) 80 arabische Tafsir-Werke, die vom Royal Aal al-Bayt Institute digitalisiert und ursprünglich auf <a href="https://altafsir.com" target="_blank">Altafsir.com</a> veröffentlicht wurden, den (2) Koran in TEI-XML (Corpus Coranicum) sowie (3) Jalal al-Din Rumis persisches Masnavi, ebenfalls in TEI-XML (siehe auch <a href="https://sfb1475.ruhr-uni-bochum.de/en/research/sections/section-a-the-domain-of-the-physical/a01-corpus-description/" target="_blank">die offizielle Korpusbeschreibung</a>). Die Webanwendung ermöglicht es, Metadaten zu annotieren, Textsammlungen herunterzuladen und zu filtern, Texte zu kommentieren und zu diskutieren und vieles mehr. Die Anwendung wurde mit Svelte/JavaScript und Go entwickelt.
 </p>
 
 <p class="project-teaser-link">
 	<a href="https://tafsir.tjurczyk.de" target="_blank">
-		<span class="material-icons-rounded md-36">
-			read_more
+		<span class=""> {% include_relative assets/icons/read_more_icon.svg %}
+			read more
 		</span>
 	</a>
 </p>
 
 <h3>Text Reuse Application</h3>
 <p class="project-teaser">
-	The <em>Text Reuse Detection</em> application was also developed within the A01 project in the CRC 1475 "Metaphors of Religion" (<a href="https://sfb1475.ruhr-uni-bochum.de/en/subprojects/crc1475a01/" target="_blank">Link</a>). Build on passim, this application helps the project team to analyze, visualize, comment, and annotate text reuse clusters found with passim. The application is currently only internally used and was developed using Svelte/JavaScript.
+	Die <em>Text Reuse Detection</em>-Anwendung wurde ebenfalls im Rahmen des Teilprojekts A01 des SFB 1475 „Metaphern der Religion" (<a href="https://sfb1475.ruhr-uni-bochum.de/en/subprojects/crc1475a01/" target="_blank">Link</a>) entwickelt. Aufbauend auf passim hilft diese Anwendung dem Projektteam dabei, mit passim gefundene Text-Reuse-Cluster zu analysieren, zu visualisieren, zu kommentieren und zu annotieren. Die Anwendung wird derzeit nur intern genutzt und wurde mit Svelte/JavaScript entwickelt.
 </p>
 
 <p class="project-teaser-link">
 	<a href="https://trd.tjurczyk.de" target="_blank">
-		<span class="material-icons-rounded md-36">
-			read_more
+		<span class=""> {% include_relative assets/icons/read_more_icon.svg %}
+			read more
 		</span>
 	</a>
 </p>

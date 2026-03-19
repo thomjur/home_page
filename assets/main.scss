@@ -1,0 +1,25 @@
+---  
+---  
+
+@import 'minima';
+
+.project-teaser-link {
+  padding-left: 3%;
+}
+
+.sub-text {
+  margin-left: 3%;
+  font-size: small;
+}
+
+.project-teaser-link svg {
+  width: 2em;   
+  height: 2em;
+  fill: black;
+}
+
+.project-teaser-link span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+}
