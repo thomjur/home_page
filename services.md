@@ -9,14 +9,15 @@ category: services
 <p class="text">Hier finden Sie eine Übersicht über die von mir angebotenen Dienstleistungen in meiner Tätigkeit als IT-Dienstleister und Entwickler. Bitte beachten Sie, dass ich nur Angebote annehmen kann, die in keiner direkten Verbindung oder Konkurrenz zu meiner Haupttätigkeit als Research Software Engineer an der Ruhr-Universität Bochum stehen.</p>
 
 <p class="text">Die von mir angebotenen Leistungen umfassen die folgenden Bereiche:</p>
-<ul class="text">
-<li><a href="#beratung">Beratung & Datenanalyse</a></li>
-<li><a href="#redaktion">Redaktionsworkflows & -software</a></li>
-<li><a href="#web">Webentwicklung</a></li>
-<li><a href="#ki">Automatisierungs- & KI-Beratung</a></li>
+<ul class="text" style="list-style: none;">
+<li><a href="#beratung" class="internal-link">Beratung & Datenanalyse</a></li>
+<li><a href="#redaktion" class="internal-link">Redaktionsworkflows & -software</a></li>
+<li><a href="#web" class="internal-link">Webentwicklung</a></li>
+<li><a href="#ki" class="internal-link">Automatisierungs- & KI-Beratung</a></li>
 </ul>
+<p class="text">Bei Rückfragen können Sie mich unter der folgenden E-Mail-Adresse erreichen: <a href="mailto:kontakt@tjurczyk.com">kontakt@tjurczyk.com</a></p>
 
-<h1 id="beratung">Beratung, Datenanalyse & Projektbegleitung in den Digital Humanities</h1>
+<h1 id="beratung">Beratung, Datenanalyse & Projektbegleitung</h1>
 <p class="text">Die Digital Humanities stellen Forschungsprojekte vor spezifische technische Herausforderungen: Welche Werkzeuge eignen sich für die Textanalyse meines Korpus? Wie strukturiere ich heterogene Forschungsdaten nachhaltig? Welche statistischen oder maschinellen Lernverfahren sind für meine Fragestellung geeignet – und wie interpretiere ich die Ergebnisse im geisteswissenschaftlichen Kontext? <br><br>
 
 Mit einer doppelten Qualifikation in Informatik und den Geisteswissenschaften berate und begleite ich Projekte an der Schnittstelle beider Disziplinen – auf Basis eigener Forschungspraxis.</p>
@@ -48,7 +49,7 @@ Mit einer doppelten Qualifikation in Informatik und den Geisteswissenschaften be
 </div>
 </details>
 
-<h1 id="redaktion">Automatisierung von Redaktionsworkflows für Verlage und akademische Zeitschriften</h1>
+<h1 id="redaktion">Automatisierung von Redaktionsworkflows</h1>
 <p class="text">Die Aufbereitung und Publikation wissenschaftlicher Texte ist in vielen Redaktionen noch immer mit erheblichem manuellem Aufwand verbunden – von der Formatierung eingereichter Manuskripte über den Satz bis zur Bereitstellung in mehreren Ausgabeformaten. Ich entwickle und implementiere Lösungen, die diesen Prozess systematisch automatisieren und dabei den spezifischen Anforderungen wissenschaftlicher Publikationsstandards gerecht werden.</p>
 
 <details class="text" name="services">
@@ -93,7 +94,7 @@ Je nach Umfang und Anforderung kommen dabei unterschiedliche Ansätze zum Einsat
 </div>
 </details>
 
-<h1 id="ki">Integration von KI und Large Language Models in bestehende Workflows</h1>
+<h1 id="ki">Integration von KI und Large Language Models</h1>
 <p class="text">Large Language Models (LLMs) bieten im Bereich der Textverarbeitung erhebliche Potenziale – sie eignen sich jedoch nicht für jeden Anwendungsfall gleichermaßen. Ob und wie KI-gestützte Verfahren sinnvoll in bestehende Arbeitsabläufe integriert werden können, hängt von den konkreten Anforderungen, dem verfügbaren Datenmaterial und den Qualitätsansprüchen des jeweiligen Vorhabens ab.</p>
 
 <details class="text" name="services">
