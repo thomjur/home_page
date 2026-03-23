@@ -3,7 +3,7 @@ title: blog
 author: thomas jurczyk
 layout: page
 category: blog
-lang: de
+lang: en
 ---
 ## 2026
 ***

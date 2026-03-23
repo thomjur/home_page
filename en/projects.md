@@ -1,9 +1,9 @@
 ---
-title: arbeit
+title: works
 author: thomas jurczyk
 layout: page
-category: arbeit
-lang: de
+category: works
+lang: en
 ---
 
 <h1>Magic Manuscript Maker Typesetting Software</h1>

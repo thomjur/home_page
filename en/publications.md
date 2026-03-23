@@ -1,9 +1,8 @@
 ---
-title: publikationen
+title: publications
 author: thomas jurczyk
 layout: page
-category: publikationen
-lang: de
+category: publications
 ---
 
 <p><strong>Weitere Information zu den Publikationen:</strong> <a href="https://orcid.org/0000-0002-5943-2305" target="_blank">ORCID Profil</a></p>

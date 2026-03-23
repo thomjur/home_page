@@ -5,6 +5,7 @@
 layout: home
 title: home
 category: home
+lang: de
 ---
 
 <figure style="padding-bottom: 3%;">

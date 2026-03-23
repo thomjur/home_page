@@ -1,8 +1,8 @@
 ---
 layout: page
-title: impressum
-category: impressum
-lang: de
+title: imprint
+category: imprint
+lang: en
 ---
 
 # Impressum

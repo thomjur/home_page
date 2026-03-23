@@ -1,8 +1,8 @@
 ---
 layout: page
-title: datenschutz
-category: datenschutz
-lang: de
+title: privacy
+category: privacy
+lang: en
 ---
 
 # Datenschutzerklärung

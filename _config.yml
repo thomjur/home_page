@@ -24,12 +24,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   digital/computational humanities. software engineering. digital publishing. 
 
 header_pages:
-  - index.markdown
+  - index.md
   - bio.md
   - services.md
   - projects.md
   - presentations.md
   - publications.md
+
+en:
+  header_pages:
+    - en/index.md
+    - en/bio.md
+    - en/services.md
+    - en/projects.md
+    - en/presentations.md
+    - en/publications.md
 
 #baseurl: /arelinco # the subpath of your site, e.g. /blog
 #url: https://www.ruhr-uni-bochum.de # the base hostname & protocol for your site, e.g. http://example.com

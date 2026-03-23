@@ -117,3 +117,8 @@ details summary:hover {
 p {
   font-family: 'IBM Plex Serif', serif;
 }
+
+a.inactive {
+  pointer-events: none;
+  cursor: default;
+}

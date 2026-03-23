@@ -3,7 +3,7 @@ title: info
 author: thomas jurczyk
 layout: page
 category: info
-lang: de
+lang: en
 ---
 <p class="text">Auf dieser Seite finden Sie <a href="#info">allgemeine Informationen</a> über mich sowie einen ausführlicheren <a href="#cv">Lebenslauf</a></p>
 
