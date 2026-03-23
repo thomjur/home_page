@@ -3,7 +3,7 @@ title: Data Science Introduction 2024
 author: thomas jurczyk
 layout: article
 exclude: true
-category: short_contributions
+category: blog
 ---
 
 <html lang="en">

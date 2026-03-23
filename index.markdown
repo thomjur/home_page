@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: start
-category: start
+title: home
+category: home
 ---
 
 <figure style="padding-bottom: 3%;">

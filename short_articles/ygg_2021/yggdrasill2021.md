@@ -3,7 +3,7 @@ title: Yggdrasill Jahresrückblick 2021
 author: thomas jurczyk
 layout: article
 exclude: true
-category: short_contributions
+category: blog
 ---
 
 <sub>**Aktueller Stand**: 15. Dezember 2021</sub>

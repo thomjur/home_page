@@ -1,8 +1,8 @@
 ---
-title: beiträge
+title: blog
 author: thomas jurczyk
 layout: page
-category: beiträge
+category: blog
 ---
 ## 2026
 ***

@@ -3,7 +3,7 @@ title: Yggdrasill Jahresrückblick 2025
 author: thomas jurczyk
 layout: article
 exclude: true
-category: short_contributions
+category: blog
 ---
 
 <sub>**Aktueller Stand**: 18. Dezember 2025</sub>
