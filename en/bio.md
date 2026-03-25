@@ -48,14 +48,14 @@ BA, Computer Science (Grade: 1.6)
 
 <p><strong>Ruhr University Bochum</strong>, September 2020<br>
 PhD: "The Notion of <em>surb</em> in Ancient Armenian Texts from the Fifth Century CE" (<em>summa cum laude</em>)</p>
-<ul class="text" style="list-style: none;">
+<ul class="text">
   <li>Supervisors: Professor Volkhard Krech and Professor Zara Pogossian</li>
 </ul>
 
 <p><strong>Ruhr University Bochum</strong>, March 2014<br>
 MA, History, Religious Studies (Grade: 1.0)
 </p>
-<ul class="text" style="list-style: none;">
+<ul class="text">
   <li>Focus: Ancient Religions and Religious Studies Theory</li>
   <li>Thesis: "Differentiation of 'Religion' and 'Politics' in Antiquity: The Example of Judea in the 2nd Century BCE"</li>
   <li>Supervisors: Professor Volkhard Krech and Professor Linda-Marie Günther</li>
@@ -64,7 +64,7 @@ MA, History, Religious Studies (Grade: 1.0)
 <p><strong>Ruhr University Bochum</strong>, March 2011<br>
 BA, History, Religious Studies (Grade: 1.0)
 </p>
-<ul class="text" style="list-style: none;">
+<ul class="text">
   <li>Focus: Ancient Religions and Religious Studies Theory</li>
   <li>Thesis: "The Religious Field in 5th Century BCE Athens"</li>
   <li>Supervisors: Professor Alexander-Kenneth Nagel and Jens Schlamelcher</li>

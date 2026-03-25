@@ -45,14 +45,14 @@ lang: de
 </ul>
 
 <p><strong>Ruhr-Universität Bochum</strong>, September 2020<br>Promotion: „The Notion of <em>surb</em> in Ancient Armenian Texts from the Fifth Century CE" (<em>summa cum laude</em>)</p>
-<ul class="text" style="list-style: none;">
+<ul class="text">
 <li>Betreuer:innen: Professor Volkhard Krech und Professor Zara Pogossian</li>
 </ul>
 
 <p><strong>Ruhr-Universität Bochum</strong>, März 2014<br>
 MA, Geschichte, Religionswissenschaft (Note: 1,0)
 </p>
-<ul class="text" style="list-style: none;">
+<ul class="text">
 <li>MA, Geschichte, Religionswissenschaft (Note: 1,0)</li>
 <li>Schwerpunkte: Antike Religionen und religionswissenschaftliche Theorie</li>
 <li>Abschlussarbeit: „Differenzierung von ‚Religion' und ‚Politik' in der Antike: Das Beispiel Judäa im 2. Jh. v.Chr."</li>
@@ -61,7 +61,7 @@ MA, Geschichte, Religionswissenschaft (Note: 1,0)
 
 <p><strong>Ruhr-Universität Bochum</strong>, März 2011<br>BA, Geschichte, Religionswissenschaft (Note: 1,0)
 </p>
-<ul class="text" style="list-style: none;">
+<ul class="text">
 <li>Schwerpunkte: Antike Religionen und religionswissenschaftliche Theorie</li>
 <li>Abschlussarbeit: „Das religiöse Feld im Athen des 5. Jh. v.Chr."</li>
 <li>Betreuer: Professor Alexander-Kenneth Nagel und Jens Schlamelcher</li>
