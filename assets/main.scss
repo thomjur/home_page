@@ -122,3 +122,27 @@ a.inactive {
   pointer-events: none;
   cursor: default;
 }
+
+.custom-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+.custom-list li {
+  padding-left: 30px;
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.custom-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+  fill: red;
+  background-image: url('/assets/icons/check.svg');
+  background-size: contain;
+}

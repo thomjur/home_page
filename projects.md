@@ -14,7 +14,7 @@ lang: de
 <p class="project-teaser-link text">
 	<a href="https://github.com/phimisci" target="_blank">
 		<span class=""> {% include icons/read_more_icon.svg %}
-			read more
+			Link zum MMM (extern)
 		</span>
 	</a>
 </p>
@@ -27,7 +27,7 @@ Entwickelt im Rahmen des Teilprojekts A01 des SFB 1475 „Metaphern der Religion
 <p class="project-teaser-link text">
 	<a href="https://tafsir.tjurczyk.de" target="_blank">
 		<span class=""> {% include icons/read_more_icon.svg %}
-			read more
+			Link zum Tafsir Corpus (extern)
 		</span>
 	</a>
 </p>
@@ -40,7 +40,7 @@ Entwickelt im Rahmen des Teilprojekts A01 des SFB 1475 „Metaphern der Religion
 <p class="project-teaser-link text">
 	<a href="https://trd.tjurczyk.de" target="_blank">
 		<span class=""> {% include icons/read_more_icon.svg %}
-			read more
+			Link zur Text Reuse Detection App (extern)
 		</span>
 	</a>
 </p>

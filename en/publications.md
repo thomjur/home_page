@@ -5,15 +5,15 @@ layout: page
 category: publications
 ---
 
-<p><strong>Weitere Information zu den Publikationen:</strong> <a href="https://orcid.org/0000-0002-5943-2305" target="_blank">ORCID Profil</a></p>
+<p><strong>More information about my publications:</strong> <a href="https://orcid.org/0000-0002-5943-2305" target="_blank">ORCID profile</a></p>
 
-<h1>Monographien</h1>
+<h1>Monographies</h1>
 <p>Jurczyk, Thomas. 2022. „The Notion of 'holy' in Ancient Armenian Texts from the Fifth Century CE: A Comparative Approach Using Digital Tools and Methods." <em>Digital Humanities Research</em> 5. Bielefeld: transcript. ISBN: 978-3-8376-6181-1</p>
 
-<h1>Herausgeberschaften</h1>
+<h1>Edited Volumes</h1>
 <p>Jurczyk, Thomas. 2023. „An/Iconism: On the Relations of Religion and Images." <em>Entangled Religions</em> 14 (5). <a href="https://doi.org/10.46586/er.14.5.2023">https://doi.org/10.46586/er.14.5.2023</a></p>
 
-<h1>Begutachtete Zeitschriftenartikel</h1>
+<h1>Peer-reviewed Journal Articles</h1>
 <p>Jurczyk, Thomas, Roman Seidel, Adrian Bernhard, Tatjana Scheffler und Johann Buessow. 2025. „Text Mining Tafsir: Compilation and Preliminary Explorations of a Curated Corpus of 80 Qurʾanic Commentaries." <em>Journal of Digital Islamicate Research</em> 3 (1): 97–167. <a href="https://doi.org/10.1163/27732363-bja00010">https://doi.org/10.1163/27732363-bja00010</a></p>
 
 <p>Jurczyk, Thomas. 2023. „The Meaning of <em>agalma</em>, <em>eidôlon</em>, and <em>eikôn</em> in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." <em>Entangled Religions</em> 14 (5). <a href="https://doi.org/10.46586/er.14.2023.10442">https://doi.org/10.46586/er.14.2023.10442</a></p>
@@ -24,12 +24,12 @@ category: publications
 
 <p>Jurczyk, Thomas. 2019. „Representation of transcendence: the Armenian letter 'On the image-fighters' from the seventh century CE." <em>Entangled Religions</em> 5: 95–153. <a href="https://er.ceres.rub.de/index.php/ER/article/view/7306">Link</a></p>
 
-<h1>Beiträge in Sammelbänden</h1>
+<h1>Contributions to Edited Volumes</h1>
 <p>Jurczyk, Thomas, Volkhard Krech, Martin Radermacher und Knut Martin Stünkel. 2023. „Introduction: On the Relations of Religion and Images." <em>Entangled Religions</em> 14 (5). <a href="https://doi.org/10.46586/er.14.2023.10446">https://doi.org/10.46586/er.14.2023.10446</a></p>
 
 <p>Jurczyk, Thomas. 2019. „Christliche Bilderkontroversen vor dem byzantinischen Bilderstreit." In <em>Bild Macht Religion</em>, herausgegeben von Martin Radermacher, Volkhard Krech (u.a.), 114–121. Bochum.</p>
 
-<h1>Weitere Publikationen</h1>
+<h1>Misc. Publications</h1>
 <p>Jurczyk, Thomas. 2025. „Data Science in the Humanities: An Introduction." <em>Medium.com</em>. <a href="https://medium.com/@ThomJur/data-science-in-the-humanities-a-practical-introduction-4a2fe9b392d4">Link</a></p>
 
 <p>Dinger, Patrick, Jan Horstmann, Caroline Jansky, Thomas Jurczyk und Timo Steyer. 2024. „Community statt Glaskugel: Euer Feedback zur Zukunft des digitalen Publizierens." <em>DHd-Blog</em>. <a href="https://dhd-blog.org/?p=21189">Link</a></p>

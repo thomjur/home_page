@@ -4,6 +4,7 @@ author: thomas jurczyk
 layout: article
 exclude: true
 category: blog
+lang: de
 ---
 
 <html lang="en">

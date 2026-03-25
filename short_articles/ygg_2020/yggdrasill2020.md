@@ -4,6 +4,7 @@ author: thomas jurczyk
 layout: article
 exclude: true
 category: blog
+lang: de
 ---
 
 <sub>**Aktueller Stand:** 26. Dezember 2020</sub>

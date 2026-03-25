@@ -6,113 +6,113 @@ category: services
 lang: en
 ---
 
-<p class="text">Hier finden Sie eine Übersicht über die von mir angebotenen Dienstleistungen in meiner Tätigkeit als IT-Dienstleister und Entwickler. Bitte beachten Sie, dass ich nur Angebote annehmen kann, die in keiner direkten Verbindung oder Konkurrenz zu meiner Haupttätigkeit als Research Software Engineer an der Ruhr-Universität Bochum stehen.</p>
+<p class="text">Here you will find an overview of the services I offer as an IT service provider and developer. Please note that I can only accept projects that are not in direct connection or competition with my main role as a Research Software Engineer at Ruhr-Universität Bochum.</p>
 
-<p class="text">Die von mir angebotenen Leistungen umfassen die folgenden Bereiche:</p>
-<ul class="text" style="list-style: none;">
-<li><a href="#beratung" class="internal-link">Beratung & Datenanalyse</a></li>
-<li><a href="#redaktion" class="internal-link">Redaktionsworkflows & -software</a></li>
-<li><a href="#web" class="internal-link">Webentwicklung</a></li>
-<li><a href="#ki" class="internal-link">Automatisierungs- & KI-Beratung</a></li>
+<p class="text">The services I offer cover the following areas:</p>
+<ul class="text" class="custom-list">
+<li><a href="#beratung" class="internal-link">Consulting & Data Analysis</a></li>
+<li><a href="#redaktion" class="internal-link">Editorial Workflows & Software</a></li>
+<li><a href="#web" class="internal-link">Web Development</a></li>
+<li><a href="#ki" class="internal-link">Automation & AI Consulting</a></li>
 </ul>
-<p class="text">Bei Rückfragen können Sie mich unter der folgenden E-Mail-Adresse erreichen: <a href="mailto:kontakt@tjurczyk.com">kontakt@tjurczyk.com</a></p>
+<p class="text">For any inquiries, you can reach me at the following email address: <a href="mailto:kontakt@tjurczyk.com">kontakt@tjurczyk.com</a></p>
 
-<h1 id="beratung">Beratung, Datenanalyse & Projektbegleitung</h1>
-<p class="text">Die Digital Humanities stellen Forschungsprojekte vor spezifische technische Herausforderungen: Welche Werkzeuge eignen sich für die Textanalyse meines Korpus? Wie strukturiere ich heterogene Forschungsdaten nachhaltig? Welche statistischen oder maschinellen Lernverfahren sind für meine Fragestellung geeignet – und wie interpretiere ich die Ergebnisse im geisteswissenschaftlichen Kontext? <br><br>
+<h1 id="beratung">Consulting, Data Analysis & Project Support</h1>
+<p class="text">Digital Humanities projects face specific technical challenges: Which tools are suitable for analyzing my corpus? How can I structure heterogeneous research data sustainably? Which statistical or machine learning methods are appropriate for my research question—and how do I interpret the results in a humanities context?<br><br>
 
-Mit einer doppelten Qualifikation in Informatik und den Geisteswissenschaften berate und begleite ich Projekte an der Schnittstelle beider Disziplinen – auf Basis eigener Forschungspraxis.</p>
+With a dual qualification in computer science and the humanities, I advise and support projects at the intersection of both disciplines—based on my own research practice.</p>
 
 <details class="text" name="services">
-<summary>Mehr lesen</summary>
+<summary>Read more</summary>
 <div>
 
-<p>Als Research Software Engineer im DFG-Sonderforschungsbereich 1475 „Metaphern der Religion" (Ruhr-Universität Bochum) habe ich Forschungssoftware für textanalytische Fragestellungen entwickelt und eingesetzt. Am Dr. Eberle Zentrum für digitale Kompetenzen der Universität Tübingen habe ich Studierende und Promovierende in angewandter Programmierung und Data Science ausgebildet. Darüber hinaus habe ich alleine und gemeinsam mit anderen mehrere Artikel zu DH-bezogenen Themen publiziert.</p>
-<p>Forschungsprojekte verfügen häufig über umfangreiche Datenbestände, deren Potenzial noch nicht vollständig ausgeschöpft ist – sei es ein historisches Textkorpus, eine Umfragedatenbank oder ein bibliometrischer Datensatz. Ich unterstütze bei der systematischen Analyse solcher Daten: von der ersten explorativen Sichtung bis zur Anwendung maschineller Lernverfahren, stets mit Blick auf die geisteswissenschaftliche Forschungslogik und die Nachvollziehbarkeit der Ergebnisse.</p>
+<p>As a Research Software Engineer in the DFG Collaborative Research Center 1475 “Metaphors of Religion” (Ruhr-Universität Bochum), I have developed and applied research software for text-analytical questions. At the Dr. Eberle Center for Digital Competencies at the University of Tübingen, I have trained students and doctoral researchers in applied programming and data science. Additionally, I have published several articles on DH-related topics, both independently and collaboratively.</p>
+<p>Research projects often have extensive datasets whose potential has not yet been fully exploited—whether a historical text corpus, a survey database, or a bibliometric dataset. I assist in the systematic analysis of such data: from initial exploratory review to the application of machine learning methods, always with a focus on humanities research logic and the traceability of results.</p>
 
-<p><b>Schwerpunkte</b></p>
+<p><b>Areas of Focus</b></p>
 <ul>
-  <li>Textanalyse und -aufbereitung (NLP-Methoden, Korpusanalyse, Topic Modeling, Named Entity Recognition)</li>
-  <li>Explorative Datenanalyse (EDA), Visualisierung und Datenbereinigung</li>
-  <li>Maschinelles Lernen: Klassifikation, Clustering, Regression</li>
-  <li>Datenvorbereitung, -modellierung und -speicherung</li>
-  <li>Einsatz und Evaluation von KI- und ML-Verfahren im Forschungskontext</li>
-  <li>Abwägung zwischen Standardlösungen und individueller Softwareentwicklung</li>
+  <li>Text analysis and preparation (NLP methods, corpus analysis, topic modeling, named entity recognition)</li>
+  <li>Exploratory data analysis (EDA), visualization, and data cleaning</li>
+  <li>Machine learning: classification, clustering, regression</li>
+  <li>Data preparation, modeling, and storage</li>
+  <li>Application and evaluation of AI and ML methods in research contexts</li>
+  <li>Assessment of standard solutions versus custom software development</li>
 </ul>
-<p><b>Leistungsumfang</b></p>
+<p><b>Scope of Services</b></p>
 <ul>
-  <li>Beratung zur Methoden- und Toolwahl sowie Projektplanung</li>
-  <li>Durchführung von Analysen als einmaliges Projekt oder kontinuierliche Begleitung</li>
-  <li>Aufbereitung und Dokumentation der Ergebnisse in nachvollziehbarer Form</li>
-  <li>Übergabe von reproduzierbarem, dokumentiertem Code</li>
-  <li>Konzeption und Begleitung von DH-Projekten von der Planungsphase bis zur Umsetzung</li>
+  <li>Consulting on method and tool selection, as well as project planning</li>
+  <li>Conducting analyses as a one-time project or ongoing support</li>
+  <li>Preparation and documentation of results in a traceable format</li>
+  <li>Handover of reproducible, documented code</li>
+  <li>Conceptualization and support for DH projects from planning to implementation</li>
 </ul>
 </div>
 </details>
 
-<h1 id="redaktion">Automatisierung von Redaktionsworkflows</h1>
-<p class="text">Die Aufbereitung und Publikation wissenschaftlicher Texte ist in vielen Redaktionen noch immer mit erheblichem manuellem Aufwand verbunden – von der Formatierung eingereichter Manuskripte über den Satz bis zur Bereitstellung in mehreren Ausgabeformaten. Ich entwickle und implementiere Lösungen, die diesen Prozess systematisch automatisieren und dabei den spezifischen Anforderungen wissenschaftlicher Publikationsstandards gerecht werden.</p>
+<h1 id="redaktion">Automation of Editorial Workflows</h1>
+<p class="text">The preparation and publication of academic texts still involve significant manual effort in many editorial offices—from formatting submitted manuscripts to typesetting and providing output in multiple formats. I develop and implement solutions that systematically automate this process while meeting the specific requirements of academic publishing standards.</p>
 
 <details class="text" name="services">
-<summary>Mehr lesen</summary>
+<summary>Read more</summary>
 <div>
 
-<p>Grundlage meiner Arbeit in diesem Bereich ist die Praxis: Ich habe als Entwickler und Mitarbeiter für die Zeitschriften <em>Engangled Religions</em> und <em>Philosophy and the Mind Sciences</em> (PhiMiSci) gearbeitet und die Redaktionsabläufe beider Publikationen aus erster Hand kennengelernt. Als Hauptentwickler des <em>Magic Manuscript Maker</em> habe ich eine produktiv eingesetzte Lösung entwickelt, die auf einem Markdown-basierten Single-Source-Publishing-Ansatz (SSP) basiert – Manuskripte werden einmalig erfasst und automatisiert in mehrere Ausgabeformate überführt.</p>
+<p>The foundation of my work in this area is hands-on experience: I have worked as a developer and team member for the journals <em>Entangled Religions</em> and <em>Philosophy and the Mind Sciences</em> (PhiMiSci), gaining firsthand knowledge of their editorial processes. As the lead developer of the <em>Magic Manuscript Maker</em>, I created a productively used solution based on a Markdown single-source publishing (SSP) approach—manuscripts are captured once and automatically converted into multiple output formats.</p>
 
-<p><b>Technologien & Erfahrungen</b></p>
+<p><b>Technologies & Experience</b></p>
 <ul>
-  <li>Single-Source-Publishing mit Markdown und Pandoc</li>
-  <li>Open Journal Systems (OJS) – Einrichtung, Anpassung und Workflow-Integration</li>
-  <li>Automatisierte Konvertierung in gängige Publikationsformate (HTML, PDF, XML/JATS u. a.)</li>
-  <li>Redaktionelle Praxis in akademischen Zeitschriftenprojekten</li>
+  <li>Single-source publishing with Markdown and Pandoc</li>
+  <li>Open Journal Systems (OJS)—setup, customization, and workflow integration</li>
+  <li>Automated conversion to common publication formats (HTML, PDF, XML/JATS, etc.)</li>
+  <li>Editorial practice in academic journal projects</li>
 </ul>
-<p><b>Leistungsumfang</b></p>
+<p><b>Scope of Services</b></p>
 <ul>
-  <li>Analyse und Optimierung bestehender Redaktionsworkflows</li>
-  <li>Entwicklung und Implementierung automatisierter Publikationspipelines</li>
-  <li>Einrichtung und Anpassung von OJS-Instanzen</li>
-  <li>Schulung redaktioneller Teams im Umgang mit neuen Systemen</li>
+  <li>Analysis and optimization of existing editorial workflows</li>
+  <li>Development and implementation of automated publication pipelines</li>
+  <li>Setup and customization of OJS instances</li>
+  <li>Training editorial teams in using new systems</li>
 </ul>
 </div>
 </details>
 
-<h1 id="web">Webentwicklung & Webhosting</h1>
-<p class="text">Eine professionelle digitale Präsenz ist heute für Forschungsprojekte, Institutionen und Verlage gleichermaßen unverzichtbar – ob als Projektwebsite, Publikationsplattform oder digitale Ausstellung. Ich entwickle maßgeschneiderte Weblösungen, die sich an den konkreten Anforderungen und dem Budget des jeweiligen Projekts orientieren.<br><br>
-Je nach Umfang und Anforderung kommen dabei unterschiedliche Ansätze zum Einsatz: Für inhaltsschwere, interaktive Anwendungen setze ich auf moderne Frameworks wie Svelte oder WordPress; für schlanke, schnelle und wartungsarme Auftritte bieten sich statische Lösungen mit Jekyll oder Hugo an – besonders geeignet für Projektwebsites mit überschaubarem Pflegeaufwand.</p>
+<h1 id="web">Web Development & Web Hosting</h1>
+<p class="text">A professional digital presence is essential for research projects, institutions, and publishers alike—whether as a project website, publication platform, or digital exhibition. I develop tailored web solutions that align with the specific requirements and budget of each project.<br><br>
+Depending on the scope and needs, different approaches are used: For content-rich, interactive applications, I rely on modern frameworks like Svelte or WordPress; for lean, fast, and low-maintenance sites, static solutions with Jekyll or Hugo are ideal—especially suitable for project websites with minimal upkeep.</p>
+
 <details class="text" name="services">
-<summary>Mehr lesen</summary>
+<summary>Read more</summary>
 <div>
 
-<p>Individuelle Lösungen hoste ich auf eigener, dedizierter Infrastruktur (Hetzner). Alle gehosteten Projekte laufen auf europäischer Serverinfrastruktur und sind damit DSGVO-konform – was kurze Abstimmungswege und eine zuverlässige, langfristige Betreuung ermöglicht.</p>
+<p>I host custom solutions on my own dedicated infrastructure (Hetzner). All hosted projects run on European server infrastructure, ensuring GDPR compliance—enabling short communication channels and reliable, long-term support.</p>
 
-<p><b>Leistungsumfang</b></p>
-<ul>
-  <li>Konzeption und Entwicklung dynamischer Webanwendungen (Svelte, WordPress)</li>
-  <li>Erstellung statischer Websites (Jekyll, Hugo) – performant, sicher und einfach zu pflegen</li>
-  <li>Langfristige technische Betreuung und Wartung (bei Bedarf)</li>
-  <li>Hosting auf dedizierter, europäischer Serverinfrastruktur (DSGVO-konform)</li>
+<p><b>Scope of Services</b></p>
+<ul >
+  <li>Concept and development of dynamic web applications (Svelte, WordPress)</li>
+  <li>Creation of static websites (Jekyll, Hugo)—performant, secure, and easy to maintain</li>
+  <li>Long-term technical support and maintenance (if required)</li>
+  <li>Hosting on dedicated European server infrastructure (GDPR-compliant)</li>
 </ul>
 </div>
 </details>
 
-<h1 id="ki">Integration von KI und Large Language Models</h1>
-<p class="text">Large Language Models (LLMs) bieten im Bereich der Textverarbeitung erhebliche Potenziale – sie eignen sich jedoch nicht für jeden Anwendungsfall gleichermaßen. Ob und wie KI-gestützte Verfahren sinnvoll in bestehende Arbeitsabläufe integriert werden können, hängt von den konkreten Anforderungen, dem verfügbaren Datenmaterial und den Qualitätsansprüchen des jeweiligen Vorhabens ab.</p>
+<h1 id="ki">Integration of AI and Large Language Models</h1>
+<p class="text">Large Language Models (LLMs) offer significant potential in text processing—but they are not equally suitable for every use case. Whether and how AI-based methods can be meaningfully integrated into existing workflows depends on the specific requirements, available data, and quality standards of the project.</p>
 
 <details class="text" name="services">
-<summary>Mehr lesen</summary>
+<summary>Read more</summary>
 <div>
 
-<p>Dabei ist die Wahl des Modells keine Nebensache. Für viele Institutionen – insbesondere im öffentlichen und akademischen Bereich – sind datenschutzrechtliche Anforderungen und digitale Souveränität entscheidende Kriterien. Ich beziehe daher explizit lokale Lösungen (d. h. Modelle, die auf eigener Infrastruktur betrieben werden) sowie europäische Alternativen wie Mistral in die Beratung ein – als gleichwertige Optionen neben den bekannten US-amerikanischen Anbietern.</p>
+<p>The choice of model is not a trivial matter. For many institutions—especially in the public and academic sectors—data protection requirements and digital sovereignty are critical criteria. Therefore, I explicitly include local solutions (i.e., models running on your own infrastructure) and European alternatives like Mistral in my consulting—as equally valid options alongside well-known US providers.</p>
 
-<p><b>Typische Anwendungsfelder</b></p>
+<p><b>Typical Applications</b></p>
 <ul>
-  <li>Automatisierung und Unterstützung bestehender Prozesse (z. B. Textzusammenfassung, Klassifikation, Strukturerkennung, automatisierte Übersetzungen)</li>
-  <li>Textanalyse und -annotation in Forschungskontexten (z. B. semantische Auszeichnung, Mustererkennung in großen Korpora)</li>
+  <li>Automation and support for existing processes (e.g., text summarization, classification, structure recognition, automated translation)</li>
+  <li>Text analysis and annotation in research contexts (e.g., semantic markup, pattern recognition in large corpora)</li>
 </ul>
-<p><b>Leistungsumfang</b></p>
+<p><b>Scope of Services</b></p>
 <ul>
-  <li>Machbarkeitsanalyse: Ist LLM-Einsatz für Ihr Vorhaben sinnvoll – und wenn ja, in welcher Form und mit welchem Modell?</li>
-  <li>Implementierung: Entwicklung und Integration maßgeschneiderter LLM-basierter Lösungen in bestehende Systeme und Workflows – wahlweise cloudbasiert, europäisch gehostet oder vollständig lokal</li>
+  <li>Feasibility analysis: Is LLM deployment suitable for your project—and if so, in what form and with which model?</li>
+  <li>Implementation: Development and integration of custom LLM-based solutions into existing systems and workflows—optionally cloud-based, hosted in Europe, or fully local</li>
 </ul>
 </div>
 </details>
-

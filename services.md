@@ -9,7 +9,7 @@ lang: de
 <p class="text">Hier finden Sie eine Übersicht über die von mir angebotenen Dienstleistungen in meiner Tätigkeit als IT-Dienstleister und Entwickler. Bitte beachten Sie, dass ich nur Angebote annehmen kann, die in keiner direkten Verbindung oder Konkurrenz zu meiner Haupttätigkeit als Research Software Engineer an der Ruhr-Universität Bochum stehen.</p>
 
 <p class="text">Die von mir angebotenen Leistungen umfassen die folgenden Bereiche:</p>
-<ul class="text" style="list-style: none;">
+<ul class="text" class="custom-list">
 <li><a href="#beratung" class="internal-link">Beratung & Datenanalyse</a></li>
 <li><a href="#redaktion" class="internal-link">Redaktionsworkflows & -software</a></li>
 <li><a href="#web" class="internal-link">Webentwicklung</a></li>

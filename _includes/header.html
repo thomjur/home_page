@@ -39,16 +39,16 @@
         {%- endif -%}
         {%- endfor -%}
         {% if page.lang == 'de' %}
-        <span>
+        <span style="margin-right: 1em;">
           <a href="{{ page.url | relative_url }}" class="inactive">DE</a> |
           <a href="{{ page.url | prepend: '/en' | relative_url }}" style="opacity: 0.5;">EN</a>
         </span>
         {% else %}
-        <span>
+        <span style="margin-right: 1em;">
           <a href="{{ page.url | remove_first: '/en' | relative_url }}" style="opacity: 0.5;">DE</a> |
           <a href="{{ page.url | relative_url }}" class="inactive">EN</a>
         </span>
-      {% endif %}
+        {% endif %}
       </div>
     </nav>
     {%- endif -%}
