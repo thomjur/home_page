@@ -5,7 +5,7 @@ layout: page
 category: info
 lang: de
 ---
-<p class="text">Auf dieser Seite finden Sie <a href="#info">allgemeine Informationen</a> über mich sowie einen ausführlicheren <a href="#cv">Lebenslauf</a></p>
+<p class="text">Auf dieser Seite finden Sie <a href="#info">allgemeine Informationen</a> über mich sowie einen <a href="#cv">Lebenslauf</a>.</p>
 
 <h1 id="info">Über mich</h1>
 <p>Ich bin Informatiker, Historiker und Religionswissenschaftler und arbeite seit mehreren Jahren an der Schnittstelle von Software Engineering und Digital Humanities. Derzeit bin ich als Research Software Engineer im DFG-Sonderforschungsbereich 1475 „Metaphern der Religion" an der Ruhr-Universität Bochum tätig, wo ich projektspezifische Softwarelösungen für textanalytische und datenwissenschaftliche Fragestellungen entwickle.</p>
@@ -24,7 +24,7 @@ lang: de
   Bochum, Deutschland<br>
   E-Mail: <a href="mailto:kontakt@tjurczyk.com">kontakt@tjurczyk.com</a><br>
   Website: <a href="https://website.tjurczyk.de/">https://website.tjurczyk.de/</a><br>
-  ORCID<a href="https://orcid.org/0000-0002-5943-2305">0000-0002-5943-2305</a>
+  ORCID: <a href="https://orcid.org/0000-0002-5943-2305">0000-0002-5943-2305</a>
 </p>
 
 <h2>Ausbildung</h2>
@@ -93,7 +93,7 @@ Wissenschaftlicher Mitarbeiter, THERE-Projekt</p>
 Geschäftsführender Redakteur von <em>Entangled Religions</em> (Wissenschaftlicher Mitarbeiter)</p>
 
 <p><strong>Ruhr-Universität Bochum, CERES</strong>, Oktober 2020 bis September 2021<br>
-Projektleiter, Lehr-Lern-Projekt ARELINCO („Ancient Religions in Contact"), gefördert durch inStudies</p>
+Projektleiter, Lehrforschungsprojekt ARELINCO („Ancient Religions in Contact"), gefördert durch inStudies</p>
 
 <p><strong>Ruhr-Universität Bochum, CERES</strong>, Oktober 2014 bis März 2023<br>
 Wissenschaftlicher Mitarbeiter</p>

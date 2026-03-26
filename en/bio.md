@@ -5,7 +5,7 @@ layout: page
 category: info
 lang: en
 ---
-<p class="text">On this page you will find <a href="#info">general information</a> about me and a more detailed <a href="#cv">curriculum vitae (CV)</a>.</p>
+<p class="text">On this page you will find <a href="#info">general information</a> about me and a <a href="#cv">curriculum vitae (CV)</a>.</p>
 
 <h1 id="info">About me</h1>
 <p>I am a computer scientist, historian, and religious studies scholar, and have been working at the intersection of software engineering and digital humanities for several years. Currently, I work as a Research Software Engineer in the DFG Collaborative Research Center 1475 “Metaphors of Religion” at Ruhr University Bochum, where I develop project-specific software solutions for text-analytical and data science challenges.</p>
