@@ -17,7 +17,7 @@ category: publications
 <p>Jurczyk, Thomas, Johann Buessow, and Roman Seidel. 2026. „Applying Text Reuse Detection to Trace Intertextuality in Tafsir Texts“. Zeitschrift Für Digitale Geisteswissenschaften 11. <a href="https://doi.org/10.17175/2026_015">https://doi.org/10.17175/2026_015</a>.
 </p>
 
-<p>Jurczyk, Thomas, Roman Seidel, Adrian Bernhard, Tatjana Scheffler und Johann Buessow. 2025. „Text Mining Tafsir: Compilation and Preliminary Explorations of a Curated Corpus of 80 Qurʾanic Commentaries." <em>Journal of Digital Islamicate Research</em> 3 (1): 97–167. <a href="https://doi.org/10.1163/27732363-bja00010">https://doi.org/10.1163/27732363-bja00010</a></p>
+<p>Jurczyk, Thomas, Roman Seidel, Adrian Bernhard, Tatjana Scheffler and Johann Buessow. 2025. „Text Mining Tafsir: Compilation and Preliminary Explorations of a Curated Corpus of 80 Qurʾanic Commentaries." <em>Journal of Digital Islamicate Research</em> 3 (1): 97–167. <a href="https://doi.org/10.1163/27732363-bja00010">https://doi.org/10.1163/27732363-bja00010</a></p>
 
 <p>Jurczyk, Thomas. 2023. „The Meaning of <em>agalma</em>, <em>eidôlon</em>, and <em>eikôn</em> in Ancient Greek Texts: A Quantitative Approach Using Computer-Driven Methods and Tools." <em>Entangled Religions</em> 14 (5). <a href="https://doi.org/10.46586/er.14.2023.10442">https://doi.org/10.46586/er.14.2023.10442</a></p>
 
